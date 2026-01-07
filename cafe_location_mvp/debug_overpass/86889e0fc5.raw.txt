@@ -1,0 +1,8032 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-06T16:09:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 533826908,
+  "lat": 53.4527827,
+  "lon": -2.2679870,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Whalley Range, Upper Chorlton Road / near Wood Road",
+    "naptan:AtcoCode": "1800SB30101",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Upper Chorlton Road/Wood Road",
+    "naptan:Indicator": "Housing Assc",
+    "naptan:Landmark": "FLATS",
+    "naptan:NaptanCode": "mangtjwa",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Wood Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533826912,
+  "lat": 53.4514565,
+  "lon": -2.2701471,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Upper Chorlton Road / near College Road",
+    "naptan:AtcoCode": "1800SB30111",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Upper Chorlton Road/College Road",
+    "naptan:Indicator": "Royal Corp Tran",
+    "naptan:Landmark": "T.A.",
+    "naptan:NaptanCode": "mangtjwd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "College Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841316,
+  "lat": 53.4532151,
+  "lon": -2.2675982,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Whalley Range, Upper Chorlton Road / opposite Wood Road",
+    "naptan:AtcoCode": "1800SJ30091",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Upper Chorlton Road/Wood Road",
+    "naptan:Indicator": "Fontwell Close",
+    "naptan:Landmark": "FLATS",
+    "naptan:NaptanCode": "manjtdpj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Wood Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841317,
+  "lat": 53.4516453,
+  "lon": -2.2701483,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Upper Chorlton Road / opposite College Road",
+    "naptan:AtcoCode": "1800SJ30121",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Upper Chorlton Road/College Road",
+    "naptan:Indicator": "Opp Mcguire Mot",
+    "naptan:Landmark": "HOUSE 226",
+    "naptan:NaptanCode": "manjtdpm",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "College Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841319,
+  "lat": 53.4523126,
+  "lon": -2.2731643,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "C",
+    "name": "Seymour Grove/Memorial Hospital",
+    "naptan:AtcoCode": "1800SJ30151",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Seymour Grove/Memorial Hospital",
+    "naptan:Indicator": "Opp Stret Hosp",
+    "naptan:Landmark": "HOSPITAL",
+    "naptan:NaptanCode": "manjtdpt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Memorial Hospital",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841320,
+  "lat": 53.4527435,
+  "lon": -2.2734230,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "D",
+    "name": "Seymour Grove/Memorial Hospital",
+    "naptan:AtcoCode": "1800SJ30161",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Seymour Grove/Memorial Hospital",
+    "naptan:Indicator": "Stret Mem Hosp",
+    "naptan:Landmark": "HOSPITAL",
+    "naptan:NaptanCode": "manjtdpw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Memorial Hospital",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841321,
+  "lat": 53.4544327,
+  "lon": -2.2736899,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Kings Road",
+    "naptan:AtcoCode": "1800SJ30171",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Seymour Grove/Kings Road",
+    "naptan:Indicator": "House 217",
+    "naptan:Landmark": "HOUSE 217",
+    "naptan:NaptanCode": "manjtdta",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Kings Road",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533826905,
+  "lat": 53.4542081,
+  "lon": -2.2656769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Upper Chorlton Road / near Sylvan Avenue",
+    "naptan:AtcoCode": "1800SB30071",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Upper Chorlton Road/Sylvan Avenue",
+    "naptan:Indicator": "School",
+    "naptan:Landmark": "SCHOOL",
+    "naptan:NaptanCode": "mangtjtw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Sylvan Avenue",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255687088,
+  "lat": 53.4519171,
+  "lon": -2.2575739,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 533824292,
+  "lat": 53.4539872,
+  "lon": -2.2557062,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yarburgh St/Withington Road",
+    "naptan:AtcoCode": "1800SB31891",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Yarburgh St/Withington Road",
+    "naptan:Indicator": "Opp House 46",
+    "naptan:Landmark": "OPP HOUSE 46",
+    "naptan:NaptanCode": "mangtwdp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Withington Road",
+    "naptan:Street": "YARBURGH STREET",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533826101,
+  "lat": 53.4537315,
+  "lon": -2.2575570,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Withington Road/Yarburgh Street",
+    "naptan:AtcoCode": "1800SB14501",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Withington Road/Yarburgh Street",
+    "naptan:Indicator": "Victoria Wine",
+    "naptan:Landmark": "TESCO EXPRESS",
+    "naptan:NaptanCode": "mangtapw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Yarburgh Street",
+    "naptan:Street": "WITHINGTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533828684,
+  "lat": 53.4525273,
+  "lon": -2.2574142,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Withington Road/Range Road",
+    "naptan:AtcoCode": "1800SB31111",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Withington Road/Range Road",
+    "naptan:Indicator": "Garage",
+    "naptan:Landmark": "MOSQUE",
+    "naptan:NaptanCode": "mangtmwa",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Range Road",
+    "naptan:Street": "WITHINGTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 3706613926,
+  "lat": 53.4517330,
+  "lon": -2.2572710,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "capacity": "3",
+    "covered": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5937117905,
+  "lat": 53.4530579,
+  "lon": -2.2574303,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing_ref": "pelican",
+    "highway": "crossing",
+    "kerb": "lowered",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8835279913,
+  "lat": 53.4530536,
+  "lon": -2.2573041,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533835342,
+  "lat": 53.4547737,
+  "lon": -2.2745477,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Seymour Grove",
+    "naptan:AtcoCode": "1800SJ32551",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Kings Road/Seymour Grove",
+    "naptan:Indicator": "House 151",
+    "naptan:Landmark": "HOUSE 151",
+    "naptan:NaptanCode": "manjtgtp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Seymour Grove",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841322,
+  "lat": 53.4553214,
+  "lon": -2.2742076,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Kings Road",
+    "naptan:AtcoCode": "1800SJ30181",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Seymour Grove/Kings Road",
+    "naptan:Indicator": "House 134",
+    "naptan:Landmark": "HOUSE 134",
+    "naptan:NaptanCode": "manjtdtd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Kings Road",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841324,
+  "lat": 53.4568846,
+  "lon": -2.2745942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Ayres Road",
+    "naptan:AtcoCode": "1800SJ30191",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Seymour Grove/Ayres Road",
+    "naptan:Indicator": "O/s House 171",
+    "naptan:Landmark": "HOUSE 171",
+    "naptan:NaptanCode": "manjtdtg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Ayres Road",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841327,
+  "lat": 53.4578451,
+  "lon": -2.2751576,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Ayres Road",
+    "naptan:AtcoCode": "1800SJ30201",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Seymour Grove/Ayres Road",
+    "naptan:Indicator": "House 88",
+    "naptan:Landmark": "HOUSE 88",
+    "naptan:NaptanCode": "manjtdtj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Ayres Road",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841336,
+  "lat": 53.4601015,
+  "lon": -2.2759917,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Paragon House",
+    "naptan:AtcoCode": "1800SJ30221",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Seymour Grove/Paragon House",
+    "naptan:Indicator": "Paragon House",
+    "naptan:Landmark": "PARAGON HOUSE",
+    "naptan:NaptanCode": "manjtdtp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Paragon House",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841341,
+  "lat": 53.4593095,
+  "lon": -2.2754985,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Seymour Grove/Trafford Plaza",
+    "naptan:AtcoCode": "1800SJ30231",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Seymour Grove/Trafford Plaza",
+    "naptan:Indicator": "Ashburner House",
+    "naptan:Landmark": "TRAFFORD PLAZA",
+    "naptan:NaptanCode": "manjtdtw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Trafford Plaza",
+    "naptan:Street": "SEYMOUR GROVE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835175,
+  "lat": 53.4556540,
+  "lon": -2.2696122,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Wood Road North",
+    "naptan:AtcoCode": "1800SJ32021",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Kings Road/Wood Road North",
+    "naptan:Indicator": "House 90",
+    "naptan:Landmark": "HOUSE 90",
+    "naptan:NaptanCode": "manjtgdg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Wood Road North",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835178,
+  "lat": 53.4554338,
+  "lon": -2.2701120,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Wood Road North",
+    "naptan:AtcoCode": "1800SJ32031",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Kings Road/Wood Road North",
+    "naptan:Indicator": "House 95",
+    "naptan:Landmark": "HOUSE 95",
+    "naptan:NaptanCode": "manjtgdj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Wood Road North",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835184,
+  "lat": 53.4552444,
+  "lon": -2.2722777,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Seymour Grove",
+    "naptan:AtcoCode": "1800SJ32041",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Kings Road/Seymour Grove",
+    "naptan:Indicator": "House 130",
+    "naptan:Landmark": "HOUSE 130",
+    "naptan:NaptanCode": "manjtgdm",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Seymour Grove",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "no",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 9655508549,
+  "lat": 53.4595845,
+  "lon": -2.2722673,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533835121,
+  "lat": 53.4636689,
+  "lon": -2.2716652,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Chester Road/Nuttall Street",
+    "naptan:AtcoCode": "1800SJ30261",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Chester Road/Nuttall Street",
+    "naptan:Indicator": "Nr Garage",
+    "naptan:Landmark": "Car Park",
+    "naptan:NaptanCode": "manjtdwg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Nuttall Street",
+    "naptan:Street": "CHESTER ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "84;255;256;264;256_NB",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533835142,
+  "lat": 53.4629554,
+  "lon": -2.2719490,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Old Trafford, Stretford Road / near Henry Street",
+    "naptan:AtcoCode": "1800SJ30461",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Stretford Road/Henry Street",
+    "naptan:Indicator": "Opp West Point",
+    "naptan:Landmark": "CAR Park",
+    "naptan:NaptanCode": "manjtgag",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Henry Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;54;250;263;290;291",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 533835143,
+  "lat": 53.4631649,
+  "lon": -2.2713817,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Old Trafford, Stretford Road / opposite Henry Street",
+    "naptan:AtcoCode": "1800SJ30471",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Stretford Road/Henry Street",
+    "naptan:Indicator": "Multistorey Cp",
+    "naptan:Landmark": "CAR Park",
+    "naptan:NaptanCode": "manjtgaj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Henry Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;250;253;263;290;291",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 533841350,
+  "lat": 53.4639028,
+  "lon": -2.2715366,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chester Road/Nuttall Street",
+    "naptan:AtcoCode": "1800SJ30251",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Chester Road/Nuttall Street",
+    "naptan:Indicator": "Kwik-fit",
+    "naptan:Landmark": "Industrial Units",
+    "naptan:NaptanCode": "manjtdwd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Nuttall Street",
+    "naptan:Street": "CHESTER ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 4429742400,
+  "lat": 53.4629298,
+  "lon": -2.2733329,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "no",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5499780232,
+  "lat": 53.4627099,
+  "lon": -2.2735201,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5499780242,
+  "lat": 53.4629500,
+  "lon": -2.2734496,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "no",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5771413944,
+  "lat": 53.4631917,
+  "lon": -2.2709338,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5837224027,
+  "lat": 53.4627883,
+  "lon": -2.2733704,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5846484115,
+  "lat": 53.4626139,
+  "lon": -2.2736925,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "yes",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139475197,
+  "lat": 53.4641196,
+  "lon": -2.2706354,
+  "tags": {
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "crossing:signals": "no",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6139475237,
+  "lat": 53.4646721,
+  "lon": -2.2693734,
+  "tags": {
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "crossing:signals": "no",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6345919644,
+  "lat": 53.4628843,
+  "lon": -2.2733895,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6345919648,
+  "lat": 53.4628402,
+  "lon": -2.2733147,
+  "tags": {
+    "crossing": "marked",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6345919649,
+  "lat": 53.4629275,
+  "lon": -2.2734942,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6381634059,
+  "lat": 53.4630005,
+  "lon": -2.2734365,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "yes",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10742375456,
+  "lat": 53.4645012,
+  "lon": -2.2699783,
+  "tags": {
+    "crossing": "zebra",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 533826901,
+  "lat": 53.4567521,
+  "lon": -2.2615361,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Upper Chorlton Road / opposite Kings Road",
+    "naptan:AtcoCode": "1800SB30031",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Upper Chorlton Road/Kings Road",
+    "naptan:Indicator": "Opp Kings Road",
+    "naptan:Landmark": "OPP KINGS ROAD",
+    "naptan:NaptanCode": "mangtjtp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Kings Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533835165,
+  "lat": 53.4559652,
+  "lon": -2.2669598,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Kings Road/St John's Road",
+    "naptan:AtcoCode": "1800SJ32001",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Kings Road/St John's Road",
+    "naptan:Indicator": "House 55",
+    "naptan:Landmark": "HOUSE 55",
+    "naptan:NaptanCode": "manjtgaw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "St John's Road",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533835169,
+  "lat": 53.4561316,
+  "lon": -2.2666103,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Kings Road/St John's Road",
+    "naptan:AtcoCode": "1800SJ32011",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Kings Road/St John's Road",
+    "naptan:Indicator": "House 60",
+    "naptan:Landmark": "HOUSE 60",
+    "naptan:NaptanCode": "manjtgda",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "St John's Road",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841311,
+  "lat": 53.4565913,
+  "lon": -2.2620984,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Upper Chorlton Road / near Kings Road",
+    "naptan:AtcoCode": "1800SJ30041",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Upper Chorlton Road/Kings Road",
+    "naptan:Indicator": "Opp Hilden Crt",
+    "naptan:Landmark": "HOUSE 46",
+    "naptan:NaptanCode": "manjtdmw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Kings Road",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841313,
+  "lat": 53.4567127,
+  "lon": -2.2626988,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Upper Chorlton Road",
+    "naptan:AtcoCode": "1800SJ30051",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Kings Road/Upper Chorlton Road",
+    "naptan:Indicator": "House 1",
+    "naptan:Landmark": "HOUSE 1",
+    "naptan:NaptanCode": "manjtdpa",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Upper Chorlton Rd",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841314,
+  "lat": 53.4568565,
+  "lon": -2.2625377,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kings Road/Upper Chorlton Road",
+    "naptan:AtcoCode": "1800SJ30061",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Kings Road/Upper Chorlton Road",
+    "naptan:Indicator": "Post Office",
+    "naptan:Landmark": "TA CENTRE",
+    "naptan:NaptanCode": "manjtdpd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Upper Chorlton Rd",
+    "naptan:Street": "KINGS ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533841315,
+  "lat": 53.4547306,
+  "lon": -2.2651530,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Whalley Range, Upper Chorlton Road / opposite Sylvan Avenue",
+    "naptan:AtcoCode": "1800SJ30081",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Upper Chorlton Road/Sylvan Avenue",
+    "naptan:Indicator": "Ollerton House",
+    "naptan:Landmark": "OAKLEA",
+    "naptan:NaptanCode": "manjtdpg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Sylvan Avenue",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 533826002,
+  "lat": 53.4594517,
+  "lon": -2.2564175,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brooks Bar, Moss Lane West / near Chorlton Road",
+    "naptan:AtcoCode": "1800SB14271",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Moss Lane West/Chorlton Road",
+    "naptan:Indicator": "Opp Govt Office",
+    "naptan:Landmark": "SOCIAL SERVICES",
+    "naptan:NaptanCode": "mangtamj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Chorlton Road",
+    "naptan:Street": "MOSS LANE WEST",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533826091,
+  "lat": 53.4561747,
+  "lon": -2.2583549,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Withington Road/Whalley Road",
+    "naptan:AtcoCode": "1800SB14491",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Withington Road/Whalley Road",
+    "naptan:Indicator": "Methodist Churh",
+    "naptan:Landmark": "CHURCH",
+    "naptan:NaptanCode": "mangtapt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Whalley Road",
+    "naptan:Street": "WITHINGTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533826168,
+  "lat": 53.4563272,
+  "lon": -2.2585215,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Withington Road/Whalley Road",
+    "naptan:AtcoCode": "1800SB14641",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Withington Road/Whalley Road",
+    "naptan:Indicator": "Opp Church",
+    "naptan:Landmark": "CHURCH",
+    "naptan:NaptanCode": "mangtawp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Whalley Road",
+    "naptan:Street": "WITHINGTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533826171,
+  "lat": 53.4545481,
+  "lon": -2.2582245,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Withington Road/Carlton Road",
+    "naptan:AtcoCode": "1800SB14651",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Withington Road/Carlton Road",
+    "naptan:Indicator": "W Coates Court",
+    "naptan:Landmark": "FLATS",
+    "naptan:NaptanCode": "mangtawt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Carlton Road",
+    "naptan:Street": "Withington Rad",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533826894,
+  "lat": 53.4581052,
+  "lon": -2.2593305,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brooks Bar, Upper Chorlton Road / near Brook's Bar",
+    "naptan:AtcoCode": "1800SB30011",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Upper Chorlton Road/Brook's Bar",
+    "naptan:Indicator": "Bowling Court",
+    "naptan:Landmark": "WHALLEY HOTEL",
+    "naptan:NaptanCode": "mangtjtm",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Brook's Bar",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 533828563,
+  "lat": 53.4591606,
+  "lon": -2.2569010,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brooks Bar, Moss Lane West / adjacent Chorlton Road",
+    "naptan:AtcoCode": "1800SB30601",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Moss Lane West/Chorlton Road",
+    "naptan:Indicator": "Opp Newsagents",
+    "naptan:Landmark": "SOCIAL SERVICES",
+    "naptan:NaptanCode": "mangtmgj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Chorlton Road",
+    "naptan:Street": "MOSS LANE WEST",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533841310,
+  "lat": 53.4584528,
+  "lon": -2.2590480,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brooks Bar, Upper Chorlton Road / adjacent Brook's Bar",
+    "naptan:AtcoCode": "1800SJ30021",
+    "naptan:Bearing": "NE",
+    "naptan:CommonName": "Upper Chorlton Road/Brooks's Bar",
+    "naptan:Indicator": "Os House 6",
+    "naptan:Landmark": "HOUSE 16",
+    "naptan:NaptanCode": "manjtdmt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Brooks's Bar",
+    "naptan:Street": "Upp Chorlton Road",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6309300585,
+  "lat": 53.4589557,
+  "lon": -2.2582066,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6312999389,
+  "lat": 53.4587471,
+  "lon": -2.2583920,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9140755208,
+  "lat": 53.4586498,
+  "lon": -2.2581947,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10784430305,
+  "lat": 53.4588811,
+  "lon": -2.2584052,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 10784430313,
+  "lat": 53.4587151,
+  "lon": -2.2584597,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10784430321,
+  "lat": 53.4588694,
+  "lon": -2.2580125,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "highway": "crossing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10784432122,
+  "lat": 53.4588320,
+  "lon": -2.2585263,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10784443009,
+  "lat": 53.4589597,
+  "lon": -2.2580871,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10784443010,
+  "lat": 53.4589203,
+  "lon": -2.2582047,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10784443012,
+  "lat": 53.4588510,
+  "lon": -2.2584518,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10784443018,
+  "lat": 53.4588514,
+  "lon": -2.2580714,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10784443023,
+  "lat": 53.4586518,
+  "lon": -2.2583481,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "zebra",
+    "crossing:signals": "yes",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 13300472030,
+  "lat": 53.4590043,
+  "lon": -2.2581088,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 13300472034,
+  "lat": 53.4586953,
+  "lon": -2.2581890,
+  "tags": {
+    "bicycle": "no",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13342934336,
+  "lat": 53.4587844,
+  "lon": -2.2580479,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13342934346,
+  "lat": 53.4589117,
+  "lon": -2.2583488,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13362747104,
+  "lat": 53.4596559,
+  "lon": -2.2551769,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 533835145,
+  "lat": 53.4640004,
+  "lon": -2.2664959,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Old Trafford, Stretford Road / near Henrietta Street",
+    "naptan:AtcoCode": "1800SJ30491",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Stretford Road/Henrietta Street",
+    "naptan:Indicator": "Opp 524",
+    "naptan:Landmark": "HOUSE 6",
+    "naptan:NaptanCode": "manjtgap",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Henrietta Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;54;250;263;290;291",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835147,
+  "lat": 53.4645696,
+  "lon": -2.2636689,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "St. Georges, Stretford Road / near Cornbrook Street",
+    "naptan:AtcoCode": "1800SJ30511",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Stretford Road/Cornbrook Street",
+    "naptan:Indicator": "Opp 482",
+    "naptan:Landmark": "CHILDRENS Centre",
+    "naptan:NaptanCode": "manjtgat",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Cornbrook Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;54;250;263;290;291",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 533835567,
+  "lat": 53.4649699,
+  "lon": -2.2621345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "St. Georges, Stretford Road / opposite Cornbrook Street",
+    "naptan:AtcoCode": "1800SJ00321",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Stretford Road/Cornbrook Street",
+    "naptan:Indicator": "Trent Court",
+    "naptan:Landmark": "TRENT COURT",
+    "naptan:NaptanCode": "manjmjtd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Cornbrook Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;250;253;263;290;291",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 1321055988,
+  "lat": 53.4647299,
+  "lon": -2.2630212,
+  "tags": {
+    "crossing": "marked",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 1321055999,
+  "lat": 53.4643619,
+  "lon": -2.2647755,
+  "tags": {
+    "crossing": "marked",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 8849218421,
+  "lat": 53.4641674,
+  "lon": -2.2661357,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Old Trafford, Stretford Road / opposite Henrietta Street",
+    "naptan:AtcoCode": "1800SJ30481",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Stretford Road/Henrietta Street",
+    "naptan:Indicator": "O/s House 516",
+    "naptan:Landmark": "NURSERY",
+    "naptan:NaptanCode": "manjtgam",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Henrietta Street",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 11167484437,
+  "lat": 53.4612882,
+  "lon": -2.2618438,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13300291268,
+  "lat": 53.4650194,
+  "lon": -2.2610311,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 533828527,
+  "lat": 53.4642328,
+  "lon": -2.2580455,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chorlton Road/Stretford Road",
+    "naptan:AtcoCode": "1800SB30421",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Chorlton Road/Stretford Road",
+    "naptan:Indicator": "Kingdom Hall",
+    "naptan:Landmark": "Kindom Hall",
+    "naptan:NaptanCode": "mangtmdg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Stretford Road",
+    "naptan:Street": "CHORLTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "54",
+    "shelter": "no",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533828529,
+  "lat": 53.4649400,
+  "lon": -2.2577905,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chorlton Road/Stretford Road",
+    "naptan:AtcoCode": "1800SB30431",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Chorlton Road/Stretford Road",
+    "naptan:Indicator": "Op Kingdom Hall",
+    "naptan:Landmark": "Kindom Hall",
+    "naptan:NaptanCode": "mangtmdj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Stretford Road",
+    "naptan:Street": "CHORLTON ROAD",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 533835135,
+  "lat": 53.4610145,
+  "lon": -2.2581898,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chorlton Road/Cornbrook Street",
+    "naptan:AtcoCode": "1800SJ30401",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Chorlton Road/Cornbrook Street",
+    "naptan:Indicator": "Sharon Church",
+    "naptan:Landmark": "SHARON CHURCH",
+    "naptan:NaptanCode": "manjtdwp",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Cornbrook Street",
+    "naptan:Street": "CHORLTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835139,
+  "lat": 53.4614350,
+  "lon": -2.2579854,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chorlton Road/Cornbrook Street",
+    "naptan:AtcoCode": "1800SJ30411",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Chorlton Road/Cornbrook Street",
+    "naptan:Indicator": "Opp Sharon Ch",
+    "naptan:Landmark": "SHARON CHURCH",
+    "naptan:NaptanCode": "manjtdwt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Cornbrook Street",
+    "naptan:Street": "CHORLTON ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533835633,
+  "lat": 53.4652387,
+  "lon": -2.2599818,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "St. Georges, Stretford Road / near Erskine Street",
+    "naptan:AtcoCode": "1800SJ00631",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Stretford Road/The Platford",
+    "naptan:Indicator": "Platford Pub",
+    "naptan:Landmark": "SHOPS",
+    "naptan:NaptanCode": "manjmpat",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "The Platford",
+    "naptan:Street": "STRETFORD ROAD",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "route_ref": "53;54;250;263;290;291",
+    "source": "naptan_import",
+    "survey:date": "2022-05-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6120204206,
+  "lat": 53.4653198,
+  "lon": -2.2602481,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6204223923,
+  "lat": 53.4654200,
+  "lon": -2.2597303,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 13300291277,
+  "lat": 53.4646272,
+  "lon": -2.2578268,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "dots",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 13300291279,
+  "lat": 53.4650094,
+  "lon": -2.2580038,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 13300291285,
+  "lat": 53.4652887,
+  "lon": -2.2596590,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 533824302,
+  "lat": 53.4531493,
+  "lon": -2.2524033,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandra Park, Alexandra Road South / near Range Road",
+    "naptan:AtcoCode": "1800SB31921",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Alexandra Road South/Range Road",
+    "naptan:Indicator": "St Edmunds Hall",
+    "naptan:Landmark": "CHURCH",
+    "naptan:NaptanCode": "mangtwga",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Range Road",
+    "naptan:Street": "Alexandra Road S",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533824047,
+  "lat": 53.4603193,
+  "lon": -2.2517043,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "B",
+    "name": "Moss Lane East/Chichester Road (Stop B)",
+    "naptan:AtcoCode": "1800SB31411",
+    "naptan:Bearing": "E",
+    "naptan:CommonName": "Moss Lane East/Chichester Road (Stop B)",
+    "naptan:Indicator": "Stop B",
+    "naptan:Landmark": "JOB CENTRE",
+    "naptan:NaptanCode": "mangtpgj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Chichester Road",
+    "naptan:Street": "MOSS LANE EAST",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533824285,
+  "lat": 53.4556029,
+  "lon": -2.2525232,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandra Park, Alexandra Road / opposite Claremont Road",
+    "naptan:AtcoCode": "1800SB31851",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Alexandra Road/Claremont Road",
+    "naptan:Indicator": "Health Centre",
+    "naptan:Landmark": "HEALTH CENTRE",
+    "naptan:NaptanCode": "mangtwda",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Claremont Road",
+    "naptan:Street": "ALEXANDRA ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533824286,
+  "lat": 53.4574821,
+  "lon": -2.2522934,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Alexandra Road / opposite Selworthy Road",
+    "naptan:AtcoCode": "1800SB31861",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Alexandra Road/Selworthy Road",
+    "naptan:Indicator": "Nr Playground",
+    "naptan:Landmark": "PLAYGROUND",
+    "naptan:NaptanCode": "mangtwdg",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Selworthy Road",
+    "naptan:Street": "ALEXANDRA ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533824287,
+  "lat": 53.4583357,
+  "lon": -2.2524641,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Whalley Range, Alexandra Road / near Selworthy Road",
+    "naptan:AtcoCode": "1800SB31871",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Alexandra Road/Selworthy Road",
+    "naptan:Indicator": "Opp Prim School",
+    "naptan:Landmark": "HOUSE 48",
+    "naptan:NaptanCode": "mangtwdj",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Selworthy Road",
+    "naptan:Street": "ALEXANDRA ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533824288,
+  "lat": 53.4598193,
+  "lon": -2.2522320,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "D",
+    "name": "Whalley Range, Alexandra Road / Moss Lane East (Stop D)",
+    "naptan:AtcoCode": "1800SB31881",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Alexandra Road/Moss Lane East (Stop D)",
+    "naptan:Indicator": "Stop D",
+    "naptan:Landmark": "LITTLE ALEX",
+    "naptan:NaptanCode": "mangtwdm",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Moss Lane East",
+    "naptan:Street": "ALEXANDRA ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "ref": "D",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533824296,
+  "lat": 53.4547381,
+  "lon": -2.2534367,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yarburgh St/Alexandra Road South",
+    "naptan:AtcoCode": "1800SB31901",
+    "naptan:Bearing": "SW",
+    "naptan:CommonName": "Yarburgh St/Alexandra Road South",
+    "naptan:Indicator": "House 96",
+    "naptan:Landmark": "HOUSE 96",
+    "naptan:NaptanCode": "mangtwdt",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Alexandra Rd Sth",
+    "naptan:Street": "YARBURGH STREET",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import"
+  }
+},
+{
+  "type": "node",
+  "id": 533824299,
+  "lat": 53.4547674,
+  "lon": -2.2523376,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandra Park, Alexandra Road South / near Claremont Road",
+    "naptan:AtcoCode": "1800SB31911",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Alexandra Road South/Claremont Road",
+    "naptan:Indicator": "Park",
+    "naptan:Landmark": "PARK",
+    "naptan:NaptanCode": "mangtwdw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Claremont Road",
+    "naptan:Street": "Alexandra Road S",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533828554,
+  "lat": 53.4606370,
+  "lon": -2.2524004,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "A",
+    "name": "Hulme, Chichester Road South / Moss Lane West (Stop A)",
+    "naptan:AtcoCode": "1800SB30571",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Chichester Road/Moss Lane West (Stop A)",
+    "naptan:Indicator": "Stop A",
+    "naptan:Landmark": "PROBATION CTRE",
+    "naptan:NaptanCode": "mangtmga",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Moss Lane West",
+    "naptan:Street": "CHICHESTER ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "ref": "A",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533828556,
+  "lat": 53.4599038,
+  "lon": -2.2534827,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "C",
+    "name": "Hulme, Moss Lane West / Chichester Road (Stop C)",
+    "naptan:AtcoCode": "1800SB30581",
+    "naptan:Bearing": "W",
+    "naptan:CommonName": "Moss Lane West/Chichester Road (Stop C)",
+    "naptan:Indicator": "Stop C",
+    "naptan:Landmark": "HOUSE 56",
+    "naptan:NaptanCode": "mangtmgd",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Chichester Road",
+    "naptan:Street": "MOSS LANE WEST",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "ref": "C",
+    "shelter": "yes",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6309300516,
+  "lat": 53.4600033,
+  "lon": -2.2537829,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 9286520452,
+  "lat": 53.4579154,
+  "lon": -2.2523723,
+  "tags": {
+    "crossing": "zebra",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9286532418,
+  "lat": 53.4603020,
+  "lon": -2.2523044,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9286532419,
+  "lat": 53.4601213,
+  "lon": -2.2525529,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9286532420,
+  "lat": 53.4601945,
+  "lon": -2.2520957,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "kerb": "lowered",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9286532421,
+  "lat": 53.4600365,
+  "lon": -2.2523110,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing_ref": "puffin",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13362747108,
+  "lat": 53.4598278,
+  "lon": -2.2541157,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 533828544,
+  "lat": 53.4617522,
+  "lon": -2.2520928,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hulme, Chichester Road South / outside Loreto College",
+    "naptan:AtcoCode": "1800SB30551",
+    "naptan:Bearing": "N",
+    "naptan:CommonName": "Chichester Road/Loreto College",
+    "naptan:Indicator": "Os College",
+    "naptan:Landmark": "COLLEGE",
+    "naptan:NaptanCode": "mangtmdt",
+    "naptan:Notes": "INDICATOR AMENDED",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Loreto College",
+    "naptan:Street": "GREENHEYS LANE",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 533828551,
+  "lat": 53.4614918,
+  "lon": -2.2519256,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hulme, Chichester Road / opposite Loreto College",
+    "naptan:AtcoCode": "1800SB30561",
+    "naptan:Bearing": "S",
+    "naptan:CommonName": "Chichester Road/Loreto College",
+    "naptan:Indicator": "Church",
+    "naptan:Landmark": "COLLEGE",
+    "naptan:NaptanCode": "mangtmdw",
+    "naptan:PlusbusZoneRef": "MNCRPIC",
+    "naptan:ShortCommonName": "Loreto College",
+    "naptan:Street": "CHICHESTER ROAD",
+    "naptan:verified": "no",
+    "network": "TfGM",
+    "operator": "TfGM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "naptan_import",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11834956185,
+  "lat": 53.4626463,
+  "lon": -2.2526077,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "yes",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 287161573,
+  "center": {
+    "lat": 53.4505365,
+    "lon": -2.2681943
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 287161574,
+  "center": {
+    "lat": 53.4502777,
+    "lon": -2.2681791
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 287161576,
+  "center": {
+    "lat": 53.4504133,
+    "lon": -2.2681112
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "name": "Park Mews",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 366124323,
+  "center": {
+    "lat": 53.4537316,
+    "lon": -2.2567289
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 807532923,
+  "center": {
+    "lat": 53.4514858,
+    "lon": -2.2604327
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1189858642,
+  "center": {
+    "lat": 53.4537897,
+    "lon": -2.2569787
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 619005227,
+  "center": {
+    "lat": 53.4587126,
+    "lon": -2.2750193
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005228,
+  "center": {
+    "lat": 53.4585152,
+    "lon": -2.2749090
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 671167072,
+  "center": {
+    "lat": 53.4601321,
+    "lon": -2.2760334
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 671169281,
+  "center": {
+    "lat": 53.4549262,
+    "lon": -2.2758320
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117014120,
+  "center": {
+    "lat": 53.4585978,
+    "lon": -2.2696284
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "cobblestone"
+  }
+},
+{
+  "type": "way",
+  "id": 178699995,
+  "center": {
+    "lat": 53.4588177,
+    "lon": -2.2724873
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178699996,
+  "center": {
+    "lat": 53.4599895,
+    "lon": -2.2710619
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178699997,
+  "center": {
+    "lat": 53.4604397,
+    "lon": -2.2720889
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178699998,
+  "center": {
+    "lat": 53.4602356,
+    "lon": -2.2727342
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 618834173,
+  "center": {
+    "lat": 53.4607900,
+    "lon": -2.2733535
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618834174,
+  "center": {
+    "lat": 53.4606383,
+    "lon": -2.2733541
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618834176,
+  "center": {
+    "lat": 53.4606352,
+    "lon": -2.2735526
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 618834177,
+  "center": {
+    "lat": 53.4606326,
+    "lon": -2.2729666
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618834202,
+  "center": {
+    "lat": 53.4597119,
+    "lon": -2.2722946
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619005216,
+  "center": {
+    "lat": 53.4605251,
+    "lon": -2.2705785
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619005271,
+  "center": {
+    "lat": 53.4592646,
+    "lon": -2.2723006
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005272,
+  "center": {
+    "lat": 53.4591134,
+    "lon": -2.2718292
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005273,
+  "center": {
+    "lat": 53.4591557,
+    "lon": -2.2718204
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005274,
+  "center": {
+    "lat": 53.4592174,
+    "lon": -2.2717839
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005275,
+  "center": {
+    "lat": 53.4582597,
+    "lon": -2.2721314
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005284,
+  "center": {
+    "lat": 53.4592332,
+    "lon": -2.2716549
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 619005285,
+  "center": {
+    "lat": 53.4592227,
+    "lon": -2.2716558
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 677236694,
+  "center": {
+    "lat": 53.4572456,
+    "lon": -2.2684529
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 677290644,
+  "center": {
+    "lat": 53.4569713,
+    "lon": -2.2709329
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 677450774,
+  "center": {
+    "lat": 53.4565776,
+    "lon": -2.2716265
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 677450775,
+  "center": {
+    "lat": 53.4564601,
+    "lon": -2.2725215
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1167530165,
+  "center": {
+    "lat": 53.4601818,
+    "lon": -2.2731626
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290591,
+  "center": {
+    "lat": 53.4625944,
+    "lon": -2.2672177
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290596,
+  "center": {
+    "lat": 53.4622457,
+    "lon": -2.2674109
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290597,
+  "center": {
+    "lat": 53.4619019,
+    "lon": -2.2675250
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290599,
+  "center": {
+    "lat": 53.4608788,
+    "lon": -2.2686918
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178702003,
+  "center": {
+    "lat": 53.4594623,
+    "lon": -2.2740617
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178702004,
+  "center": {
+    "lat": 53.4586778,
+    "lon": -2.2740438
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 255612138,
+  "center": {
+    "lat": 53.4609859,
+    "lon": -2.2739008
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618591332,
+  "center": {
+    "lat": 53.4614524,
+    "lon": -2.2745944
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618834193,
+  "center": {
+    "lat": 53.4596687,
+    "lon": -2.2738789
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 618834195,
+  "center": {
+    "lat": 53.4600131,
+    "lon": -2.2740187
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 651731592,
+  "center": {
+    "lat": 53.4641671,
+    "lon": -2.2668433
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975107,
+  "center": {
+    "lat": 53.4649959,
+    "lon": -2.2671598
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652975108,
+  "center": {
+    "lat": 53.4649066,
+    "lon": -2.2683091
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975135,
+  "center": {
+    "lat": 53.4647318,
+    "lon": -2.2675653
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 673215872,
+  "center": {
+    "lat": 53.4630197,
+    "lon": -2.2755205
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "lit": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1008130791,
+  "center": {
+    "lat": 53.4608461,
+    "lon": -2.2717932
+  },
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 116776504,
+  "center": {
+    "lat": 53.4622760,
+    "lon": -2.2697186
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Bath Crescent"
+  }
+},
+{
+  "type": "way",
+  "id": 117290589,
+  "center": {
+    "lat": 53.4619952,
+    "lon": -2.2683019
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290590,
+  "center": {
+    "lat": 53.4618598,
+    "lon": -2.2681512
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290592,
+  "center": {
+    "lat": 53.4619610,
+    "lon": -2.2686135
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 117290593,
+  "center": {
+    "lat": 53.4615585,
+    "lon": -2.2683173
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290594,
+  "center": {
+    "lat": 53.4624703,
+    "lon": -2.2678965
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290595,
+  "center": {
+    "lat": 53.4612137,
+    "lon": -2.2685131
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117290600,
+  "center": {
+    "lat": 53.4614169,
+    "lon": -2.2686661
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117425815,
+  "center": {
+    "lat": 53.4619965,
+    "lon": -2.2716049
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117425816,
+  "center": {
+    "lat": 53.4627364,
+    "lon": -2.2711271
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Tudor Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117425818,
+  "center": {
+    "lat": 53.4634143,
+    "lon": -2.2680093
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117425820,
+  "center": {
+    "lat": 53.4621700,
+    "lon": -2.2702688
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617583608,
+  "center": {
+    "lat": 53.4641917,
+    "lon": -2.2683725
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 617583612,
+  "center": {
+    "lat": 53.4640993,
+    "lon": -2.2681832
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 618561109,
+  "center": {
+    "lat": 53.4626475,
+    "lon": -2.2732458
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618561115,
+  "center": {
+    "lat": 53.4622460,
+    "lon": -2.2729088
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618561132,
+  "center": {
+    "lat": 53.4624800,
+    "lon": -2.2710569
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 618567470,
+  "center": {
+    "lat": 53.4632859,
+    "lon": -2.2699964
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618590318,
+  "center": {
+    "lat": 53.4623177,
+    "lon": -2.2697815
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618590319,
+  "center": {
+    "lat": 53.4622983,
+    "lon": -2.2698084
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618591330,
+  "center": {
+    "lat": 53.4620942,
+    "lon": -2.2711040
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618591331,
+  "center": {
+    "lat": 53.4618234,
+    "lon": -2.2725072
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618784782,
+  "center": {
+    "lat": 53.4619740,
+    "lon": -2.2725819
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618821686,
+  "center": {
+    "lat": 53.4616862,
+    "lon": -2.2723708
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 618921447,
+  "center": {
+    "lat": 53.4612219,
+    "lon": -2.2722502
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618921465,
+  "center": {
+    "lat": 53.4613784,
+    "lon": -2.2722771
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 618921466,
+  "center": {
+    "lat": 53.4615257,
+    "lon": -2.2715197
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 619491544,
+  "center": {
+    "lat": 53.4614670,
+    "lon": -2.2685353
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619491547,
+  "center": {
+    "lat": 53.4625229,
+    "lon": -2.2683447
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619491548,
+  "center": {
+    "lat": 53.4628557,
+    "lon": -2.2686136
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652975109,
+  "center": {
+    "lat": 53.4642286,
+    "lon": -2.2683012
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975111,
+  "center": {
+    "lat": 53.4642404,
+    "lon": -2.2689951
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975113,
+  "center": {
+    "lat": 53.4648346,
+    "lon": -2.2675915
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652975118,
+  "center": {
+    "lat": 53.4638460,
+    "lon": -2.2679513
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975120,
+  "center": {
+    "lat": 53.4643036,
+    "lon": -2.2676983
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975122,
+  "center": {
+    "lat": 53.4637712,
+    "lon": -2.2695477
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652975125,
+  "center": {
+    "lat": 53.4640801,
+    "lon": -2.2692228
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975127,
+  "center": {
+    "lat": 53.4642354,
+    "lon": -2.2698586
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975130,
+  "center": {
+    "lat": 53.4641606,
+    "lon": -2.2691206
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975131,
+  "center": {
+    "lat": 53.4642460,
+    "lon": -2.2690886
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975132,
+  "center": {
+    "lat": 53.4641493,
+    "lon": -2.2690234
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975133,
+  "center": {
+    "lat": 53.4636919,
+    "lon": -2.2687072
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652975134,
+  "center": {
+    "lat": 53.4637892,
+    "lon": -2.2703432
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 655255458,
+  "center": {
+    "lat": 53.4641211,
+    "lon": -2.2706304
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255459,
+  "center": {
+    "lat": 53.4639710,
+    "lon": -2.2709730
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 655255460,
+  "center": {
+    "lat": 53.4638213,
+    "lon": -2.2713180
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255462,
+  "center": {
+    "lat": 53.4633180,
+    "lon": -2.2720260
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255463,
+  "center": {
+    "lat": 53.4633144,
+    "lon": -2.2706833
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 655255465,
+  "center": {
+    "lat": 53.4633631,
+    "lon": -2.2704328
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255466,
+  "center": {
+    "lat": 53.4634090,
+    "lon": -2.2701956
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255468,
+  "center": {
+    "lat": 53.4636616,
+    "lon": -2.2704234
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 655255470,
+  "center": {
+    "lat": 53.4639785,
+    "lon": -2.2706133
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 655255471,
+  "center": {
+    "lat": 53.4640589,
+    "lon": -2.2706698
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255472,
+  "center": {
+    "lat": 53.4629605,
+    "lon": -2.2733761
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 655255473,
+  "center": {
+    "lat": 53.4646734,
+    "lon": -2.2693798
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 673215870,
+  "center": {
+    "lat": 53.4633847,
+    "lon": -2.2726519
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 907701981,
+  "center": {
+    "lat": 53.4627435,
+    "lon": -2.2734877
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "crossing_ref": "puffin",
+    "footway": "crossing",
+    "highway": "footway",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1155115462,
+  "center": {
+    "lat": 53.4644737,
+    "lon": -2.2699453
+  },
+  "tags": {
+    "crossing": "zebra",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 117253077,
+  "center": {
+    "lat": 53.4602383,
+    "lon": -2.2642573
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Prestage Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253079,
+  "center": {
+    "lat": 53.4589346,
+    "lon": -2.2663425
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Myrtle Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253082,
+  "center": {
+    "lat": 53.4606982,
+    "lon": -2.2650420
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Prestage Street",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117253086,
+  "center": {
+    "lat": 53.4606363,
+    "lon": -2.2652784
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Howarth Street",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117253104,
+  "center": {
+    "lat": 53.4602055,
+    "lon": -2.2665949
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Lango Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253112,
+  "center": {
+    "lat": 53.4593047,
+    "lon": -2.2665366
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Myrtle Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253119,
+  "center": {
+    "lat": 53.4591955,
+    "lon": -2.2648684
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Gladys Street",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 117253137,
+  "center": {
+    "lat": 53.4597859,
+    "lon": -2.2659806
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Fir Street",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 117253146,
+  "center": {
+    "lat": 53.4606325,
+    "lon": -2.2633539
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Stamford Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253148,
+  "center": {
+    "lat": 53.4596985,
+    "lon": -2.2632387
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Byrom Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253151,
+  "center": {
+    "lat": 53.4604810,
+    "lon": -2.2667403
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Lango Street",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 117430926,
+  "center": {
+    "lat": 53.4598911,
+    "lon": -2.2638538
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117430928,
+  "center": {
+    "lat": 53.4601212,
+    "lon": -2.2643096
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117430929,
+  "center": {
+    "lat": 53.4600021,
+    "lon": -2.2642003
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117430930,
+  "center": {
+    "lat": 53.4597182,
+    "lon": -2.2637016
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 620639728,
+  "center": {
+    "lat": 53.4596291,
+    "lon": -2.2634645
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 627548098,
+  "center": {
+    "lat": 53.4601067,
+    "lon": -2.2612624
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 675221372,
+  "center": {
+    "lat": 53.4569000,
+    "lon": -2.2616721
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 675221375,
+  "center": {
+    "lat": 53.4566686,
+    "lon": -2.2621956
+  },
+  "tags": {
+    "bicycle": "no",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 675221376,
+  "center": {
+    "lat": 53.4566222,
+    "lon": -2.2623019
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 808663114,
+  "center": {
+    "lat": 53.4550220,
+    "lon": -2.2611716
+  },
+  "tags": {
+    "access": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 28019556,
+  "center": {
+    "lat": 53.4602998,
+    "lon": -2.2570933
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273713,
+  "center": {
+    "lat": 53.4600093,
+    "lon": -2.2601195
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Telford Walk",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117273714,
+  "center": {
+    "lat": 53.4602172,
+    "lon": -2.2595431
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Telford Walk",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117273721,
+  "center": {
+    "lat": 53.4601637,
+    "lon": -2.2600954
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Telford Walk",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117273723,
+  "center": {
+    "lat": 53.4605134,
+    "lon": -2.2605081
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273724,
+  "center": {
+    "lat": 53.4601650,
+    "lon": -2.2596972
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Telford Walk",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117273725,
+  "center": {
+    "lat": 53.4606466,
+    "lon": -2.2607253
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273726,
+  "center": {
+    "lat": 53.4603510,
+    "lon": -2.2598288
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Telford Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117273732,
+  "center": {
+    "lat": 53.4604742,
+    "lon": -2.2603528
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273733,
+  "center": {
+    "lat": 53.4605271,
+    "lon": -2.2607681
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273734,
+  "center": {
+    "lat": 53.4606911,
+    "lon": -2.2603783
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Malpas Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117273735,
+  "center": {
+    "lat": 53.4609372,
+    "lon": -2.2603071
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273737,
+  "center": {
+    "lat": 53.4601996,
+    "lon": -2.2603734
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117276896,
+  "center": {
+    "lat": 53.4607170,
+    "lon": -2.2593692
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276899,
+  "center": {
+    "lat": 53.4609164,
+    "lon": -2.2592722
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276901,
+  "center": {
+    "lat": 53.4607694,
+    "lon": -2.2591368
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117298666,
+  "center": {
+    "lat": 53.4602657,
+    "lon": -2.2583580
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121122770,
+  "center": {
+    "lat": 53.4605462,
+    "lon": -2.2573646
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121122785,
+  "center": {
+    "lat": 53.4608023,
+    "lon": -2.2558609
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121122787,
+  "center": {
+    "lat": 53.4605746,
+    "lon": -2.2558107
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121129093,
+  "center": {
+    "lat": 53.4601102,
+    "lon": -2.2550192
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Alma Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121129094,
+  "center": {
+    "lat": 53.4600680,
+    "lon": -2.2550263
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Alma Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121129096,
+  "center": {
+    "lat": 53.4594347,
+    "lon": -2.2577793
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Augustus Way"
+  }
+},
+{
+  "type": "way",
+  "id": 121129100,
+  "center": {
+    "lat": 53.4596013,
+    "lon": -2.2577358
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121129102,
+  "center": {
+    "lat": 53.4599361,
+    "lon": -2.2552589
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 121129104,
+  "center": {
+    "lat": 53.4594174,
+    "lon": -2.2577277
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121129109,
+  "center": {
+    "lat": 53.4596221,
+    "lon": -2.2577472
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121129111,
+  "center": {
+    "lat": 53.4599463,
+    "lon": -2.2571823
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121135559,
+  "center": {
+    "lat": 53.4597781,
+    "lon": -2.2556203
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121135560,
+  "center": {
+    "lat": 53.4599537,
+    "lon": -2.2556052
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Gladstone Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135561,
+  "center": {
+    "lat": 53.4600341,
+    "lon": -2.2559841
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121135563,
+  "center": {
+    "lat": 53.4598717,
+    "lon": -2.2562857
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Glenham Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135565,
+  "center": {
+    "lat": 53.4596526,
+    "lon": -2.2560239
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Moss Grove Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135566,
+  "center": {
+    "lat": 53.4596471,
+    "lon": -2.2563733
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121135568,
+  "center": {
+    "lat": 53.4596567,
+    "lon": -2.2569974
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Nelson Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135569,
+  "center": {
+    "lat": 53.4598060,
+    "lon": -2.2563617
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Glenham Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135571,
+  "center": {
+    "lat": 53.4597407,
+    "lon": -2.2568017
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Nelson Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121135573,
+  "center": {
+    "lat": 53.4594503,
+    "lon": -2.2565380
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121135574,
+  "center": {
+    "lat": 53.4599192,
+    "lon": -2.2566274
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121136863,
+  "center": {
+    "lat": 53.4595140,
+    "lon": -2.2569121
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 168222423,
+  "center": {
+    "lat": 53.4578950,
+    "lon": -2.2582461
+  },
+  "tags": {
+    "highway": "footway",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 168222424,
+  "center": {
+    "lat": 53.4578800,
+    "lon": -2.2572941
+  },
+  "tags": {
+    "highway": "path",
+    "source": "survey",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 633726677,
+  "center": {
+    "lat": 53.4603397,
+    "lon": -2.2605834
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 633731356,
+  "center": {
+    "lat": 53.4607427,
+    "lon": -2.2595620
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 633748230,
+  "center": {
+    "lat": 53.4608931,
+    "lon": -2.2583254
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 673726708,
+  "center": {
+    "lat": 53.4602840,
+    "lon": -2.2550961
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Alma Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673726710,
+  "center": {
+    "lat": 53.4601837,
+    "lon": -2.2550505
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Alma Court",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 673866908,
+  "center": {
+    "lat": 53.4598961,
+    "lon": -2.2558665
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Gladstone Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673866910,
+  "center": {
+    "lat": 53.4599158,
+    "lon": -2.2557732
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Gladstone Court",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 673866925,
+  "center": {
+    "lat": 53.4599435,
+    "lon": -2.2563248
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Glenham Court",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 673866928,
+  "center": {
+    "lat": 53.4600426,
+    "lon": -2.2563781
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Glenham Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673866933,
+  "center": {
+    "lat": 53.4598020,
+    "lon": -2.2558840
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Moss Grove Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673866934,
+  "center": {
+    "lat": 53.4596901,
+    "lon": -2.2558276
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Moss Grove Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673866968,
+  "center": {
+    "lat": 53.4596151,
+    "lon": -2.2566232
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Nelson Court"
+  }
+},
+{
+  "type": "way",
+  "id": 673867027,
+  "center": {
+    "lat": 53.4591036,
+    "lon": -2.2577912
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 674123104,
+  "center": {
+    "lat": 53.4589413,
+    "lon": -2.2595948
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 808663113,
+  "center": {
+    "lat": 53.4552288,
+    "lon": -2.2608382
+  },
+  "tags": {
+    "access": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 878224780,
+  "center": {
+    "lat": 53.4592073,
+    "lon": -2.2556771
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 878224785,
+  "center": {
+    "lat": 53.4597788,
+    "lon": -2.2544910
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 908406335,
+  "center": {
+    "lat": 53.4588088,
+    "lon": -2.2569699
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1159664992,
+  "center": {
+    "lat": 53.4586545,
+    "lon": -2.2583465
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "uncontrolled",
+    "crossing:markings": "zebra",
+    "crossing:signals": "yes",
+    "crossing_ref": "zebra",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1190023014,
+  "center": {
+    "lat": 53.4563549,
+    "lon": -2.2580919
+  },
+  "tags": {
+    "highway": "footway",
+    "old_name": "Great Western Street",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 1230708685,
+  "center": {
+    "lat": 53.4566383,
+    "lon": -2.2564769
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Walford Street"
+  }
+},
+{
+  "type": "way",
+  "id": 1306407032,
+  "center": {
+    "lat": 53.4587706,
+    "lon": -2.2567467
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125446,
+  "center": {
+    "lat": 53.4586930,
+    "lon": -2.2581943
+  },
+  "tags": {
+    "bicycle": "no",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:markings": "dots",
+    "crossing:signals": "yes",
+    "crossing_ref": "puffin",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125447,
+  "center": {
+    "lat": 53.4586771,
+    "lon": -2.2583078
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "traffic_island",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125450,
+  "center": {
+    "lat": 53.4586293,
+    "lon": -2.2584266
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125453,
+  "center": {
+    "lat": 53.4587695,
+    "lon": -2.2585810
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125455,
+  "center": {
+    "lat": 53.4588272,
+    "lon": -2.2585293
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450125456,
+  "center": {
+    "lat": 53.4589270,
+    "lon": -2.2584335
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954269,
+  "center": {
+    "lat": 53.4587569,
+    "lon": -2.2580762
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954270,
+  "center": {
+    "lat": 53.4587846,
+    "lon": -2.2580484
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954271,
+  "center": {
+    "lat": 53.4588690,
+    "lon": -2.2581936
+  },
+  "tags": {
+    "bicycle": "no",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "crossing_ref": "puffin",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954272,
+  "center": {
+    "lat": 53.4589558,
+    "lon": -2.2580906
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954273,
+  "center": {
+    "lat": 53.4588604,
+    "lon": -2.2583931
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954274,
+  "center": {
+    "lat": 53.4587490,
+    "lon": -2.2583892
+  },
+  "tags": {
+    "bicycle": "no",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "crossing_ref": "puffin",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954275,
+  "center": {
+    "lat": 53.4588502,
+    "lon": -2.2584514
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "zebra",
+    "crossing_ref": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1454954276,
+  "center": {
+    "lat": 53.4589153,
+    "lon": -2.2583513
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1457033389,
+  "center": {
+    "lat": 53.4596567,
+    "lon": -2.2551705
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 28019557,
+  "center": {
+    "lat": 53.4611663,
+    "lon": -2.2567956
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 47429219,
+  "center": {
+    "lat": 53.4610879,
+    "lon": -2.2566351
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117253135,
+  "center": {
+    "lat": 53.4610022,
+    "lon": -2.2655591
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Prestage Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117261945,
+  "center": {
+    "lat": 53.4630292,
+    "lon": -2.2606431
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "pedestrian",
+    "name": "Cornbrook Way"
+  }
+},
+{
+  "type": "way",
+  "id": 117261957,
+  "center": {
+    "lat": 53.4630292,
+    "lon": -2.2606431
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261963,
+  "center": {
+    "lat": 53.4627052,
+    "lon": -2.2616094
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273712,
+  "center": {
+    "lat": 53.4609828,
+    "lon": -2.2601612
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273717,
+  "center": {
+    "lat": 53.4608714,
+    "lon": -2.2608633
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273718,
+  "center": {
+    "lat": 53.4613195,
+    "lon": -2.2607226
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Duke Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117273719,
+  "center": {
+    "lat": 53.4604638,
+    "lon": -2.2607354
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273736,
+  "center": {
+    "lat": 53.4608617,
+    "lon": -2.2606201
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117276893,
+  "center": {
+    "lat": 53.4610767,
+    "lon": -2.2594876
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276894,
+  "center": {
+    "lat": 53.4609283,
+    "lon": -2.2590474
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276895,
+  "center": {
+    "lat": 53.4610144,
+    "lon": -2.2599231
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276900,
+  "center": {
+    "lat": 53.4611335,
+    "lon": -2.2593680
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 121122764,
+  "center": {
+    "lat": 53.4609088,
+    "lon": -2.2554096
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731562,
+  "center": {
+    "lat": 53.4653715,
+    "lon": -2.2611383
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975143,
+  "center": {
+    "lat": 53.4663489,
+    "lon": -2.2614137
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 674123125,
+  "center": {
+    "lat": 53.4593429,
+    "lon": -2.2603277
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 878224772,
+  "center": {
+    "lat": 53.4593780,
+    "lon": -2.2545271
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 1389629875,
+  "center": {
+    "lat": 53.4608937,
+    "lon": -2.2572561
+  },
+  "tags": {
+    "highway": "path",
+    "informal": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1450107275,
+  "center": {
+    "lat": 53.4650262,
+    "lon": -2.2609983
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1457033387,
+  "center": {
+    "lat": 53.4594790,
+    "lon": -2.2559498
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1457033390,
+  "center": {
+    "lat": 53.4598736,
+    "lon": -2.2537583
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 116777068,
+  "center": {
+    "lat": 53.4632875,
+    "lon": -2.2663934
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117011634,
+  "center": {
+    "lat": 53.4630765,
+    "lon": -2.2645032
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Drayton Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117011635,
+  "center": {
+    "lat": 53.4626152,
+    "lon": -2.2642394
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Highmead Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117011636,
+  "center": {
+    "lat": 53.4631022,
+    "lon": -2.2642784
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Drayton Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117011637,
+  "center": {
+    "lat": 53.4623484,
+    "lon": -2.2629769
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011640,
+  "center": {
+    "lat": 53.4628299,
+    "lon": -2.2640686
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011642,
+  "center": {
+    "lat": 53.4623589,
+    "lon": -2.2641909
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117011643,
+  "center": {
+    "lat": 53.4635413,
+    "lon": -2.2650198
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Grendale Drive"
+  }
+},
+{
+  "type": "way",
+  "id": 117011645,
+  "center": {
+    "lat": 53.4631273,
+    "lon": -2.2641997
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Drayton Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117011648,
+  "center": {
+    "lat": 53.4628984,
+    "lon": -2.2637821
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Highmead Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117011650,
+  "center": {
+    "lat": 53.4623243,
+    "lon": -2.2632764
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011651,
+  "center": {
+    "lat": 53.4632560,
+    "lon": -2.2653964
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Fernleigh Drive"
+  }
+},
+{
+  "type": "way",
+  "id": 117011653,
+  "center": {
+    "lat": 53.4627577,
+    "lon": -2.2646038
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011654,
+  "center": {
+    "lat": 53.4632967,
+    "lon": -2.2642749
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011656,
+  "center": {
+    "lat": 53.4635303,
+    "lon": -2.2649176
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011657,
+  "center": {
+    "lat": 53.4627696,
+    "lon": -2.2644814
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011659,
+  "center": {
+    "lat": 53.4627400,
+    "lon": -2.2640227
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011661,
+  "center": {
+    "lat": 53.4634399,
+    "lon": -2.2646312
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Grendale Drive"
+  }
+},
+{
+  "type": "way",
+  "id": 117011665,
+  "center": {
+    "lat": 53.4630842,
+    "lon": -2.2639143
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011667,
+  "center": {
+    "lat": 53.4628957,
+    "lon": -2.2650637
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Drayton Walk",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117011669,
+  "center": {
+    "lat": 53.4624588,
+    "lon": -2.2632456
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011670,
+  "center": {
+    "lat": 53.4625878,
+    "lon": -2.2640107
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011672,
+  "center": {
+    "lat": 53.4633657,
+    "lon": -2.2646440
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011673,
+  "center": {
+    "lat": 53.4628657,
+    "lon": -2.2634981
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011674,
+  "center": {
+    "lat": 53.4627737,
+    "lon": -2.2632869
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011676,
+  "center": {
+    "lat": 53.4636849,
+    "lon": -2.2648455
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011677,
+  "center": {
+    "lat": 53.4634093,
+    "lon": -2.2656818
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117011678,
+  "center": {
+    "lat": 53.4630296,
+    "lon": -2.2635656
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Rushmere Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117253091,
+  "center": {
+    "lat": 53.4612085,
+    "lon": -2.2656686
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Blackburn Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253123,
+  "center": {
+    "lat": 53.4611501,
+    "lon": -2.2642543
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Stamford Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117253139,
+  "center": {
+    "lat": 53.4615113,
+    "lon": -2.2651683
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Blackburn Street"
+  }
+},
+{
+  "type": "way",
+  "id": 117261959,
+  "center": {
+    "lat": 53.4643448,
+    "lon": -2.2613999
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117277584,
+  "center": {
+    "lat": 53.4630466,
+    "lon": -2.2661852
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117277585,
+  "center": {
+    "lat": 53.4628581,
+    "lon": -2.2660520
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Greenlaw Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117277586,
+  "center": {
+    "lat": 53.4630035,
+    "lon": -2.2662009
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117285924,
+  "center": {
+    "lat": 53.4643170,
+    "lon": -2.2640376
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Clifton Grove",
+    "note": "close proximity to houses affecting GPS signal"
+  }
+},
+{
+  "type": "way",
+  "id": 117285925,
+  "center": {
+    "lat": 53.4644064,
+    "lon": -2.2641218
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117285926,
+  "center": {
+    "lat": 53.4641802,
+    "lon": -2.2629437
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Hamilton Grove"
+  }
+},
+{
+  "type": "way",
+  "id": 117285928,
+  "center": {
+    "lat": 53.4642171,
+    "lon": -2.2639914
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Clifton Grove",
+    "note": "close proximity to houses affecting GPS signal"
+  }
+},
+{
+  "type": "way",
+  "id": 117285929,
+  "center": {
+    "lat": 53.4644366,
+    "lon": -2.2631794
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Hamilton Grove"
+  }
+},
+{
+  "type": "way",
+  "id": 117285930,
+  "center": {
+    "lat": 53.4643325,
+    "lon": -2.2640941
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117285934,
+  "center": {
+    "lat": 53.4640220,
+    "lon": -2.2637832
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Clifton Grove",
+    "note": "close proximity to houses affecting GPS signal"
+  }
+},
+{
+  "type": "way",
+  "id": 117285937,
+  "center": {
+    "lat": 53.4643261,
+    "lon": -2.2631482
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Hamilton Grove"
+  }
+},
+{
+  "type": "way",
+  "id": 117285943,
+  "center": {
+    "lat": 53.4641376,
+    "lon": -2.2631806
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Hamilton Grove"
+  }
+},
+{
+  "type": "way",
+  "id": 117285951,
+  "center": {
+    "lat": 53.4642509,
+    "lon": -2.2647492
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117285953,
+  "center": {
+    "lat": 53.4639801,
+    "lon": -2.2640290
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Clifton Grove",
+    "note": "close proximity to houses affecting GPS signal"
+  }
+},
+{
+  "type": "way",
+  "id": 117290638,
+  "center": {
+    "lat": 53.4615804,
+    "lon": -2.2670942
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117298667,
+  "center": {
+    "lat": 53.4637843,
+    "lon": -2.2652151
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117298670,
+  "center": {
+    "lat": 53.4639052,
+    "lon": -2.2616993
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117298671,
+  "center": {
+    "lat": 53.4638909,
+    "lon": -2.2654140
+  },
+  "tags": {
+    "highway": "footway",
+    "note": "unofficial cut-through due to broken fence"
+  }
+},
+{
+  "type": "way",
+  "id": 117298672,
+  "center": {
+    "lat": 53.4620331,
+    "lon": -2.2645118
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117425817,
+  "center": {
+    "lat": 53.4634794,
+    "lon": -2.2671338
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391804,
+  "center": {
+    "lat": 53.4653687,
+    "lon": -2.2623134
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Trent Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391806,
+  "center": {
+    "lat": 53.4657519,
+    "lon": -2.2628464
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Weaver Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391809,
+  "center": {
+    "lat": 53.4656802,
+    "lon": -2.2639411
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391815,
+  "center": {
+    "lat": 53.4656966,
+    "lon": -2.2632103
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Weaver Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391818,
+  "center": {
+    "lat": 53.4658923,
+    "lon": -2.2633626
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Avon Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391820,
+  "center": {
+    "lat": 53.4652698,
+    "lon": -2.2628617
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Trent Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391822,
+  "center": {
+    "lat": 53.4658103,
+    "lon": -2.2638470
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391824,
+  "center": {
+    "lat": 53.4655782,
+    "lon": -2.2617921
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Dean Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391826,
+  "center": {
+    "lat": 53.4659815,
+    "lon": -2.2643848
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Welland Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391827,
+  "center": {
+    "lat": 53.4650843,
+    "lon": -2.2626593
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Trent Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391830,
+  "center": {
+    "lat": 53.4657397,
+    "lon": -2.2615972
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Dean Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391831,
+  "center": {
+    "lat": 53.4654079,
+    "lon": -2.2634425
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391837,
+  "center": {
+    "lat": 53.4657508,
+    "lon": -2.2637930
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391842,
+  "center": {
+    "lat": 53.4655832,
+    "lon": -2.2633856
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391844,
+  "center": {
+    "lat": 53.4655378,
+    "lon": -2.2620349
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Dean Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391846,
+  "center": {
+    "lat": 53.4657123,
+    "lon": -2.2614583
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Dean Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391848,
+  "center": {
+    "lat": 53.4657841,
+    "lon": -2.2620683
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391849,
+  "center": {
+    "lat": 53.4654977,
+    "lon": -2.2631275
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Weaver Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391852,
+  "center": {
+    "lat": 53.4654262,
+    "lon": -2.2639845
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 119391854,
+  "center": {
+    "lat": 53.4659116,
+    "lon": -2.2621904
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Weaver Court"
+  }
+},
+{
+  "type": "way",
+  "id": 119391857,
+  "center": {
+    "lat": 53.4651632,
+    "lon": -2.2623654
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Trent Court"
+  }
+},
+{
+  "type": "way",
+  "id": 615199475,
+  "center": {
+    "lat": 53.4647856,
+    "lon": -2.2645577
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 615199476,
+  "center": {
+    "lat": 53.4645585,
+    "lon": -2.2646618
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 615199477,
+  "center": {
+    "lat": 53.4645815,
+    "lon": -2.2648086
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 615199479,
+  "center": {
+    "lat": 53.4652041,
+    "lon": -2.2642529
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617271511,
+  "center": {
+    "lat": 53.4658401,
+    "lon": -2.2638575
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617271522,
+  "center": {
+    "lat": 53.4656502,
+    "lon": -2.2636291
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Bollin Court"
+  }
+},
+{
+  "type": "way",
+  "id": 617510885,
+  "center": {
+    "lat": 53.4654913,
+    "lon": -2.2635737
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617510886,
+  "center": {
+    "lat": 53.4654946,
+    "lon": -2.2636858
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Tamar Court"
+  }
+},
+{
+  "type": "way",
+  "id": 617510890,
+  "center": {
+    "lat": 53.4656239,
+    "lon": -2.2636889
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 617510905,
+  "center": {
+    "lat": 53.4657881,
+    "lon": -2.2622981
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617512568,
+  "center": {
+    "lat": 53.4656949,
+    "lon": -2.2631821
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 617512569,
+  "center": {
+    "lat": 53.4657672,
+    "lon": -2.2627913
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 617512570,
+  "center": {
+    "lat": 53.4657723,
+    "lon": -2.2623840
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 617512578,
+  "center": {
+    "lat": 53.4646403,
+    "lon": -2.2655809
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking"
+  }
+},
+{
+  "type": "way",
+  "id": 617512676,
+  "center": {
+    "lat": 53.4650278,
+    "lon": -2.2648912
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617568635,
+  "center": {
+    "lat": 53.4653671,
+    "lon": -2.2621157
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 617568637,
+  "center": {
+    "lat": 53.4652253,
+    "lon": -2.2624518
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 619491555,
+  "center": {
+    "lat": 53.4625535,
+    "lon": -2.2667512
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619496230,
+  "center": {
+    "lat": 53.4637070,
+    "lon": -2.2670915
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 619496239,
+  "center": {
+    "lat": 53.4633541,
+    "lon": -2.2663635
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Stanley Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 632010947,
+  "center": {
+    "lat": 53.4632199,
+    "lon": -2.2655271
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 632321119,
+  "center": {
+    "lat": 53.4628313,
+    "lon": -2.2635862
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 632321121,
+  "center": {
+    "lat": 53.4621815,
+    "lon": -2.2635676
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 632321122,
+  "center": {
+    "lat": 53.4621204,
+    "lon": -2.2633899
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 632326035,
+  "center": {
+    "lat": 53.4637190,
+    "lon": -2.2634633
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326036,
+  "center": {
+    "lat": 53.4637194,
+    "lon": -2.2634486
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326039,
+  "center": {
+    "lat": 53.4636756,
+    "lon": -2.2637900
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326051,
+  "center": {
+    "lat": 53.4635491,
+    "lon": -2.2631442
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326052,
+  "center": {
+    "lat": 53.4635579,
+    "lon": -2.2631312
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326053,
+  "center": {
+    "lat": 53.4636071,
+    "lon": -2.2631392
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326054,
+  "center": {
+    "lat": 53.4634907,
+    "lon": -2.2631811
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326056,
+  "center": {
+    "lat": 53.4633432,
+    "lon": -2.2631325
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 632326057,
+  "center": {
+    "lat": 53.4633695,
+    "lon": -2.2633644
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 633719397,
+  "center": {
+    "lat": 53.4631945,
+    "lon": -2.2647931
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 633719409,
+  "center": {
+    "lat": 53.4625398,
+    "lon": -2.2635431
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 635808684,
+  "center": {
+    "lat": 53.4645025,
+    "lon": -2.2635773
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731535,
+  "center": {
+    "lat": 53.4657103,
+    "lon": -2.2646583
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731536,
+  "center": {
+    "lat": 53.4656593,
+    "lon": -2.2642840
+  },
+  "tags": {
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731537,
+  "center": {
+    "lat": 53.4656748,
+    "lon": -2.2641367
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731538,
+  "center": {
+    "lat": 53.4657730,
+    "lon": -2.2643232
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731558,
+  "center": {
+    "lat": 53.4657466,
+    "lon": -2.2615349
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731561,
+  "center": {
+    "lat": 53.4657858,
+    "lon": -2.2614836
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731564,
+  "center": {
+    "lat": 53.4650678,
+    "lon": -2.2625011
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731565,
+  "center": {
+    "lat": 53.4649998,
+    "lon": -2.2618512
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731566,
+  "center": {
+    "lat": 53.4648167,
+    "lon": -2.2629010
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731567,
+  "center": {
+    "lat": 53.4648665,
+    "lon": -2.2629975
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731568,
+  "center": {
+    "lat": 53.4652057,
+    "lon": -2.2639062
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731569,
+  "center": {
+    "lat": 53.4650482,
+    "lon": -2.2642692
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731570,
+  "center": {
+    "lat": 53.4650844,
+    "lon": -2.2643034
+  },
+  "tags": {
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731571,
+  "center": {
+    "lat": 53.4650911,
+    "lon": -2.2640602
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731572,
+  "center": {
+    "lat": 53.4651250,
+    "lon": -2.2638916
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731573,
+  "center": {
+    "lat": 53.4651569,
+    "lon": -2.2637317
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731574,
+  "center": {
+    "lat": 53.4652056,
+    "lon": -2.2634312
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731575,
+  "center": {
+    "lat": 53.4653726,
+    "lon": -2.2633639
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731576,
+  "center": {
+    "lat": 53.4652553,
+    "lon": -2.2631580
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731577,
+  "center": {
+    "lat": 53.4652758,
+    "lon": -2.2633371
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731579,
+  "center": {
+    "lat": 53.4653670,
+    "lon": -2.2632201
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "informal",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731580,
+  "center": {
+    "lat": 53.4653522,
+    "lon": -2.2631081
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731581,
+  "center": {
+    "lat": 53.4655171,
+    "lon": -2.2626807
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731582,
+  "center": {
+    "lat": 53.4654100,
+    "lon": -2.2624009
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731583,
+  "center": {
+    "lat": 53.4655587,
+    "lon": -2.2621856
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731584,
+  "center": {
+    "lat": 53.4655086,
+    "lon": -2.2621923
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731585,
+  "center": {
+    "lat": 53.4655058,
+    "lon": -2.2620693
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731586,
+  "center": {
+    "lat": 53.4658037,
+    "lon": -2.2618805
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731587,
+  "center": {
+    "lat": 53.4658513,
+    "lon": -2.2619518
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731590,
+  "center": {
+    "lat": 53.4643362,
+    "lon": -2.2657377
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731591,
+  "center": {
+    "lat": 53.4650132,
+    "lon": -2.2663719
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975106,
+  "center": {
+    "lat": 53.4644784,
+    "lon": -2.2668218
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975136,
+  "center": {
+    "lat": 53.4649394,
+    "lon": -2.2674543
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655255474,
+  "center": {
+    "lat": 53.4650474,
+    "lon": -2.2631047
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 28019554,
+  "center": {
+    "lat": 53.4615863,
+    "lon": -2.2568627
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261941,
+  "center": {
+    "lat": 53.4637830,
+    "lon": -2.2602475
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261943,
+  "center": {
+    "lat": 53.4628787,
+    "lon": -2.2604005
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261944,
+  "center": {
+    "lat": 53.4637144,
+    "lon": -2.2589411
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261947,
+  "center": {
+    "lat": 53.4635694,
+    "lon": -2.2597692
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261948,
+  "center": {
+    "lat": 53.4638324,
+    "lon": -2.2591507
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261950,
+  "center": {
+    "lat": 53.4637114,
+    "lon": -2.2594598
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261952,
+  "center": {
+    "lat": 53.4639494,
+    "lon": -2.2592444
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261953,
+  "center": {
+    "lat": 53.4633828,
+    "lon": -2.2599801
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117261960,
+  "center": {
+    "lat": 53.4640785,
+    "lon": -2.2595300
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261961,
+  "center": {
+    "lat": 53.4632040,
+    "lon": -2.2602905
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261964,
+  "center": {
+    "lat": 53.4641325,
+    "lon": -2.2598461
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117261966,
+  "center": {
+    "lat": 53.4634897,
+    "lon": -2.2605039
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "School Walk"
+  }
+},
+{
+  "type": "way",
+  "id": 117267485,
+  "center": {
+    "lat": 53.4614981,
+    "lon": -2.2597023
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Eton Close"
+  }
+},
+{
+  "type": "way",
+  "id": 117273711,
+  "center": {
+    "lat": 53.4610659,
+    "lon": -2.2603678
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273715,
+  "center": {
+    "lat": 53.4615514,
+    "lon": -2.2606546
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Duke Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117273720,
+  "center": {
+    "lat": 53.4613057,
+    "lon": -2.2603549
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Duke Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117273727,
+  "center": {
+    "lat": 53.4612540,
+    "lon": -2.2601001
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117273728,
+  "center": {
+    "lat": 53.4613405,
+    "lon": -2.2603702
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117274773,
+  "center": {
+    "lat": 53.4617202,
+    "lon": -2.2601486
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Oxford Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117274776,
+  "center": {
+    "lat": 53.4616288,
+    "lon": -2.2589378
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Eton Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117274781,
+  "center": {
+    "lat": 53.4618595,
+    "lon": -2.2597081
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Oxford Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117274783,
+  "center": {
+    "lat": 53.4619379,
+    "lon": -2.2593558
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117274785,
+  "center": {
+    "lat": 53.4616917,
+    "lon": -2.2599956
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Oxford Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117274789,
+  "center": {
+    "lat": 53.4619367,
+    "lon": -2.2598319
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Oxford Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117274791,
+  "center": {
+    "lat": 53.4621525,
+    "lon": -2.2598304
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117274796,
+  "center": {
+    "lat": 53.4611195,
+    "lon": -2.2583358
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 117276898,
+  "center": {
+    "lat": 53.4611995,
+    "lon": -2.2593650
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 117276987,
+  "center": {
+    "lat": 53.4634683,
+    "lon": -2.2603390
+  },
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 117285947,
+  "center": {
+    "lat": 53.4637743,
+    "lon": -2.2585349
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 121122768,
+  "center": {
+    "lat": 53.4614627,
+    "lon": -2.2563587
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121122772,
+  "center": {
+    "lat": 53.4611628,
+    "lon": -2.2556430
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121122784,
+  "center": {
+    "lat": 53.4619809,
+    "lon": -2.2559961
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121124140,
+  "center": {
+    "lat": 53.4613643,
+    "lon": -2.2565130
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121124141,
+  "center": {
+    "lat": 53.4613666,
+    "lon": -2.2565438
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 121129115,
+  "center": {
+    "lat": 53.4625179,
+    "lon": -2.2576895
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Bold Street"
+  }
+},
+{
+  "type": "way",
+  "id": 617192537,
+  "center": {
+    "lat": 53.4656334,
+    "lon": -2.2590454
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 633731375,
+  "center": {
+    "lat": 53.4613458,
+    "lon": -2.2595946
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Shrewsbury Court"
+  }
+},
+{
+  "type": "way",
+  "id": 633748196,
+  "center": {
+    "lat": 53.4618477,
+    "lon": -2.2588601
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119617,
+  "center": {
+    "lat": 53.4647116,
+    "lon": -2.2606155
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119636,
+  "center": {
+    "lat": 53.4647555,
+    "lon": -2.2603965
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119675,
+  "center": {
+    "lat": 53.4647770,
+    "lon": -2.2597619
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119722,
+  "center": {
+    "lat": 53.4645160,
+    "lon": -2.2594603
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119725,
+  "center": {
+    "lat": 53.4642443,
+    "lon": -2.2595707
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636119728,
+  "center": {
+    "lat": 53.4643121,
+    "lon": -2.2595782
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636231441,
+  "center": {
+    "lat": 53.4634401,
+    "lon": -2.2597090
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 636231443,
+  "center": {
+    "lat": 53.4630815,
+    "lon": -2.2600540
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 636231466,
+  "center": {
+    "lat": 53.4635564,
+    "lon": -2.2605723
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 636235094,
+  "center": {
+    "lat": 53.4635844,
+    "lon": -2.2588894
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 651731563,
+  "center": {
+    "lat": 53.4653267,
+    "lon": -2.2605121
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 652975139,
+  "center": {
+    "lat": 53.4653177,
+    "lon": -2.2602547
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 654220540,
+  "center": {
+    "lat": 53.4619305,
+    "lon": -2.2559084
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 662739978,
+  "center": {
+    "lat": 53.4654186,
+    "lon": -2.2597382
+  },
+  "tags": {
+    "bicycle": "no",
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 662739979,
+  "center": {
+    "lat": 53.4656656,
+    "lon": -2.2595913
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 667018371,
+  "center": {
+    "lat": 53.4645929,
+    "lon": -2.2599493
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 674113078,
+  "center": {
+    "lat": 53.4611319,
+    "lon": -2.2566404
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 964027071,
+  "center": {
+    "lat": 53.4653118,
+    "lon": -2.2588041
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 964027072,
+  "center": {
+    "lat": 53.4652428,
+    "lon": -2.2574245
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450107276,
+  "center": {
+    "lat": 53.4651564,
+    "lon": -2.2603357
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450107283,
+  "center": {
+    "lat": 53.4646514,
+    "lon": -2.2578254
+  },
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "dots",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450107284,
+  "center": {
+    "lat": 53.4650281,
+    "lon": -2.2580041
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1450107285,
+  "center": {
+    "lat": 53.4652887,
+    "lon": -2.2596605
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 228203859,
+  "center": {
+    "lat": 53.4542235,
+    "lon": -2.2507529
+  },
+  "tags": {
+    "highway": "path",
+    "name": "Raised Walk",
+    "source:name": "'Alexandra Park Manchester';ISBN:978-1-5272-1168-1;Date:2017",
+    "surface": "compacted"
+  }
+},
+{
+  "type": "way",
+  "id": 465874416,
+  "center": {
+    "lat": 53.4520054,
+    "lon": -2.2517099
+  },
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Lime Walk",
+    "segregated": "no",
+    "source:name": "'Alexandra Park Manchester';ISBN:978-1-5272-1168-1;Date:2017",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 323137688,
+  "center": {
+    "lat": 53.4531760,
+    "lon": -2.2499895
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 524701899,
+  "center": {
+    "lat": 53.4533040,
+    "lon": -2.2518373
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 24937424,
+  "center": {
+    "lat": 53.4552238,
+    "lon": -2.2505838
+  },
+  "tags": {
+    "foot": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 28019546,
+  "center": {
+    "lat": 53.4607152,
+    "lon": -2.2517402
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 136104895,
+  "center": {
+    "lat": 53.4587487,
+    "lon": -2.2514810
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 168222422,
+  "center": {
+    "lat": 53.4578753,
+    "lon": -2.2529815
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "yes",
+    "name": "Selworthy Road",
+    "old_name": "Raby Street",
+    "source": "survey",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 323225923,
+  "center": {
+    "lat": 53.4548334,
+    "lon": -2.2520940
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 524701906,
+  "center": {
+    "lat": 53.4545392,
+    "lon": -2.2516931
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 524701908,
+  "center": {
+    "lat": 53.4547194,
+    "lon": -2.2518275
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 524701909,
+  "center": {
+    "lat": 53.4546447,
+    "lon": -2.2516775
+  },
+  "tags": {
+    "highway": "steps",
+    "incline": "up",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 615199459,
+  "center": {
+    "lat": 53.4558801,
+    "lon": -2.2530249
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 616729866,
+  "center": {
+    "lat": 53.4579991,
+    "lon": -2.2499240
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 616729867,
+  "center": {
+    "lat": 53.4580374,
+    "lon": -2.2497811
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 616729868,
+  "center": {
+    "lat": 53.4579928,
+    "lon": -2.2497820
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 616729869,
+  "center": {
+    "lat": 53.4563074,
+    "lon": -2.2521256
+  },
+  "tags": {
+    "highway": "footway",
+    "old_name": "Great Western Street"
+  }
+},
+{
+  "type": "way",
+  "id": 673726667,
+  "center": {
+    "lat": 53.4606855,
+    "lon": -2.2542123
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 673726681,
+  "center": {
+    "lat": 53.4603106,
+    "lon": -2.2527472
+  },
+  "tags": {
+    "bicycle": "no",
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 673726683,
+  "center": {
+    "lat": 53.4600583,
+    "lon": -2.2534105
+  },
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 713448915,
+  "center": {
+    "lat": 53.4552006,
+    "lon": -2.2526546
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 713448916,
+  "center": {
+    "lat": 53.4551065,
+    "lon": -2.2528401
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 713448917,
+  "center": {
+    "lat": 53.4550705,
+    "lon": -2.2530086
+  },
+  "tags": {
+    "highway": "path",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191656262,
+  "center": {
+    "lat": 53.4565512,
+    "lon": -2.2535248
+  },
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1191670807,
+  "center": {
+    "lat": 53.4574759,
+    "lon": -2.2534757
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1230837926,
+  "center": {
+    "lat": 53.4577073,
+    "lon": -2.2503958
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Raby Street"
+  }
+},
+{
+  "type": "way",
+  "id": 1230837927,
+  "center": {
+    "lat": 53.4575731,
+    "lon": -2.2506848
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Grierson Street"
+  }
+},
+{
+  "type": "way",
+  "id": 1230873579,
+  "center": {
+    "lat": 53.4581180,
+    "lon": -2.2525465
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Selworthy Road"
+  }
+},
+{
+  "type": "way",
+  "id": 1230898484,
+  "center": {
+    "lat": 53.4600351,
+    "lon": -2.2517193
+  },
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1272997598,
+  "center": {
+    "lat": 53.4589159,
+    "lon": -2.2509182
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1272997599,
+  "center": {
+    "lat": 53.4590615,
+    "lon": -2.2507532
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1272997601,
+  "center": {
+    "lat": 53.4585766,
+    "lon": -2.2508336
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1430645879,
+  "center": {
+    "lat": 53.4580851,
+    "lon": -2.2533100
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Selworthy Road"
+  }
+},
+{
+  "type": "way",
+  "id": 1457033388,
+  "center": {
+    "lat": 53.4600052,
+    "lon": -2.2537712
+  },
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:markings": "no",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657707388,
+  "center": {
+    "lat": 53.4623472,
+    "lon": -2.2529975
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657707389,
+  "center": {
+    "lat": 53.4622873,
+    "lon": -2.2527544
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657707390,
+  "center": {
+    "lat": 53.4623277,
+    "lon": -2.2526845
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657707391,
+  "center": {
+    "lat": 53.4622637,
+    "lon": -2.2529876
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657707392,
+  "center": {
+    "lat": 53.4622367,
+    "lon": -2.2531621
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 657720869,
+  "center": {
+    "lat": 53.4616032,
+    "lon": -2.2526219
+  },
+  "tags": {
+    "access": "private",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1281921714,
+  "center": {
+    "lat": 53.4611898,
+    "lon": -2.2530130
+  },
+  "tags": {
+    "access": "private",
+    "highway": "path"
+  }
+},
+{
+  "type": "relation",
+  "id": 8538753,
+  "center": {
+    "lat": 53.4648881,
+    "lon": -2.2658102
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

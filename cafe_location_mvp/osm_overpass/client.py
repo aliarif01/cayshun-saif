@@ -2,7 +2,7 @@ from __future__ import annotations
 import json
 import os
 import time
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 import requests
 from tenacity import retry, stop_after_attempt, wait_exponential_jitter, retry_if_exception_type
@@ -27,9 +27,16 @@ def _debug_enabled() -> bool:
     retry=retry_if_exception_type((requests.RequestException, OverpassError)),
     reraise=True,
 )
-def run_overpass_query(query: str) -> Dict[str, Any]:
+def run_overpass_query(query: str, timeout_seconds: Optional[int] = None) -> Dict[str, Any]:
     url = os.getenv("OVERPASS_URL", "https://overpass-api.de/api/interpreter")
-    timeout_s = _env_int("OVERPASS_TIMEOUT_SECONDS", 25)
+    # Use provided timeout, or env var, or default to 90 seconds (matching query timeout)
+    if timeout_seconds is None:
+        timeout_s = _env_int("OVERPASS_TIMEOUT_SECONDS", 90)
+    else:
+        timeout_s = timeout_seconds
+    # Add buffer: HTTP timeout should be longer than Overpass query timeout
+    # Overpass query timeout is in the query itself, HTTP timeout should be query_timeout + buffer
+    http_timeout = timeout_s + 30  # Add 30 second buffer for network overhead
     debug = _debug_enabled()
 
     req_id = short_id(query + timestamp())
@@ -40,11 +47,17 @@ def run_overpass_query(query: str) -> Dict[str, Any]:
 
     t0 = time.time()
     try:
-        resp = requests.post(url, data={"data": query}, timeout=timeout_s)
-    except requests.RequestException as e:
+        resp = requests.post(url, data={"data": query}, timeout=http_timeout)
+    except requests.Timeout as e:
+        error_msg = f"HTTP request timed out after {http_timeout}s (query timeout: {timeout_s}s)"
         if debug:
-            print(f"[overpass:{req_id}] network error: {e}")
-        raise
+            print(f"[overpass:{req_id}] {error_msg}")
+        raise OverpassError(error_msg) from e
+    except requests.RequestException as e:
+        error_msg = f"Network error: {e}"
+        if debug:
+            print(f"[overpass:{req_id}] {error_msg}")
+        raise OverpassError(error_msg) from e
 
     elapsed_ms = int((time.time() - t0) * 1000)
     text = resp.text

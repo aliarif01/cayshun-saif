@@ -7,7 +7,6 @@ import time
 from pathlib import Path
 from typing import Optional, List
 from dotenv import load_dotenv
-from supabase import create_client, Client
 
 from osm_overpass.config import OSM_LAYERS, RadiusArea
 from osm_overpass.query_builder import build_overpass_query
@@ -18,90 +17,6 @@ from osm_overpass.geocoder import geocode_address
 def save_json(path: Path, data: dict):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2), encoding="utf-8")
-
-
-def init_supabase() -> Optional[Client]:
-    """Initialize Supabase client from environment variables."""
-    url = os.getenv("SUPABASE_URL")
-    key = os.getenv("SUPABASE_ANON_KEY") or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
-    
-    if not url or not key:
-        print("WARNING: SUPABASE_URL or SUPABASE_ANON_KEY not set. Skipping database writes.")
-        return None
-    
-    return create_client(url, key)
-
-
-def calculate_scores(results: dict, radius_m: int) -> dict:
-    """
-    Calculate normalized scores (1-100) from the scraped data.
-    
-    This is a simple scoring algorithm - adjust based on your business logic.
-    """
-    scores = {}
-    
-    # Footfall score (based on demand drivers)
-    if "demand_drivers" in results:
-        demand_count = len(results["demand_drivers"].get("elements", []))
-        # Normalize: assume 0-50 POIs within radius, scale to 1-100
-        scores["footfall"] = min(100, max(1, int((demand_count / 50) * 100)))
-    
-    # Public transport score
-    if "public_transport_accessibility" in results:
-        pt_count = len(results["public_transport_accessibility"].get("elements", []))
-        # Normalize: assume 0-20 stops within radius, scale to 1-100
-        scores["public_transport"] = min(100, max(1, int((pt_count / 20) * 100)))
-    
-    # Competition/demographic score (based on competition density)
-    if "competition" in results:
-        comp_count = len(results["competition"].get("elements", []))
-        # Inverse scoring: more competition = lower score
-        # Assume 0-30 competitors, inverse scale to 1-100
-        scores["demographic"] = min(100, max(1, 100 - int((comp_count / 30) * 100)))
-    
-    return scores
-
-
-def upsert_property_data(
-    supabase: Client,
-    address: str,
-    city: Optional[str],
-    scores: dict
-) -> bool:
-    """
-    Upsert property data into Supabase.
-    
-    Uses address as the unique identifier for upserts.
-    """
-    try:
-        # Prepare the data
-        property_data = {
-            "address": address,
-            "city": city,
-            "footfall": scores.get("footfall"),
-            "public_transport": scores.get("public_transport"),
-            "demographic": scores.get("demographic"),
-        }
-        
-        # Remove None values
-        property_data = {k: v for k, v in property_data.items() if v is not None}
-        
-        # Upsert: update if address exists, insert if not
-        response = supabase.table("properties").upsert(
-            property_data,
-            on_conflict="address"  # Upsert based on address match
-        ).execute()
-        
-        print(f"✓ Saved to Supabase: {address}")
-        print(f"  Scores: footfall={scores.get('footfall')}, "
-              f"public_transport={scores.get('public_transport')}, "
-              f"demographic={scores.get('demographic')}")
-        
-        return True
-        
-    except Exception as e:
-        print(f"✗ Error saving to Supabase: {e}")
-        return False
 
 
 def fetch_location_data(
@@ -152,9 +67,6 @@ def fetch_location_data(
 
 def main():
     load_dotenv()
-    
-    # Initialize Supabase client
-    supabase = init_supabase()
 
     # Check if address/place name provided via command line
     if len(sys.argv) > 1:
@@ -193,20 +105,12 @@ def main():
         print(f"Found coordinates: lat={lat}, lon={lon}")
         print(f"Location: {geocode_result.get('display_name', 'N/A')}")
         
-        # Extract city from geocode result if not already set
-        if city is None and "address" in geocode_result:
-            city = (geocode_result["address"].get("city") or 
-                   geocode_result["address"].get("town") or 
-                   geocode_result["address"].get("village"))
-        
         # Respect Nominatim rate limits (1 req/sec)
         time.sleep(1.1)
     else:
         # Use hardcoded coordinates (default behavior)
         lat = 53.4794
         lon = -2.2453
-        address = "Default Location"
-        city = "Manchester"
         print(f"Using default coordinates: lat={lat}, lon={lon}")
 
     # Get radius and timeout from env or use defaults
@@ -232,17 +136,6 @@ def main():
         # Special message for public transport
         if layer == "public_transport_accessibility":
             print(f"  → Public transport accessibility data saved with {element_count} stops/stations within {radius_m}m radius")
-
-    # Calculate scores from the scraped data
-    print(f"\n=== Calculating Scores ===")
-    scores = calculate_scores(results, radius_m)
-    
-    # Save to Supabase if client is initialized
-    if supabase:
-        print(f"\n=== Saving to Supabase ===")
-        upsert_property_data(supabase, address, city, scores)
-    else:
-        print("\n⚠ Skipping Supabase save (no credentials)")
 
     # Print summary
     total = sum(len(results[k].get("elements", [])) for k in results.keys())
