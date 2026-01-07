@@ -1,0 +1,2251 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-07T11:32:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2407173040,
+      "lat": 52.4306415,
+      "lon": -1.9041558,
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housename": "King Edward VI Camp Hill School for Boys",
+        "addr:postcode": "B14 7QJ",
+        "addr:street": "Vicarage Road",
+        "amenity": "school",
+        "capacity": "950",
+        "check_date": "2025-09-10",
+        "isced:level": "2;3",
+        "max_age": "18",
+        "min_age": "11",
+        "name": "King Edward VI Camp Hill School for Boys",
+        "operator": "King Edward VI Academy Trust Birmingham",
+        "operator:type": "private",
+        "operator:wikidata": "Q122616520",
+        "phone": "+44 121 444 3188",
+        "ref:GB:uprn": "100071570764",
+        "ref:edubase": "137045",
+        "ref:edubase:group": "16826",
+        "religion": "christian",
+        "school": "secondary",
+        "school:gender": "male",
+        "school:group:type": "multi_academy_trust",
+        "school:selective": "yes",
+        "school:type": "academy",
+        "website": "http://www.camphillboys.bham.sch.uk/",
+        "wikidata": "Q6411517",
+        "wikipedia": "en:King Edward VI Camp Hill School for Boys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2407175229,
+      "lat": 52.4310368,
+      "lon": -1.903001,
+      "tags": {
+        "addr:postcode": "B14 7QJ",
+        "amenity": "school",
+        "capacity": "896",
+        "check_date": "2025-10-13",
+        "isced:level": "2;3",
+        "max_age": "18",
+        "min_age": "11",
+        "name": "King Edward VI Camp Hill School for Girls",
+        "operator": "King Edward VI Academy Trust Birmingham",
+        "operator:type": "private",
+        "operator:wikidata": "Q122616520",
+        "phone": "+44 121 444 2150",
+        "ref:GB:uprn": "100071570764",
+        "ref:edubase": "137044",
+        "ref:edubase:group": "16826",
+        "religion": "christian",
+        "school": "secondary",
+        "school:gender": "female",
+        "school:group:type": "multi_academy_trust",
+        "school:selective": "yes",
+        "school:type": "academy",
+        "website": "https://www.kechg.org.uk/",
+        "wikidata": "Q6411518",
+        "wikipedia": "en:King Edward VI Camp Hill School for Girls"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2815996034,
+      "lat": 52.4305937,
+      "lon": -1.8927405,
+      "tags": {
+        "name": "MS Food & Wine",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151530091,
+      "lat": 52.4310336,
+      "lon": -1.8927214,
+      "tags": {
+        "name": "Ali's Food Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151530093,
+      "lat": 52.4307317,
+      "lon": -1.8927484,
+      "tags": {
+        "name": "Barron & Co",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151530095,
+      "lat": 52.431934,
+      "lon": -1.8932392,
+      "tags": {
+        "name": "Kofo African Caribbean Supermarket & Beauty Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151530102,
+      "lat": 52.4307023,
+      "lon": -1.8927417,
+      "tags": {
+        "brand": "Martin & Co",
+        "brand:wikidata": "Q81066918",
+        "name": "Martin & Co",
+        "office": "estate_agent",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151530104,
+      "lat": 52.4307571,
+      "lon": -1.8927484,
+      "tags": {
+        "name": "Simply Tax",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9684873466,
+      "lat": 52.4328643,
+      "lon": -1.8973692,
+      "tags": {
+        "name": "Mortgage Doctor",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9684873467,
+      "lat": 52.4329011,
+      "lon": -1.897282,
+      "tags": {
+        "name": "Lota Builders & Co Ltd",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673406929,
+      "lat": 52.4377683,
+      "lon": -1.8925671,
+      "tags": {
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "brand:wikipedia": "en:Costcutter",
+        "name": "Costcutter",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676070386,
+      "lat": 52.4336758,
+      "lon": -1.8902459,
+      "tags": {
+        "name": "Stirling Estate Agents",
+        "office": "estate_agent",
+        "source": "sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676281194,
+      "lat": 52.4357655,
+      "lon": -1.8922641,
+      "tags": {
+        "name": "Maison Mayci",
+        "shop": "bakery",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2823023181,
+      "lat": 52.43376,
+      "lon": -1.8923979,
+      "tags": {
+        "brand": "Jobcentre Plus",
+        "brand:wikidata": "Q6206793",
+        "name": "Jobcentre Plus",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4244150325,
+      "lat": 52.4341462,
+      "lon": -1.8926978,
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "151;153",
+        "addr:street": "High Street",
+        "addr:suburb": "Kings Heath",
+        "name": "Pharmacy-Xpress",
+        "note": "Not a physical shop. Appears to be above Card Factory",
+        "office": "pharmacy",
+        "operator": "ZSA Traders",
+        "phone": "+44 121 4446900",
+        "website": "https://www.pharmacy-xpress.co.uk/about"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9684836072,
+      "lat": 52.435123,
+      "lon": -1.8932439,
+      "tags": {
+        "name": "Tangerine Talent UK Acting Agency",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9684836076,
+      "lat": 52.4351876,
+      "lon": -1.8931232,
+      "tags": {
+        "name": "Levain & Cherry",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11173128717,
+      "lat": 52.4373687,
+      "lon": -1.8928189,
+      "tags": {
+        "name": "Ouslam",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11173128718,
+      "lat": 52.437366,
+      "lon": -1.8929056,
+      "tags": {
+        "name": "Birmingham BID",
+        "office": "government"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11173128719,
+      "lat": 52.4373487,
+      "lon": -1.8928219,
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "20",
+        "addr:postcode": "B14 7JT",
+        "addr:street": "High Street",
+        "email": "kingsheath@david-bunn.com",
+        "name": "David Bunn & Co Solicitors",
+        "office": "lawyer",
+        "phone": "+44 121 441 3322",
+        "website": "https://david-bunn.com/offices/kings-heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11173128722,
+      "lat": 52.4372455,
+      "lon": -1.8928069,
+      "tags": {
+        "name": "Chase Morgan Solicitors",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11173128723,
+      "lat": 52.4371998,
+      "lon": -1.8927934,
+      "tags": {
+        "name": "Chivers Commercial",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361897524,
+      "lat": 52.4358553,
+      "lon": -1.892551,
+      "tags": {
+        "name": "Heritage",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361897525,
+      "lat": 52.4357166,
+      "lon": -1.8925905,
+      "tags": {
+        "brand": "Connells",
+        "brand:wikidata": "Q5161738",
+        "name": "Connells",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361897526,
+      "lat": 52.4357536,
+      "lon": -1.8925282,
+      "tags": {
+        "name": "The Research Lounge",
+        "office": "research"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361897528,
+      "lat": 52.4357846,
+      "lon": -1.8923946,
+      "tags": {
+        "name": "Lia Solicitors",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11371446865,
+      "lat": 52.4374729,
+      "lon": -1.8925603,
+      "tags": {
+        "name": "Glovers",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11371479726,
+      "lat": 52.4361866,
+      "lon": -1.8927838,
+      "tags": {
+        "name": "Buy Wise",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11374485063,
+      "lat": 52.4323169,
+      "lon": -1.8932626,
+      "tags": {
+        "name": "HRS Family Law Solicitors",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11381890427,
+      "lat": 52.4362571,
+      "lon": -1.8922261,
+      "tags": {
+        "name": "Ambassador Cars",
+        "office": "taxi_hire",
+        "website": "http://www.ambassadorcars.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12888890612,
+      "lat": 52.4376431,
+      "lon": -1.8928628,
+      "tags": {
+        "name": "Tic Tac Convienience Store",
+        "not:name": "Mr Beast",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106809956,
+      "center": {
+        "lat": 52.4274502,
+        "lon": -1.9006496
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 6AJ",
+        "amenity": "school",
+        "capacity": "360",
+        "check_date": "2025-07-07",
+        "isced:level": "0;1",
+        "max_age": "7",
+        "min_age": "3",
+        "name": "Colmore Infant and Nursery School",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4642820",
+        "ref:GB:uprn": "100071427288",
+        "ref:edubase": "103189",
+        "ref:edubase:group": "1601",
+        "religion": "none",
+        "school": "primary",
+        "school:boarding": "no",
+        "school:gender": "mixed",
+        "school:group:type": "federation",
+        "school:selective": "no",
+        "school:type": "community",
+        "source": "visual survey;bing",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.colmoreinf.co.uk/",
+        "wikidata": "Q66160485"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255022339,
+      "center": {
+        "lat": 52.4303348,
+        "lon": -1.9036416
+      },
+      "tags": {
+        "amenity": "school",
+        "school": "shared_site",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 304782308,
+      "center": {
+        "lat": 52.429467,
+        "lon": -1.9006314
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305236213,
+      "center": {
+        "lat": 52.4268711,
+        "lon": -1.9004432
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305236214,
+      "center": {
+        "lat": 52.426613,
+        "lon": -1.9035024
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 376826664,
+      "center": {
+        "lat": 52.4331789,
+        "lon": -1.9056681
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399890756,
+      "center": {
+        "lat": 52.4281869,
+        "lon": -1.9006362
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 6AJ",
+        "amenity": "school",
+        "capacity": "480",
+        "check_date": "2025-07-07",
+        "isced:level": "1",
+        "max_age": "11",
+        "min_age": "7",
+        "name": "Colmore Junior School",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4642843",
+        "ref:GB:uprn": "100071427288",
+        "ref:edubase": "103188",
+        "ref:edubase:group": "1601",
+        "school": "primary",
+        "school:group:type": "federation",
+        "school:type": "community",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.colmorej.co.uk/",
+        "wikidata": "Q66160482"
+      }
+    },
+    {
+      "type": "way",
+      "id": 108810376,
+      "center": {
+        "lat": 52.4278238,
+        "lon": -1.9015587
+      },
+      "tags": {
+        "building": "retail",
+        "name": "Tim's Express",
+        "shop": "convenience",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255023359,
+      "center": {
+        "lat": 52.4282072,
+        "lon": -1.9016993
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255023360,
+      "center": {
+        "lat": 52.4264224,
+        "lon": -1.9013302
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53369528,
+      "center": {
+        "lat": 52.4311796,
+        "lon": -1.8936065
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79501910,
+      "center": {
+        "lat": 52.4266624,
+        "lon": -1.8905739
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79503666,
+      "center": {
+        "lat": 52.4285104,
+        "lon": -1.8875026
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 0SF",
+        "amenity": "school",
+        "capacity": "630",
+        "check_date": "2025-09-02",
+        "isced:level": "0;1",
+        "max_age": "11",
+        "min_age": "3",
+        "name": "Wheelers Lane Primary School",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4642551",
+        "ref:GB:uprn": "100071423723",
+        "ref:edubase": "134099",
+        "school": "primary",
+        "school:type": "community",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://wlprimary.co.uk/",
+        "wikidata": "Q66165210"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134809837,
+      "center": {
+        "lat": 52.4298894,
+        "lon": -1.8940429
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239279269,
+      "center": {
+        "lat": 52.4317757,
+        "lon": -1.8925995
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239283517,
+      "center": {
+        "lat": 52.4326845,
+        "lon": -1.8953984
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239285820,
+      "center": {
+        "lat": 52.4324433,
+        "lon": -1.8865598
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255024479,
+      "center": {
+        "lat": 52.4312999,
+        "lon": -1.8954088
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256837925,
+      "center": {
+        "lat": 52.4317441,
+        "lon": -1.8904596
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277035139,
+      "center": {
+        "lat": 52.4271689,
+        "lon": -1.8938358
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277037020,
+      "center": {
+        "lat": 52.425641,
+        "lon": -1.8947373
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277610916,
+      "center": {
+        "lat": 52.4239517,
+        "lon": -1.8883466
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277611289,
+      "center": {
+        "lat": 52.4243611,
+        "lon": -1.8942115
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 304779273,
+      "center": {
+        "lat": 52.425264,
+        "lon": -1.8982534
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395988324,
+      "center": {
+        "lat": 52.4250531,
+        "lon": -1.8854895
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398023763,
+      "center": {
+        "lat": 52.4295218,
+        "lon": -1.8873106
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 0SF",
+        "amenity": "school",
+        "capacity": "650",
+        "check_date": "2025-09-16",
+        "isced:level": "2;3",
+        "max_age": "16",
+        "min_age": "11",
+        "name": "Wheelers Lane Technology College",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4442864",
+        "ref:GB:uprn": "100071423723",
+        "ref:edubase": "103501",
+        "religion": "none",
+        "school": "secondary",
+        "school:boarding": "no",
+        "school:gender": "male",
+        "school:selective": "no",
+        "school:type": "community",
+        "source": "visual survey; estimate",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.wheelerslane.bham.sch.uk/",
+        "wikidata": "Q24993675",
+        "wikipedia": "en:Wheelers Lane Technology College"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502547779,
+      "center": {
+        "lat": 52.4252555,
+        "lon": -1.8879945
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006293,
+      "center": {
+        "lat": 52.4323867,
+        "lon": -1.8880218
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006295,
+      "center": {
+        "lat": 52.4310429,
+        "lon": -1.8888642
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006297,
+      "center": {
+        "lat": 52.428788,
+        "lon": -1.8856602
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006298,
+      "center": {
+        "lat": 52.4299447,
+        "lon": -1.8896032
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255024474,
+      "center": {
+        "lat": 52.4296041,
+        "lon": -1.8959192
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277611120,
+      "center": {
+        "lat": 52.4275448,
+        "lon": -1.8981437
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 454309467,
+      "center": {
+        "lat": 52.4273206,
+        "lon": -1.8957559
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing;estimate;visual survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79503660,
+      "center": {
+        "lat": 52.4290441,
+        "lon": -1.8905305
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 220228678,
+      "center": {
+        "lat": 52.4308504,
+        "lon": -1.8934986
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 7PT",
+        "addr:street": "Alcester Road South",
+        "building": "commercial",
+        "leisure": "indoor_play",
+        "name": "Air Nation",
+        "source": "OS_OpenData_StreetView",
+        "website": "https://www.airnation-kh.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239282429,
+      "center": {
+        "lat": 52.4309465,
+        "lon": -1.8924445
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 295108344,
+      "center": {
+        "lat": 52.4312196,
+        "lon": -1.8926632
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "59",
+        "addr:postcode": "B14 7JG",
+        "addr:street": "Alcester Road South",
+        "addr:suburb": "Kings Heath",
+        "building": "yes",
+        "name": "Dixons",
+        "office": "estate_agent",
+        "phone": "+44 121 371 9111",
+        "website": "https://www.dixonsestateagents.co.uk/forsaleoffice/Kings-Heath/454"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570984993,
+      "center": {
+        "lat": 52.4280416,
+        "lon": -1.8904951
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570984994,
+      "center": {
+        "lat": 52.4278937,
+        "lon": -1.8884631
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570985043,
+      "center": {
+        "lat": 52.4285349,
+        "lon": -1.8903591
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "34",
+        "addr:postcode": "B14 7HE",
+        "addr:street": "Albert Road",
+        "building": "residential",
+        "name": "Bake Me Home Cookie Road",
+        "shop": "bakery",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1061415047,
+      "center": {
+        "lat": 52.4314256,
+        "lon": -1.8881979
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "91",
+        "addr:postcode": "B14 7EP",
+        "addr:street": "Addison Road",
+        "building": "residential",
+        "name": "Provident Housing",
+        "office": "estate_agent",
+        "source": "OS_OpenData_StreetView"
+      }
+    },
+    {
+      "type": "way",
+      "id": 91462057,
+      "center": {
+        "lat": 52.4343225,
+        "lon": -1.9015468
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "71",
+        "addr:postcode": "B14 7TG",
+        "addr:street": "Avenue Road",
+        "building": "retail",
+        "landuse": "commercial",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239771414,
+      "center": {
+        "lat": 52.4340246,
+        "lon": -1.9005344
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239774499,
+      "center": {
+        "lat": 52.4348525,
+        "lon": -1.9013549
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052776283,
+      "center": {
+        "lat": 52.4357064,
+        "lon": -1.8988109
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053840017,
+      "center": {
+        "lat": 52.436126,
+        "lon": -1.8996187
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44327801,
+      "center": {
+        "lat": 52.4355051,
+        "lon": -1.8956116
+      },
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53368237,
+      "center": {
+        "lat": 52.4365464,
+        "lon": -1.8964427
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239774500,
+      "center": {
+        "lat": 52.4338741,
+        "lon": -1.8958734
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259061011,
+      "center": {
+        "lat": 52.4351603,
+        "lon": -1.8979975
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267291010,
+      "center": {
+        "lat": 52.4365547,
+        "lon": -1.8964413
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "112;114",
+        "addr:postcode": "B14 7SR",
+        "addr:street": "Station Road",
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "building": "retail",
+        "name": "Nisa Local",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277040711,
+      "center": {
+        "lat": 52.4337652,
+        "lon": -1.8963718
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 543918533,
+      "center": {
+        "lat": 52.4338032,
+        "lon": -1.8953462
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "20",
+        "addr:postcode": "B14 7QU",
+        "addr:street": "Silver Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "598663",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/birmingham/silver-street/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052776281,
+      "center": {
+        "lat": 52.4348126,
+        "lon": -1.8963333
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052776282,
+      "center": {
+        "lat": 52.4336522,
+        "lon": -1.8978635
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053837618,
+      "center": {
+        "lat": 52.4325876,
+        "lon": -1.8972376
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53206877,
+      "center": {
+        "lat": 52.4323955,
+        "lon": -1.8902968
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 7LP",
+        "amenity": "school",
+        "capacity": "420",
+        "check_date": "2025-07-07",
+        "denomination": "roman_catholic",
+        "diocese": "Archdiocese of Birmingham",
+        "isced:level": "0;1",
+        "max_age": "11",
+        "min_age": "3",
+        "name": "St Dunstan's Catholic Primary School",
+        "phone": "+44 121 4644648",
+        "ref:GB:uprn": "100071428567",
+        "ref:edubase": "103455",
+        "religion": "christian",
+        "school": "primary",
+        "school:type": "voluntary_aided",
+        "source": "visual survey;estimate",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "http://www.stdunstans.bham.sch.uk",
+        "wikidata": "Q66160669"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53206878,
+      "center": {
+        "lat": 52.4329848,
+        "lon": -1.8903562
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 7EG",
+        "amenity": "school",
+        "capacity": "964",
+        "check_date": "2025-07-07",
+        "denomination": "roman_catholic",
+        "diocese": "Archdiocese of Birmingham",
+        "isced:level": "2;3",
+        "max_age": "18",
+        "min_age": "11",
+        "name": "Bishop Challoner Catholic College",
+        "phone": "+44 121 4444161",
+        "ref:GB:uprn": "100071414995",
+        "ref:edubase": "103560",
+        "religion": "christian",
+        "school": "secondary",
+        "school:type": "voluntary_aided",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.bishopchalloner.org.uk/",
+        "wikidata": "Q4917513",
+        "wikipedia": "en:Bishop Challoner Catholic College"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53505521,
+      "center": {
+        "lat": 52.4340637,
+        "lon": -1.890709
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53531095,
+      "center": {
+        "lat": 52.4361181,
+        "lon": -1.8918609
+      },
+      "tags": {
+        "landuse": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53573543,
+      "center": {
+        "lat": 52.4364873,
+        "lon": -1.8909074
+      },
+      "tags": {
+        "landuse": "commercial",
+        "name": "Servite Houses West Midlands Office",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53573544,
+      "center": {
+        "lat": 52.4365306,
+        "lon": -1.890566
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53573545,
+      "center": {
+        "lat": 52.4354415,
+        "lon": -1.890474
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53574395,
+      "center": {
+        "lat": 52.4380589,
+        "lon": -1.8919957
+      },
+      "tags": {
+        "landuse": "commercial",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59124184,
+      "center": {
+        "lat": 52.4354132,
+        "lon": -1.8921195
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "99-105",
+        "addr:postcode": "B14 7BW",
+        "addr:street": "High Street",
+        "alt_name": "ASDA Kings Heath",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "retail",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdakingsheath/",
+        "contact:twitter": "asda",
+        "fhrs:id": "947523",
+        "name": "Asda",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 11:00-17:00",
+        "operator": "Asda Stores Ltd",
+        "phone": "+44 121 483 4410",
+        "shop": "supermarket",
+        "source": "OS_OpenData_StreetView",
+        "website": "https://storelocator.asda.com/west-midlands/birmingham/99-high-street-kings-heath"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134809497,
+      "center": {
+        "lat": 52.4347796,
+        "lon": -1.8915393
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 139006380,
+      "center": {
+        "lat": 52.4354837,
+        "lon": -1.8914817
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 210219195,
+      "center": {
+        "lat": 52.4333629,
+        "lon": -1.8893483
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "74",
+        "addr:postcode": "B14 7EG",
+        "addr:street": "Institute Road",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "brand:wikipedia": "en:Costcutter",
+        "building": "retail",
+        "name": "Costcutter",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239277869,
+      "center": {
+        "lat": 52.437574,
+        "lon": -1.8930094
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239279126,
+      "center": {
+        "lat": 52.4363165,
+        "lon": -1.8929657
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239279128,
+      "center": {
+        "lat": 52.4370375,
+        "lon": -1.8930084
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239279268,
+      "center": {
+        "lat": 52.4335744,
+        "lon": -1.8934279
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239283861,
+      "center": {
+        "lat": 52.4323618,
+        "lon": -1.8918237
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239283967,
+      "center": {
+        "lat": 52.4368734,
+        "lon": -1.8918098
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239284122,
+      "center": {
+        "lat": 52.4356809,
+        "lon": -1.8889805
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239286534,
+      "center": {
+        "lat": 52.4377515,
+        "lon": -1.8907299
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256837923,
+      "center": {
+        "lat": 52.4328029,
+        "lon": -1.8891443
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256837924,
+      "center": {
+        "lat": 52.4340326,
+        "lon": -1.8891351
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259053209,
+      "center": {
+        "lat": 52.4375925,
+        "lon": -1.8934399
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277038582,
+      "center": {
+        "lat": 52.4329142,
+        "lon": -1.8925471
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386005429,
+      "center": {
+        "lat": 52.4340764,
+        "lon": -1.8921556
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392154527,
+      "center": {
+        "lat": 52.4370782,
+        "lon": -1.8904198
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 7AJ",
+        "amenity": "school",
+        "capacity": "756",
+        "check_date": "2025-07-09",
+        "isced:level": "0;1",
+        "max_age": "11",
+        "min_age": "3",
+        "name": "Kings Heath Primary School",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4649202",
+        "ref:GB:uprn": "100071417575",
+        "ref:edubase": "134098",
+        "school": "primary",
+        "school:type": "community",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "http://www.kingsheathprimary.com/",
+        "wikidata": "Q66165208"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399229148,
+      "center": {
+        "lat": 52.4382753,
+        "lon": -1.8922565
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B14 7BB",
+        "amenity": "school",
+        "capacity": "67",
+        "check_date": "2025-09-12",
+        "isced:level": "2",
+        "max_age": "16",
+        "min_age": "13",
+        "name": "Reach School",
+        "operator": "The Reach Free School Trust",
+        "operator:type": "private",
+        "operator:wikidata": "Q122684267",
+        "phone": "+44 121 6758989",
+        "ref:GB:uprn": "100071388611",
+        "ref:edubase": "139671",
+        "ref:edubase:group": "4316",
+        "school:group:type": "single_academy_trust",
+        "school:type": "free;alternative_provision",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.reachschool.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53206920,
+      "center": {
+        "lat": 52.4381271,
+        "lon": -1.8950196
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53574138,
+      "center": {
+        "lat": 52.4381374,
+        "lon": -1.8889456
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59123699,
+      "center": {
+        "lat": 52.4335268,
+        "lon": -1.8940526
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housenumber": "1-17",
+        "addr:postcode": "B14 7QX",
+        "addr:street": "Silver Street",
+        "addr:suburb": "Kings Heath",
+        "building": "apartments",
+        "building:flats": "52",
+        "building:levels": "3",
+        "name": "Highbury Lodge",
+        "source": "OS_OpenData_StreetView;local knowledge;Developer website plans"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162742232,
+      "center": {
+        "lat": 52.4401027,
+        "lon": -1.8943835
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 8QG",
+        "amenity": "school",
+        "capacity": "266",
+        "check_date": "2025-07-07",
+        "isced:level": "1;2;3",
+        "max_age": "19",
+        "min_age": "3",
+        "name": "Uffculme School",
+        "operator": "Birmingham City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4916650",
+        "phone": "+44 121 4649634",
+        "ref:GB:uprn": "100071310129",
+        "ref:edubase": "103605",
+        "school:type": "community;special",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.uffculme.bham.sch.uk/",
+        "wikidata": "Q26676213"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239279127,
+      "center": {
+        "lat": 52.4356684,
+        "lon": -1.8935703
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239284348,
+      "center": {
+        "lat": 52.4341871,
+        "lon": -1.8868627
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239285093,
+      "center": {
+        "lat": 52.434792,
+        "lon": -1.8858551
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239286535,
+      "center": {
+        "lat": 52.4378794,
+        "lon": -1.8913475
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259050018,
+      "center": {
+        "lat": 52.4390349,
+        "lon": -1.8902653
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259055076,
+      "center": {
+        "lat": 52.4362312,
+        "lon": -1.8937663
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259061009,
+      "center": {
+        "lat": 52.4357171,
+        "lon": -1.8943226
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265067277,
+      "center": {
+        "lat": 52.442181,
+        "lon": -1.8947966
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267291011,
+      "center": {
+        "lat": 52.4371332,
+        "lon": -1.895622
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270867336,
+      "center": {
+        "lat": 52.4419125,
+        "lon": -1.8882757
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277038110,
+      "center": {
+        "lat": 52.4350493,
+        "lon": -1.8942183
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277038583,
+      "center": {
+        "lat": 52.4339755,
+        "lon": -1.8944127
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 378097393,
+      "center": {
+        "lat": 52.4349012,
+        "lon": -1.8934959
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395868693,
+      "center": {
+        "lat": 52.4412854,
+        "lon": -1.8949699
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 8QB",
+        "addr:street": "Queensbridge Road",
+        "amenity": "school",
+        "name": "Queensbridge School and FoxHollies Special Educational Needs School",
+        "ref:edubase": "103497;103625",
+        "school:trust": "no",
+        "source:addr:postcode": "get-information-schools.service.gov.uk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 454308686,
+      "center": {
+        "lat": 52.434805,
+        "lon": -1.8941614
+      },
+      "tags": {
+        "landuse": "retail",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508682953,
+      "center": {
+        "lat": 52.4386257,
+        "lon": -1.8848348
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508685034,
+      "center": {
+        "lat": 52.4362333,
+        "lon": -1.8859861
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 598967530,
+      "center": {
+        "lat": 52.4375014,
+        "lon": -1.885525
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162742230,
+      "center": {
+        "lat": 52.4399246,
+        "lon": -1.8958286
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 8QB",
+        "amenity": "school",
+        "capacity": "557",
+        "check_date": "2025-09-09",
+        "isced:level": "0;1;2;3",
+        "max_age": "19",
+        "min_age": "2",
+        "name": "James Brindley School at Willows",
+        "not:addr:postcode": "B15 2AF",
+        "operator": "Think Differently Education Trust",
+        "operator:type": "private",
+        "operator:wikidata": "Q136006637",
+        "phone": "+44 121 666 6409 x2318",
+        "ref:edubase": "139526",
+        "ref:edubase:group": "17841",
+        "religion": "none",
+        "school:boarding": "no",
+        "school:gender": "mixed",
+        "school:group:type": "multi_academy_trust",
+        "school:multi_site": "yes",
+        "school:selective": "no",
+        "school:type": "academy;special",
+        "website": "https://www.jamesbrindley.org.uk/schools/willows/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162742234,
+      "center": {
+        "lat": 52.440973,
+        "lon": -1.8968985
+      },
+      "tags": {
+        "landuse": "commercial",
+        "source": "visual survey; bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511735489,
+      "center": {
+        "lat": 52.4410928,
+        "lon": -1.8883288
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59167792,
+      "center": {
+        "lat": 52.4325063,
+        "lon": -1.8848575
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502547744,
+      "center": {
+        "lat": 52.4266875,
+        "lon": -1.8794745
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502547768,
+      "center": {
+        "lat": 52.42581,
+        "lon": -1.8849703
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006294,
+      "center": {
+        "lat": 52.4301276,
+        "lon": -1.8808927
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71500020,
+      "center": {
+        "lat": 52.4277411,
+        "lon": -1.8831355
+      },
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:postcode": "B13 0RW",
+        "amenity": "school",
+        "capacity": "150",
+        "check_date": "2025-09-10",
+        "isced:level": "1",
+        "max_age": "11",
+        "min_age": "5",
+        "name": "The Dame Ellen Pinsent School",
+        "operator": "Birmingham Special Schools Trust",
+        "operator:type": "private",
+        "operator:wikidata": "Q122685824",
+        "phone": "+44 121 6752487",
+        "ref:GB:uprn": "100071423635",
+        "ref:edubase": "103615",
+        "ref:edubase:group": "17131",
+        "school:group:type": "trust",
+        "school:type": "foundation;special",
+        "source:addr:postcode": "get-information-schools.service.gov.uk",
+        "website": "https://www.deps.ac/",
+        "wikidata": "Q66160718"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239284248,
+      "center": {
+        "lat": 52.4305786,
+        "lon": -1.8839832
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333068274,
+      "center": {
+        "lat": 52.4281589,
+        "lon": -1.8834731
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333068275,
+      "center": {
+        "lat": 52.4274538,
+        "lon": -1.8865397
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502547767,
+      "center": {
+        "lat": 52.4268718,
+        "lon": -1.883953
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571006296,
+      "center": {
+        "lat": 52.430151,
+        "lon": -1.8853776
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062910513,
+      "center": {
+        "lat": 52.4312625,
+        "lon": -1.8822574
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53369930,
+      "center": {
+        "lat": 52.4314573,
+        "lon": -1.8797535
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 261865781,
+      "center": {
+        "lat": 52.4360622,
+        "lon": -1.8823015
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59013234,
+      "center": {
+        "lat": 52.437231,
+        "lon": -1.8817643
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508682392,
+      "center": {
+        "lat": 52.4413338,
+        "lon": -1.8813749
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511735593,
+      "center": {
+        "lat": 52.4393327,
+        "lon": -1.8843752
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1870475,
+      "center": {
+        "lat": 52.4342397,
+        "lon": -1.8969239
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "visual survey;estimate",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2912290,
+      "center": {
+        "lat": 52.4313524,
+        "lon": -1.8935655
+      },
+      "tags": {
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "building": "retail",
+        "name": "Sainsbury's",
+        "shop": "supermarket",
+        "type": "multipolygon",
+        "website": "https://stores.sainsburys.co.uk/0039/kings-heath"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1927127,
+      "center": {
+        "lat": 52.4298442,
+        "lon": -1.8981157
+      },
+      "tags": {
+        "landuse": "residential",
+        "source": "bing",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

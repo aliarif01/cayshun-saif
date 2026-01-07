@@ -1,0 +1,56 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-06T16:09:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3704996226,
+      "lat": 53.4521004,
+      "lon": -2.2578256,
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:postcode": "M16 8FB",
+        "addr:street": "Withington Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "1818637",
+        "name": "Mediterranean Cafe",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1341721654,
+      "lat": 53.4635249,
+      "lon": -2.2701214,
+      "tags": {
+        "addr:postcode": "M16 9JA",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;ice_cream",
+        "fhrs:id": "97473",
+        "name": "Bailey Italia",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6313096524,
+      "lat": 53.4587988,
+      "lon": -2.2587565,
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:housenumber": "2",
+        "addr:postcode": "M16 7RN",
+        "addr:street": "Upper Chorlton Road",
+        "amenity": "cafe",
+        "cuisine": "sandwich;sri_lankan",
+        "name": "Nasv Sandwich Bar Cafe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4281 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-07T11:25:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 367675954,
+      "lat": 52.4754627,
+      "lon": -1.9140113,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Broad St / Sheepcote St",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Sheepcote St",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "towards": "City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675990,
+      "lat": 52.47687,
+      "lon": -1.915257,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sheepcote St / Grosvenor St West",
+        "naptan:AtcoCode": "43000215601",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Grosvenor St West",
+        "naptan:Landmark": "Novotel",
+        "naptan:NaptanCode": "nwmtdpma",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SHEEPCOTE ST",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683848,
+      "lat": 52.4736897,
+      "lon": -1.916718,
+      "tags": {
+        "NaPTANAreaCode": "43000300403",
+        "asset_ref": "607339",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "FD",
+        "name": "FD",
+        "naptan:AtcoCode": "43000300403",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Five Ways Shopping Centre",
+        "naptan:Indicator": "Stop FD",
+        "naptan:NaptanCode": "nwmapdmp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "Harborne",
+        "public_transport": "platform",
+        "route_ref": "10;10H;22;23;24;29",
+        "shelter": "yes",
+        "shelter_ref": "607339",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 869962566,
+      "lat": 52.4740035,
+      "lon": -1.9170225,
+      "tags": {
+        "NaPTANAreaCode": "43000300402",
+        "asset_ref": "5073113",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "FB",
+        "name": "FB",
+        "naptan:AtcoCode": "43000300402",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Five Ways Shopping Centre",
+        "naptan:Indicator": "Stop FB",
+        "naptan:NaptanCode": "nwmapdmj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "1;103;103A;50;73;113",
+        "shelter": "yes",
+        "shelter_ref": "5073113",
+        "source": "WMCA",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4805467547,
+      "lat": 52.4739279,
+      "lon": -1.9171614,
+      "tags": {
+        "NaPTANAreaCode": "43000300401",
+        "asset_ref": "5073112",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "FC",
+        "name": "FC",
+        "naptan:AtcoCode": "43000300401",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Five Ways Shopping Centre",
+        "naptan:Indicator": "Stop FC",
+        "naptan:NaptanCode": "nwmapdmg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "10;22;23;24;29",
+        "shelter": "yes",
+        "shelter_ref": "5073112",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972619279,
+      "lat": 52.4767156,
+      "lon": -1.9156964,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grosvenor St West / Sherborne Wharf",
+        "naptan:AtcoCode": "43001331401",
+        "naptan:NaptanCode": "nwmwtpmj",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972619280,
+      "lat": 52.4749006,
+      "lon": -1.9170102,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ryland St / Broadfield Walk",
+        "naptan:AtcoCode": "43001331301",
+        "naptan:NaptanCode": "nwmwtpmp",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972661389,
+      "lat": 52.4745758,
+      "lon": -1.9181738,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grosvenor St West / Ruston St",
+        "naptan:AtcoCode": "43001331201",
+        "naptan:NaptanCode": "nwmwtpmt",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972661390,
+      "lat": 52.4772862,
+      "lon": -1.9156757,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sheepcote St / Crescent Theatre",
+        "naptan:AtcoCode": "43001331501",
+        "naptan:NaptanCode": "nwmwtpmg",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9097748899,
+      "lat": 52.4747837,
+      "lon": -1.9151039,
+      "tags": {
+        "name": "Five Ways",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "visual estimate",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9097748900,
+      "lat": 52.4746619,
+      "lon": -1.9152729,
+      "tags": {
+        "name": "Five Ways",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "visual estimate",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036222709,
+      "lat": 52.4747249,
+      "lon": -1.9151764,
+      "tags": {
+        "name": "Five Ways",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "visual estimate",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675981,
+      "lat": 52.4803909,
+      "lon": -1.9141007,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "King Edwards Rd / National Indoor Arena",
+        "naptan:AtcoCode": "43000215501",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "National Indoor Arena",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmtdtjd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "KING EDWARDS RD",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367676005,
+      "lat": 52.4790431,
+      "lon": -1.9175615,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sheepcote St / St Vincent St",
+        "naptan:AtcoCode": "43000215701",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "St Vincent St",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmtdwgm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SHEEPCOTE ST",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367682135,
+      "lat": 52.4802693,
+      "lon": -1.9161097,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saint Vincent St / King Edwards Rd",
+        "naptan:AtcoCode": "43000276801",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "King Edwards Rd",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmamwjt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SAINT VINCENT ST",
+        "naptan:Towards": "Five Ways",
+        "naptan:verified": "no",
+        "naptan_refresh": "query",
+        "public_transport": "platform",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683579,
+      "lat": 52.4824415,
+      "lon": -1.9151972,
+      "tags": {
+        "NaPTANAreaCode": "43000286201",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "layby": "yes",
+        "name": "Sandpits / Nelson St",
+        "naptan:AtcoCode": "43000286201",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Nelson St",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmapagw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SANDPITS",
+        "naptan:Towards": "City Hospital",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "yes",
+        "shelter_ref": "507325",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683581,
+      "lat": 52.4824119,
+      "lon": -1.9137266,
+      "tags": {
+        "NaPTANAreaCode": "43000286203",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "layby": "yes",
+        "name": "Sandpits / Nelson St",
+        "naptan:AtcoCode": "43000286203",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Nelson St",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmtgawg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SANDPITS",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "yes",
+        "shelter_ref": "507383",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683582,
+      "lat": 52.4844938,
+      "lon": -1.9183001,
+      "tags": {
+        "NaPTANAreaCode": "43000286301",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "LD",
+        "name": "Summer Hill Rd / Spring Hill Island",
+        "naptan:AtcoCode": "43000286301",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Spring Hill Island",
+        "naptan:Indicator": "after",
+        "naptan:NaptanCode": "nwmgjmwd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SUMMER HILL RD",
+        "naptan:Towards": "Birmingham",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "yes",
+        "shelter_ref": "5073106",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683584,
+      "lat": 52.4842513,
+      "lon": -1.9187128,
+      "tags": {
+        "NaPTANAreaCode": "43000286304",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "LE",
+        "name": "Summer Hill Rd / Spring Hill Island",
+        "naptan:AtcoCode": "43000286304",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Spring Hill Island",
+        "naptan:Indicator": "before",
+        "naptan:NaptanCode": "nwmgjmwg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SUMMER HILL RD",
+        "naptan:Towards": "City Hospital",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "yes",
+        "shelter_ref": "5073107",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2020306803,
+      "lat": 52.478811,
+      "lon": -1.9183685,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Sherborne Wharf Water Bus Stop",
+        "network": "Sherborne Wharf Waterbus",
+        "note": "water bus",
+        "operator": "Sherborne Wharf",
+        "public_transport": "stop_position",
+        "ref": "Water Bus Stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734683621,
+      "lat": 52.4814947,
+      "lon": -1.9141346,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Clement St / Townsend Way",
+        "naptan:AtcoCode": "43001326701",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Townsend Way",
+        "naptan:NaptanCode": "nwmajajg",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "CLEMENT ST",
+        "public_transport": "platform",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972619276,
+      "lat": 52.4803818,
+      "lon": -1.9137705,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "King Edwards Rd / National Indoor Arena",
+        "naptan:AtcoCode": "43000215502",
+        "naptan:NaptanCode": "nwmtdtjd",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "naptan",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972619277,
+      "lat": 52.480402,
+      "lon": -1.9161015,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saint Vincent St / King Edwards Rd",
+        "naptan:AtcoCode": "43000276802",
+        "naptan:NaptanCode": "nwmwmjpd",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7972619278,
+      "lat": 52.4789433,
+      "lon": -1.9176679,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sheepcote St / St Vincent St",
+        "naptan:AtcoCode": "43000215702",
+        "naptan:NaptanCode": "nwmwmjpg",
+        "naptan:Status": "del",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "source": "naptan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675631,
+      "lat": 52.4727109,
+      "lon": -1.9104308,
+      "tags": {
+        "NaPTANAreaCode": "43000214301",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bath Row / Bexhill Grove",
+        "naptan:AtcoCode": "43000214301",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Bexhill Grove",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmajpga",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BATH ROW",
+        "naptan:Towards": "Birmingham",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "507363",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675636,
+      "lat": 52.4727275,
+      "lon": -1.9085464,
+      "tags": {
+        "NaPTANAreaCode": "43000214302",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bath Row / Bexhill Grove",
+        "naptan:AtcoCode": "43000214302",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Bexhill Grove",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmajpgd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BATH ROW",
+        "naptan:Towards": "Five Ways",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "507362",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675743,
+      "lat": 52.4772681,
+      "lon": -1.9114932,
+      "tags": {
+        "NaPTANAreaCode": "43000215203",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "BR7",
+        "name": "BR7",
+        "naptan:AtcoCode": "43000215203",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Brindleyplace",
+        "naptan:Indicator": "Stop BR7",
+        "naptan:NaptanCode": "nwmajpgw",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "Bearwood",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "shelter_ref": "0215202",
+        "source": "WMCA",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675759,
+      "lat": 52.4773038,
+      "lon": -1.911699,
+      "tags": {
+        "NaPTANAreaCode": "43000215201",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "BR6",
+        "name": "BR6",
+        "naptan:AtcoCode": "43000215201",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Brindleyplace",
+        "naptan:Indicator": "Stop BR6",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "1;126;127;128",
+        "shelter": "yes",
+        "shelter_ref": "0215203",
+        "source": "WMCA",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675772,
+      "lat": 52.4773902,
+      "lon": -1.91158,
+      "tags": {
+        "NaPTANAreaCode": "43000215202",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "BR5",
+        "name": "BR5",
+        "naptan:AtcoCode": "43000215202",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Brindleyplace",
+        "naptan:Indicator": "Stop BR5",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "payment": "no",
+        "public_transport": "platform",
+        "public_transport_ticket": "Swift Card",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA;survey",
+        "top_up": "yes",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367693720,
+      "lat": 52.4723183,
+      "lon": -1.9127763,
+      "tags": {
+        "NaPTANAreaCode": "43003003003",
+        "asset_ref": "607328",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "FG",
+        "name": "FG",
+        "naptan:AtcoCode": "43003003003",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Five Ways Station",
+        "naptan:Indicator": "Stop FG",
+        "naptan:NaptanCode": "nwmdmpma",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BATH ROW",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "607328",
+        "source": "WMCA",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3785139604,
+      "lat": 52.4766489,
+      "lon": -1.9123513,
+      "tags": {
+        "name": "Brindley Place",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9097748901,
+      "lat": 52.476736,
+      "lon": -1.9122984,
+      "tags": {
+        "name": "Brindley Place",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320709222,
+      "lat": 52.4756776,
+      "lon": -1.9135292,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Broad St / Sheepcote St",
+        "naptan:AtcoCode": "43000215303",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Sheepcote St",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmajpjp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "towards": "City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320709223,
+      "lat": 52.4766907,
+      "lon": -1.9122452,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Sheepcote St",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320709224,
+      "lat": 52.4767827,
+      "lon": -1.9122564,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Sheepcote St",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12350891476,
+      "lat": 52.4766878,
+      "lon": -1.9123108,
+      "tags": {
+        "name": "Brindley Place",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "visual estimate",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12535298102,
+      "lat": 52.4774762,
+      "lon": -1.9090288,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "image": "https://live.staticflickr.com/3477/3748935685_4ea0140e50_b.jpg",
+        "name": "Gas Street Basin Water Bus Stop",
+        "network": "Sherborne Wharf Waterbus",
+        "note": "water bus",
+        "operator": "Sherborne Wharf",
+        "public_transport": "stop_position",
+        "ref": "Water Bus Stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673210,
+      "lat": 52.4779041,
+      "lon": -1.9021591,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "NA1",
+        "name": "NA1",
+        "name_on_sign": "Navigation Street",
+        "naptan:AtcoCode": "43000204001",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Hill Street",
+        "naptan:Indicator": "Stop NA1",
+        "naptan:NaptanCode": "nwmajdad",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NAVIGATION ST",
+        "naptan:Towards": "New Street Interchange and Mar",
+        "public_transport": "platform",
+        "route_ref": "81;89;126;127;128",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673255,
+      "lat": 52.4755774,
+      "lon": -1.9008374,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date": "2025-03-17",
+        "check_date:tactile_paving": "2025-03-17",
+        "highway": "bus_stop",
+        "local_ref": "SF1",
+        "mapillary": "328664511941816",
+        "name": "SF1",
+        "name_on_sign": "Suffolk Street Queensway",
+        "naptan:AtcoCode": "43000204401",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Alexandra Theatre",
+        "naptan:Indicator": "Stop SF1",
+        "naptan:NaptanCode": "nwmajdga",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SUFFOLK ST QUEENSWAY",
+        "naptan:Towards": "New Street, Moor Street and Bu",
+        "public_transport": "platform",
+        "route_ref": "10H;82;87;126",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675567,
+      "lat": 52.4739903,
+      "lon": -1.9025223,
+      "tags": {
+        "NaPTANAreaCode": "43000214101",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "mapillary": "818722515427135",
+        "name": "HH1",
+        "naptan:AtcoCode": "43000214101",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Ernest St",
+        "naptan:Indicator": "Stop HH1",
+        "naptan:NaptanCode": "nwmajpdp",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HOLLOWAY HEAD",
+        "naptan:Towards": "Five Ways",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "507360",
+        "source": "WMCA",
+        "survey:date": "2019-05-28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675582,
+      "lat": 52.4740255,
+      "lon": -1.9028445,
+      "tags": {
+        "NaPTANAreaCode": "43000214102",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "mapillary": "810688529571192",
+        "name": "HH2",
+        "naptan:AtcoCode": "43000214102",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Ernest St",
+        "naptan:Indicator": "Stop HH2",
+        "naptan:NaptanCode": "nwmtdpmw",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HOLLOWAY HEAD",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "5073139",
+        "source": "WMCA",
+        "survey:date": "2019-05-28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675605,
+      "lat": 52.4728786,
+      "lon": -1.9063378,
+      "tags": {
+        "NaPTANAreaCode": "43000214201",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "mapillary": "306365507709369",
+        "name": "Bath Row / Granville St",
+        "naptan:AtcoCode": "43000214201",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Granville St",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmajpdt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BATH ROW",
+        "naptan:Towards": "Five Ways",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "507388",
+        "source": "WMCA",
+        "survey:date": "2019-05-28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675618,
+      "lat": 52.4730849,
+      "lon": -1.9058515,
+      "tags": {
+        "NaPTANAreaCode": "43000214202",
+        "asset_ref": "50736",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "location": "Bath Row / Granville Street",
+        "name": "Bath Row / Granville St",
+        "naptan:AtcoCode": "43000214202",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Granville St",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmajpdw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BATH ROW",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "80;98;99",
+        "shelter": "yes",
+        "shelter_ref": "507361",
+        "source": "WMCA",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739812005,
+      "lat": 52.4753247,
+      "lon": -1.906557,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "The Mailbox Water Bus Stop",
+        "network": "Sherborne Wharf Waterbus",
+        "note": "water bus",
+        "operator": "Sherborne Wharf",
+        "public_transport": "stop_position",
+        "ref": "Water Bus Stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13078861906,
+      "lat": 52.4778892,
+      "lon": -1.902916,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Brunel Street",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673952,
+      "lat": 52.4811344,
+      "lon": -1.9078208,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PR1",
+        "naptan:AtcoCode": "43000205701",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Fleet St",
+        "naptan:Indicator": "Stop PR1",
+        "naptan:NaptanCode": "nwmgdpja",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "PARADE",
+        "naptan:Towards": "City Hospital",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675646,
+      "lat": 52.4787794,
+      "lon": -1.9084706,
+      "tags": {
+        "NaPTANAreaCode": "43001360001",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "BR4",
+        "name": "BR4",
+        "naptan:AtcoCode": "43001360001",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Library Metro",
+        "naptan:Indicator": "Stop BR4",
+        "naptan:NaptanCode": "nwmpmdtm",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;22;23;24;29;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675674,
+      "lat": 52.4787459,
+      "lon": -1.907639,
+      "tags": {
+        "NaPTANAreaCode": "43001360004",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "layby": "yes",
+        "lit": "yes",
+        "local_ref": "BR1",
+        "name": "BR1",
+        "naptan:AtcoCode": "43001360004",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Library Metro",
+        "naptan:Indicator": "Stop BR1",
+        "naptan:NaptanCode": "nwmptpta",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROAD ST",
+        "naptan:Towards": "Bearwood",
+        "public_transport": "platform",
+        "route_ref": "9;120;126;127;128;129;140;X10",
+        "shelter": "yes",
+        "shelter_ref": "0215102",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367675968,
+      "lat": 52.4795893,
+      "lon": -1.9115654,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cambridge St / International Convention Centre",
+        "naptan:AtcoCode": "43000215401",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "International Convention Centre",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmtdpjt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "CAMBRIDGE ST",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683541,
+      "lat": 52.4844947,
+      "lon": -1.9094983,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NH7",
+        "naptan:AtcoCode": "43000284702",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Vittoria St",
+        "naptan:Indicator": "Stop NH7",
+        "naptan:NaptanCode": "nwmgjmtj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GRAHAM ST",
+        "naptan:Towards": "City Hospital, Jewellery Quart",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683576,
+      "lat": 52.4818898,
+      "lon": -1.9099411,
+      "tags": {
+        "NaPTANAreaCode": "43000286101",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "PR2",
+        "naptan:AtcoCode": "43000286101",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Charlotte St",
+        "naptan:Indicator": "Stop PR2",
+        "naptan:NaptanCode": "nwmapagm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "PARADE",
+        "naptan:Towards": "City Hospital",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "yes",
+        "shelter_ref": "507366",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367683577,
+      "lat": 52.4821152,
+      "lon": -1.9099109,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "PR3",
+        "naptan:AtcoCode": "43000286102",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Charlotte St",
+        "naptan:Indicator": "Stop PR3",
+        "naptan:NaptanCode": "nwmapagp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "PARADE",
+        "naptan:Towards": "City Centre",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734676339,
+      "lat": 52.4841796,
+      "lon": -1.9073884,
+      "tags": {
+        "NaPTANAreaCode": "43000284601",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NH5",
+        "naptan:AtcoCode": "43000284601",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Charlotte St",
+        "naptan:Indicator": "Stop NH5",
+        "naptan:NaptanCode": "nwmdtdgm",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL ST",
+        "naptan:Towards": "City Hospital, Jewellery Quart",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "yes",
+        "shelter_ref": "507381",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734679146,
+      "lat": 52.4827353,
+      "lon": -1.9107354,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Newhall Hill / George St",
+        "naptan:AtcoCode": "43000283302",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "George St",
+        "naptan:Indicator": "before",
+        "naptan:NaptanCode": "nwmgjmpa",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL HILL",
+        "naptan:Towards": "City Hospital",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990613929,
+      "lat": 52.4786921,
+      "lon": -1.9083552,
+      "tags": {
+        "name": "Library",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990613930,
+      "lat": 52.478714,
+      "lon": -1.9083705,
+      "tags": {
+        "name": "Library",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7033800792,
+      "lat": 52.4803165,
+      "lon": -1.9076463,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Cambridge St / Baskerville House",
+        "naptan:AtcoCode": "43002154002",
+        "naptan:NaptanCode": "nwmdmpat",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "9;10;12;12A;13;13A;126;X8;X10",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7033800793,
+      "lat": 52.48043,
+      "lon": -1.9076705,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cambridge St / Baskerville House",
+        "naptan:AtcoCode": "43002154001",
+        "naptan:NaptanCode": "nwmdmpap",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "9;10;12;12A;13;13A;126;X8;X10",
+        "shelter": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036222711,
+      "lat": 52.4787027,
+      "lon": -1.9083636,
+      "tags": {
+        "name": "Library",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12535298103,
+      "lat": 52.4783199,
+      "lon": -1.9118598,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Brindleyplace Water Bus Stop",
+        "network": "Sherborne Wharf Waterbus",
+        "note": "water bus",
+        "operator": "Sherborne Wharf",
+        "public_transport": "stop_position",
+        "ref": "Water Bus Stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 310429179,
+      "lat": 52.4785706,
+      "lon": -1.9046559,
+      "tags": {
+        "asset_ref": "507314",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "PC4",
+        "name": "PC4",
+        "name_on_sign": "Suffolk Street Queensway",
+        "naptan:AtcoCode": "43000204101",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Paradise Circus",
+        "naptan:Indicator": "Stop PC4",
+        "naptan:NaptanCode": "nwmajdag",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SUFFOLK ST QUEENSWAY",
+        "naptan:Towards": "New Street, Moor Street and Bu",
+        "public_transport": "platform",
+        "route_ref": "10H;82;87;126",
+        "shelter": "yes",
+        "source": "WMCA",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 330256385,
+      "lat": 52.4834033,
+      "lon": -1.9057147,
+      "tags": {
+        "NaPTANAreaCode": "43000284602",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "NH4",
+        "name": "NH4",
+        "name_on_sign": "Newhall St / Charlotte St",
+        "naptan:AtcoCode": "43000284602",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Charlotte St",
+        "naptan:Indicator": "Stop NH4",
+        "naptan:NaptanCode": "nwmdtdgp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL ST",
+        "naptan:Towards": "City Centre",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "yes",
+        "shelter_ref": "507379",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673482,
+      "lat": 52.4820222,
+      "lon": -1.904199,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "GC3",
+        "name": "GC3",
+        "name_on_sign": "Great Charles St Queensway",
+        "naptan:AtcoCode": "43000205201",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Municipal Offices",
+        "naptan:Indicator": "Stop GC3",
+        "naptan:NaptanCode": "nwmajdmp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GREAT CHARLES ST QUEENSWAY",
+        "naptan:Towards": "Snow Hill Interchange",
+        "public_transport": "platform",
+        "route_ref": "9;10;22;23;24;29;83;89;120;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673932,
+      "lat": 52.4813246,
+      "lon": -1.9046616,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "GC1",
+        "name": "GC1",
+        "name_on_sign": "Great Charles St Queensway",
+        "naptan:AtcoCode": "43000205207",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Municipal Offices",
+        "naptan:Indicator": "Stop GC1",
+        "naptan:NaptanCode": "nwmajdpj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GREAT CHARLES ST QUEENSWAY",
+        "naptan:Towards": "Bearwood, Harborne, Quinton an",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;82;83;87;89;120;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673938,
+      "lat": 52.4809507,
+      "lon": -1.9028008,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "ES1",
+        "name": "Edmund St / Art Gallery",
+        "name_on_sign": "Margaret Street",
+        "naptan:AtcoCode": "43000205601",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Art Gallery",
+        "naptan:Indicator": "Stop ES1",
+        "naptan:NaptanCode": "nwmajdpw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "EDMUND ST",
+        "naptan:Towards": "Bearwood, Harborne, Quinton an",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;82;83;87;89;120;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367674269,
+      "lat": 52.4838901,
+      "lon": -1.9018159,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "GC4",
+        "name": "GC4",
+        "name_on_sign": "Great Charles St Queensway",
+        "naptan:AtcoCode": "43000207102",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Railway Bridge",
+        "naptan:Indicator": "Stop GC4",
+        "naptan:NaptanCode": "nwmajgdm",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GREAT CHARLES ST QUEENSWAY",
+        "naptan:Towards": "Snow Hill Interchange",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "9;10;22;23;24;29;83;89;120;127;128;129;140;X10",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367682745,
+      "lat": 52.4821179,
+      "lon": -1.9031522,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "NH2",
+        "naptan:AtcoCode": "43000284502",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Great Charles St",
+        "naptan:Indicator": "Stop NH2",
+        "naptan:NaptanCode": "nwmwgpmw",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL ST",
+        "naptan:Towards": "City Centre",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830967489,
+      "lat": 52.4816381,
+      "lon": -1.9024534,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "NH1",
+        "name": "NH1",
+        "name_on_sign": "Newhall St / Gt Charles St",
+        "naptan:AtcoCode": "43000284501",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Great Charles St",
+        "naptan:Indicator": "Stop NH1",
+        "naptan:NaptanCode": "nwmapadm",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL ST",
+        "naptan:Towards": "City Hospital, Jewellery Quart",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471544574,
+      "lat": 52.4781583,
+      "lon": -1.9007604,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "4c",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4722259374,
+      "lat": 52.4802537,
+      "lon": -1.9022382,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Big Brum Buz",
+        "naptan": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "bing",
+        "tactile_paving": "no",
+        "tourism": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734668212,
+      "lat": 52.4831165,
+      "lon": -1.9053202,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NH3",
+        "naptan:AtcoCode": "43002810501",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Lionel Street",
+        "naptan:Indicator": "Stop NH3",
+        "naptan:NaptanCode": "nwmpjtjp",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "NEWHALL ST",
+        "naptan:Towards": "City Hospital, Jewellery Quarter",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734668346,
+      "lat": 52.4834855,
+      "lon": -1.9040209,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LN1",
+        "naptan:AtcoCode": "43002847501",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Ludgate Hill",
+        "naptan:Indicator": "Stop LN1",
+        "naptan:NaptanCode": "nwmwdawg",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "LIONEL ST",
+        "naptan:Towards": "Newtown, Lozells",
+        "public_transport": "platform",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734674534,
+      "lat": 52.481761,
+      "lon": -1.9045392,
+      "tags": {
+        "NaPTANAreaCode": "43000205202",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "image": "https://storage11.openstreetcam.org/files/photo/2019/2/9/lth/1338831_95fa3_2041.jpg",
+        "name": "GC2",
+        "naptan:AtcoCode": "43000205202",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Newhall St",
+        "naptan:Indicator": "Stop GC2",
+        "naptan:NaptanCode": "nwmajdmt",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GREAT CHARLES ST QUEENSWAY",
+        "public_transport": "platform",
+        "shelter": "no",
+        "shelter_ref": "5073136",
+        "source": "WMCA",
+        "survey:date": "2019-02-09",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957345553,
+      "lat": 52.479299,
+      "lon": -1.9033827,
+      "tags": {
+        "name": "Town Hall",
+        "public_transport": "stop_position",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8064476589,
+      "lat": 52.4792628,
+      "lon": -1.9033597,
+      "tags": {
+        "name": "Town Hall",
+        "public_transport": "stop_position",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10021625802,
+      "lat": 52.4812513,
+      "lon": -1.9064654,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Birmingham Summer Road",
+        "naptan:AtcoCode": "43001338301",
+        "naptan:Bearing": "SE",
+        "naptan:CommonName": "Centenary Way",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmwjdgm",
+        "naptan:Street": "PARADISE CIRCUS QUEENSWAY",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036222712,
+      "lat": 52.4792845,
+      "lon": -1.9033787,
+      "tags": {
+        "name": "Town Hall",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136002,
+      "lat": 52.4781227,
+      "lon": -1.9007919,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "4c",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13078861907,
+      "lat": 52.4808809,
+      "lon": -1.9033621,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "ES1",
+        "name": "MG1",
+        "name_on_sign": "Margaret Street",
+        "naptan:AtcoCode": "43001337601",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Edmund St",
+        "naptan:Indicator": "Stop MG1",
+        "naptan:NaptanCode": "nwmwjatm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "MARGARET ST",
+        "naptan:Towards": "Bearwood, Harborne, Quinton an",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "ref": "43001337601",
+        "route_ref": "9;10;10H;82;83;87;89;120;127;128;129;140;X10",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13169328101,
+      "lat": 52.4780163,
+      "lon": -1.9030623,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Brunel street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178947934,
+      "lat": 52.4776505,
+      "lon": -1.8978672,
+      "tags": {
+        "name": "Birmingham New Street",
+        "network": "National Rail",
+        "operator": "Network Rail",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "7a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256777152,
+      "lat": 52.4774752,
+      "lon": -1.8979168,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "9a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 319564777,
+      "lat": 52.4761782,
+      "lon": -1.8969288,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "NS6",
+        "name": "NS6",
+        "name_on_sign": "Smallbrook Queensway",
+        "naptan:AtcoCode": "43000203504",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Smallbrook Queensway",
+        "naptan:Indicator": "Stop NS6",
+        "naptan:NaptanCode": "nwmajatj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SMALLBROOK QUEENSWAY",
+        "naptan:Towards": "Five Ways, Selly Oak and Queen",
+        "public_transport": "platform",
+        "route_ref": "63;80;98;99;126;X61;X64",
+        "shelter": "yes",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367672358,
+      "lat": 52.4777417,
+      "lon": -1.8963326,
+      "tags": {
+        "NaPTANAreaCode": "43000201701",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date:shelter": "2025-11-16",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "NS1",
+        "name": "NS1",
+        "name_on_sign": "St Martins Q'way / New Street Station",
+        "naptan:AtcoCode": "43000201701",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "New Street Station",
+        "naptan:Indicator": "Stop NS1",
+        "naptan:NaptanCode": "nwmagwap",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ST. MARTINS QUEENSWAY",
+        "naptan:Towards": "Selly Oak, Northfield",
+        "public_transport": "platform",
+        "route_ref": "63;X61",
+        "shelter": "yes",
+        "shelter_ref": "0201701",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673001,
+      "lat": 52.4759256,
+      "lon": -1.8980703,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "NS7",
+        "name": "NS7",
+        "name_on_sign": "Smallbrook Queensway",
+        "naptan:AtcoCode": "43000203501",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Smallbrook Queensway",
+        "naptan:Indicator": "Stop NS7",
+        "naptan:NaptanCode": "nwmajata",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "SMALLBROOK QUEENSWAY",
+        "naptan:Towards": "Moor Street, Bull Street/Prior",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "63;82;87;98;99;144;146;X61;X64",
+        "shelter": "yes",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673318,
+      "lat": 52.4743287,
+      "lon": -1.8996921,
+      "tags": {
+        "NaPTANAreaCode": "43000204701",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "HF1",
+        "mapillary": "1680547032136907",
+        "name": "HF1",
+        "name_on_sign": "Holloway Circus / O2 Academy",
+        "naptan:AtcoCode": "43000204701",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "O2 Academy",
+        "naptan:Indicator": "Stop HF1",
+        "naptan:NaptanCode": "nwmajdjd",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HOLLOWAY CIRCUS QWAY",
+        "naptan:Towards": "Selly Oak, Northfield",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "63;144;146;X61;X64",
+        "shelter": "yes",
+        "shelter_ref": "5073138",
+        "source": "WMCA",
+        "survey:date": "2019-09-05",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367673325,
+      "lat": 52.4738533,
+      "lon": -1.8999461,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "mapillary": "1208928116201018",
+        "name": "HF2",
+        "naptan:AtcoCode": "43000204702",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "O2 Academy",
+        "naptan:Indicator": "Stop HF2",
+        "naptan:NaptanCode": "nwmajdjg",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HOLLOWAY CIRCUS QWAY",
+        "naptan:Towards": "City Centre",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "63;144;146;X61;X64",
+        "shelter": "no",
+        "source": "WMCA",
+        "survey:date": "2019-09-04",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747349558,
+      "lat": 52.4778097,
+      "lon": -1.8979235,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "5a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747405601,
+      "lat": 52.4779607,
+      "lon": -1.8979394,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "3a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747405634,
+      "lat": 52.4774143,
+      "lon": -1.8978487,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "10a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747405655,
+      "lat": 52.4776058,
+      "lon": -1.8977919,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "8a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 863988489,
+      "lat": 52.4778063,
+      "lon": -1.9000793,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "7b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1481872238,
+      "lat": 52.4773389,
+      "lon": -1.8976652,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "11a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1481872256,
+      "lat": 52.4773302,
+      "lon": -1.899796,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "11b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1481872262,
+      "lat": 52.4773097,
+      "lon": -1.8998671,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "12b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1481872288,
+      "lat": 52.477276,
+      "lon": -1.8977452,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "12a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1829594489,
+      "lat": 52.4775292,
+      "lon": -1.8962483,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "NS4",
+        "name": "NS4",
+        "name_on_sign": "St Martins Queensway",
+        "naptan:AtcoCode": "43000201704",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "New St Station",
+        "naptan:Indicator": "Stop NS4",
+        "naptan:NaptanCode": "nwmagwda",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ST. MARTINS QUEENSWAY",
+        "naptan:Towards": "Stirchley, Cotteridge, Kings N",
+        "public_transport": "platform",
+        "route_ref": "45;47",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543206,
+      "lat": 52.4778482,
+      "lon": -1.8983756,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "5a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543207,
+      "lat": 52.4772883,
+      "lon": -1.8985172,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "11a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543209,
+      "lat": 52.4779137,
+      "lon": -1.8983591,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "4a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543210,
+      "lat": 52.4774974,
+      "lon": -1.8984643,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "9a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543212,
+      "lat": 52.4773352,
+      "lon": -1.8985053,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "10a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543213,
+      "lat": 52.4775046,
+      "lon": -1.9001867,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "covered": "yes",
+        "lit": "yes",
+        "name": "10b",
+        "public_transport": "platform",
+        "ref": "10b",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543215,
+      "lat": 52.4777345,
+      "lon": -1.8984044,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "6a",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543223,
+      "lat": 52.4771616,
+      "lon": -1.8985492,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "12a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543226,
+      "lat": 52.4777019,
+      "lon": -1.8984126,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "7a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543235,
+      "lat": 52.4775466,
+      "lon": -1.8984519,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "8a",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543239,
+      "lat": 52.4774622,
+      "lon": -1.9001947,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "covered": "yes",
+        "lit": "yes",
+        "name": "11b",
+        "public_transport": "platform",
+        "ref": "11b",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543243,
+      "lat": 52.4773527,
+      "lon": -1.9002189,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "covered": "yes",
+        "lit": "yes",
+        "name": "12b",
+        "public_transport": "platform",
+        "ref": "12b",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761667101,
+      "lat": 52.4775124,
+      "lon": -1.9000299,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "10b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4007731855,
+      "lat": 52.4777388,
+      "lon": -1.897794,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "6a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4007731856,
+      "lat": 52.4779092,
+      "lon": -1.8979249,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "4a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223791185,
+      "lat": 52.4769624,
+      "lon": -1.8981384,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NS10",
+        "naptan:AtcoCode": "43000202603",
+        "naptan:Indicator": "Stop NS10",
+        "naptan_refresh": "query",
+        "public_transport": "platform",
+        "route_ref": "10H;80;126",
+        "shelter": "yes",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734623968,
+      "lat": 52.4768794,
+      "lon": -1.8985116,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NS9",
+        "naptan:AtcoCode": "43000202602",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Old Repertory Theatre",
+        "naptan:Indicator": "Stop NS9",
+        "naptan:NaptanCode": "nwmajadt",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "STATION ST",
+        "naptan:Towards": "xxx",
+        "public_transport": "platform",
+        "route_ref": "16;16A;16W",
+        "shelter": "yes",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734623969,
+      "lat": 52.4767326,
+      "lon": -1.8989948,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NS8",
+        "naptan:AtcoCode": "43000202601",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Old Repertory Theatre",
+        "naptan:Indicator": "Stop NS8",
+        "naptan:NaptanCode": "nwmajadp",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "STATION ST",
+        "naptan:Towards": "xxx",
+        "public_transport": "platform",
+        "route_ref": "45;47",
+        "shelter": "yes",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6765532062,
+      "lat": 52.4776459,
+      "lon": -1.898694,
+      "tags": {
+        "addr:city": "Birmingham",
+        "addr:housename": "Birmingham New Street station",
+        "addr:postcode": "B2 4QA",
+        "addr:street": "Station Street",
+        "alt_name": "Birmingham New Street railway station;Birmingham New Street train station",
+        "name": "Birmingham New Street",
+        "naptan:AtcoCode": "9100BHAMNWS",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bhm/",
+        "network:wikidata": "Q26334",
+        "operator": "Network Rail",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "BHM",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "west_midlands_fare_zone": "1",
+        "wheelchair": "yes",
+        "wikidata": "Q683063",
+        "wikipedia": "en:Birmingham New Street railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887119597,
+      "lat": 52.4775834,
+      "lon": -1.8999946,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "9b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887119598,
+      "lat": 52.4777371,
+      "lon": -1.9001019,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "8b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887119600,
+      "lat": 52.4779354,
+      "lon": -1.9000461,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "6b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 20984433,
+      "lat": 52.4834796,
+      "lon": -1.8992405,
+      "tags": {
+        "name": "Birmingham Snow Hill",
+        "naptan:AtcoCode": "9100BHAMSNH",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bsw/",
+        "network:wikidata": "Q26334",
+        "operator": "West Midlands Trains (West Midlands Railway)",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "BSW",
+        "source": "knowledge",
+        "train": "yes",
+        "west_midlands_fare_zone": "1",
+        "wheelchair": "yes",
+        "wikidata": "Q3280363",
+        "wikipedia": "en:Birmingham Snow Hill railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367674006,
+      "lat": 52.481325,
+      "lon": -1.8997767,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "SH1",
+        "name": "SH1",
+        "name_on_sign": "Colmore Row",
+        "naptan:AtcoCode": "43000206203",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Colmore Row",
+        "naptan:Indicator": "Stop SH1",
+        "naptan:Landmark": "St Phillips Churchyard",
+        "naptan:NaptanCode": "nwmajdtg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "COLMORE ROW",
+        "naptan:Towards": "Moor Street Interchange, City",
+        "public_transport": "platform",
+        "route_ref": "9;10;10H;140;X10",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367676563,
+      "lat": 52.4823919,
+      "lon": -1.8984197,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "SH4",
+        "name": "SH4",
+        "name_on_sign": "Livery Street",
+        "naptan:AtcoCode": "43000209801",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Snow Hill Station",
+        "naptan:Indicator": "Stop SH4",
+        "naptan:NaptanCode": "nwmajmdm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "LIVERY ST",
+        "naptan:Towards": "Handsworth, Perry Barr and Per",
+        "public_transport": "platform",
+        "route_ref": "7;46",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 696449779,
+      "lat": 52.4816667,
+      "lon": -1.8990495,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "SH2",
+        "name": "SH2",
+        "name_on_sign": "Colmore Row",
+        "naptan:AtcoCode": "43000206202",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Colmore Row",
+        "naptan:Indicator": "Stop SH2",
+        "naptan:Landmark": "St Phillips Churchyard",
+        "naptan:NaptanCode": "nwmajdtd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "COLMORE ROW",
+        "naptan:Towards": "Bearwood, Quinton and Halesowe",
+        "public_transport": "platform",
+        "route_ref": "82;83;87;89;120;127;128;129",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 696449781,
+      "lat": 52.481862,
+      "lon": -1.8986474,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "SH3",
+        "name": "SH3",
+        "name_on_sign": "Colmore Row",
+        "naptan:AtcoCode": "43000206201",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Colmore Row",
+        "naptan:Indicator": "Stop SH3",
+        "naptan:Landmark": "St Phillips Churchyard",
+        "naptan:NaptanCode": "nwmajdta",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "COLMORE ROW",
+        "naptan:Towards": "Harborne, Bartley Green, Quinton and Northfield",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2470441584,
+      "lat": 52.4783437,
+      "lon": -1.8999549,
+      "tags": {
+        "public_transport": "platform",
+        "ref": "1b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471329480,
+      "lat": 52.4780557,
+      "lon": -1.8983202,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "2a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471329484,
+      "lat": 52.4780213,
+      "lon": -1.8983319,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "3a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471329487,
+      "lat": 52.4781994,
+      "lon": -1.9000023,
+      "tags": {
+        "public_transport": "platform",
+        "ref": "3b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543211,
+      "lat": 52.4780535,
+      "lon": -1.900066,
+      "tags": {
+        "public_transport": "platform",
+        "ref": "5b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471543217,
+      "lat": 52.4781009,
+      "lon": -1.9000499,
+      "tags": {
+        "public_transport": "platform",
+        "ref": "4b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3464500416,
+      "lat": 52.48005,
+      "lon": -1.8969,
+      "tags": {
+        "name": "Corporation Street",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3616332640,
+      "lat": 52.4785939,
+      "lon": -1.899246,
+      "tags": {
+        "name": "Grand Central",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761543502,
+      "lat": 52.4782394,
+      "lon": -1.8999892,
+      "tags": {
+        "public_transport": "platform",
+        "ref": "2b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761594734,
+      "lat": 52.4781551,
+      "lon": -1.8982919,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "1a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957692526,
+      "lat": 52.4780944,
+      "lon": -1.8980219,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "1a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4007731857,
+      "lat": 52.4780627,
+      "lon": -1.8979877,
+      "tags": {
+        "local_ref": "2a",
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "2a",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4007757511,
+      "lat": 52.4835694,
+      "lon": -1.8996065,
+      "tags": {
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4007757512,
+      "lat": 52.4836505,
+      "lon": -1.8994202,
+      "tags": {
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4204911706,
+      "lat": 52.4786257,
+      "lon": -1.8992366,
+      "tags": {
+        "name": "Grand Central",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4216185185,
+      "lat": 52.4796964,
+      "lon": -1.8972181,
+      "tags": {
+        "name": "Corporation Street",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9283248937,
+      "lat": 52.4825712,
+      "lon": -1.8976204,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "SH6",
+        "naptan:AtcoCode": "43000209901",
+        "naptan:Bearing": "NE",
+        "naptan:CommonName": "Great Western Arcade",
+        "naptan:Indicator": "Stop SH6",
+        "naptan:NaptanCode": "nwmtpmdt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Street": "COLMORE ROW",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9366875425,
+      "lat": 52.4836259,
+      "lon": -1.899468,
+      "tags": {
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036222713,
+      "lat": 52.4786126,
+      "lon": -1.8992387,
+      "tags": {
+        "name": "Grand Central",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12420274307,
+      "lat": 52.4816248,
+      "lon": -1.8991371,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "iata": "ZBC",
+        "name": "Colmore Row Bus Station",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136001,
+      "lat": 52.4779981,
+      "lon": -1.9000249,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "5b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136003,
+      "lat": 52.4781527,
+      "lon": -1.9002454,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "4b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136004,
+      "lat": 52.4781854,
+      "lon": -1.9002424,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "3b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136005,
+      "lat": 52.4783003,
+      "lon": -1.9003024,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "2b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12887136006,
+      "lat": 52.4783229,
+      "lon": -1.9002414,
+      "tags": {
+        "name": "Birmingham New Street",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "1b",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 330256379,
+      "lat": 52.4846479,
+      "lon": -1.9086681,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NH6",
+        "naptan:AtcoCode": "43000284701",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Vittoria St",
+        "naptan:Indicator": "Stop NH6",
+        "naptan:NaptanCode": "nwmgjmtg",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GRAHAM ST",
+        "naptan:Towards": "City Centre",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367681944,
+      "lat": 52.4855603,
+      "lon": -1.9107806,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vittoria St / Regent Place",
+        "naptan:AtcoCode": "43000274601",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Regent Place",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmwamdg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VITTORIA ST",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367682552,
+      "lat": 52.4847136,
+      "lon": -1.9116062,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date:shelter": "2025-11-23",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Frederick St / Graham St",
+        "naptan:AtcoCode": "43000283402",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Graham St",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmgjmpg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "FREDERICK ST",
+        "naptan:Towards": "Handsworth",
+        "public_transport": "platform",
+        "route_ref": "101",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367682555,
+      "lat": 52.4869843,
+      "lon": -1.9129208,
+      "tags": {
+        "NaPTANAreaCode": "43000283501",
+        "asset_ref": "5073140",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "JB",
+        "name": "Warstone Lane / The Clock",
+        "naptan:AtcoCode": "43000283501",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "The Clock",
+        "naptan:Indicator": "outside",
+        "naptan:NaptanCode": "nwmgjmpj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "WARSTONE LANE",
+        "naptan:Towards": "Five Ways, Handsworth",
+        "public_transport": "platform",
+        "route_ref": "8A;101",
+        "shelter": "yes",
+        "shelter_ref": "5073140",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1831054094,
+      "lat": 52.4848445,
+      "lon": -1.9021672,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "LN2",
+        "name": "LN2",
+        "name_on_sign": "Lionel St / Livery St",
+        "naptan:AtcoCode": "43002847601",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Livery St",
+        "naptan:Indicator": "Stop LN2",
+        "naptan:NaptanCode": "nwmwgdgw",
+        "naptan:PlusbusZoneRef": "West Midlands",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "LIONEL ST",
+        "naptan:Towards": "Newtown, Lozells",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "7;46",
+        "shelter": "yes",
+        "source": "WMCA",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4207951089,
+      "lat": 52.4847421,
+      "lon": -1.9003339,
+      "tags": {
+        "name": "St. Chads",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4207951090,
+      "lat": 52.4847175,
+      "lon": -1.9003719,
+      "tags": {
+        "name": "St. Chads",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036222715,
+      "lat": 52.4847485,
+      "lon": -1.9003934,
+      "tags": {
+        "name": "St Chads",
+        "railway": "tram_stop",
+        "source": "survey",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983895512,
+      "center": {
+        "lat": 52.474691,
+        "lon": -1.9151314
+      },
+      "tags": {
+        "bench": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "visual estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983895513,
+      "center": {
+        "lat": 52.4747625,
+        "lon": -1.9152281
+      },
+      "tags": {
+        "bench": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "visual estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983895514,
+      "center": {
+        "lat": 52.4767911,
+        "lon": -1.9122977
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "visual estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983895515,
+      "center": {
+        "lat": 52.4766527,
+        "lon": -1.9123097
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "visual estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60168251,
+      "center": {
+        "lat": 52.4782022,
+        "lon": -1.9003019
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60170849,
+      "center": {
+        "lat": 52.4777572,
+        "lon": -1.9001599
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "8b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60170853,
+      "center": {
+        "lat": 52.477504,
+        "lon": -1.8999921
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "name": "11b",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "11b",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60170857,
+      "center": {
+        "lat": 52.4777169,
+        "lon": -1.900164
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "name": "9b",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "9b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 72843250,
+      "center": {
+        "lat": 52.4848266,
+        "lon": -1.9013899
+      },
+      "tags": {
+        "layer": "1",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239296910,
+      "center": {
+        "lat": 52.4781949,
+        "lon": -1.9012057
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4c",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301725,
+      "center": {
+        "lat": 52.4773081,
+        "lon": -1.8997656
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "name": "12b",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "12b",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301726,
+      "center": {
+        "lat": 52.4775348,
+        "lon": -1.8999876
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "name": "10b",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "10b",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302495,
+      "center": {
+        "lat": 52.4778572,
+        "lon": -1.9000378
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "7b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302498,
+      "center": {
+        "lat": 52.4782205,
+        "lon": -1.9002975
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302499,
+      "center": {
+        "lat": 52.4780023,
+        "lon": -1.8997005
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "5b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302502,
+      "center": {
+        "lat": 52.4778822,
+        "lon": -1.9000257
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "6b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239338292,
+      "center": {
+        "lat": 52.4783278,
+        "lon": -1.9003454
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1b",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371625590,
+      "center": {
+        "lat": 52.4781886,
+        "lon": -1.9010254
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4b",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391419265,
+      "center": {
+        "lat": 52.4842374,
+        "lon": -1.9005317
+      },
+      "tags": {
+        "layer": "1",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391419268,
+      "center": {
+        "lat": 52.484538,
+        "lon": -1.9005295
+      },
+      "tags": {
+        "layer": "1",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153265664,
+      "center": {
+        "lat": 52.4842989,
+        "lon": -1.9005063
+      },
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755281377,
+      "center": {
+        "lat": 52.4786657,
+        "lon": -1.9083888
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755281378,
+      "center": {
+        "lat": 52.4787135,
+        "lon": -1.908423
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391419266,
+      "center": {
+        "lat": 52.4843945,
+        "lon": -1.9007572
+      },
+      "tags": {
+        "layer": "1",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752700487,
+      "center": {
+        "lat": 52.4793081,
+        "lon": -1.9034234
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "no",
+        "source": "visual estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752700488,
+      "center": {
+        "lat": 52.4792498,
+        "lon": -1.9033211
+      },
+      "tags": {
+        "bench": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "yes",
+        "source": "visual estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60170854,
+      "center": {
+        "lat": 52.4774933,
+        "lon": -1.8977058
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "10a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301727,
+      "center": {
+        "lat": 52.4772454,
+        "lon": -1.8980609
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "12a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301728,
+      "center": {
+        "lat": 52.4775731,
+        "lon": -1.8978379
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "9a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301729,
+      "center": {
+        "lat": 52.4776058,
+        "lon": -1.8978372
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "8a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239301730,
+      "center": {
+        "lat": 52.4774671,
+        "lon": -1.8977085
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "11a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302493,
+      "center": {
+        "lat": 52.4778707,
+        "lon": -1.897795
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "5a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302494,
+      "center": {
+        "lat": 52.4777158,
+        "lon": -1.897857
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "7a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302503,
+      "center": {
+        "lat": 52.4777375,
+        "lon": -1.8978553
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "6a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371625589,
+      "center": {
+        "lat": 52.4778667,
+        "lon": -1.8970749
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4a",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302496,
+      "center": {
+        "lat": 52.4780254,
+        "lon": -1.8995112
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "no",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4b",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302497,
+      "center": {
+        "lat": 52.4779084,
+        "lon": -1.8981259
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302504,
+      "center": {
+        "lat": 52.4780124,
+        "lon": -1.8979699
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392551627,
+      "center": {
+        "lat": 52.4779082,
+        "lon": -1.8981259
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4a",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302500,
+      "center": {
+        "lat": 52.4780391,
+        "lon": -1.8979625
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239302501,
+      "center": {
+        "lat": 52.4781439,
+        "lon": -1.8979518
+      },
+      "tags": {
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "layer": "-1",
+        "level": "0",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1a",
+        "shelter": "yes",
+        "source": "visual survey;estimate",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391419267,
+      "center": {
+        "lat": 52.4843647,
+        "lon": -1.9002554
+      },
+      "tags": {
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398001253,
+      "center": {
+        "lat": 52.4837974,
+        "lon": -1.8998875
+      },
+      "tags": {
+        "bench": "yes",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398001254,
+      "center": {
+        "lat": 52.483908,
+        "lon": -1.8996365
+      },
+      "tags": {
+        "bench": "yes",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420542647,
+      "center": {
+        "lat": 52.4800639,
+        "lon": -1.8969279
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420542648,
+      "center": {
+        "lat": 52.4796535,
+        "lon": -1.8972155
+      },
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "lit": "no",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420545889,
+      "center": {
+        "lat": 52.4786417,
+        "lon": -1.8992172
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420545890,
+      "center": {
+        "lat": 52.4785743,
+        "lon": -1.8992554
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 72843251,
+      "center": {
+        "lat": 52.4849704,
+        "lon": -1.9012035
+      },
+      "tags": {
+        "layer": "1",
+        "level": "-1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "source": "visual survey;cities_revealed_aerial_imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422635980,
+      "center": {
+        "lat": 52.4847005,
+        "lon": -1.9004234
+      },
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422635981,
+      "center": {
+        "lat": 52.4847772,
+        "lon": -1.9003093
+      },
+      "tags": {
+        "bench": "yes",
+        "bicycle": "yes",
+        "bin": "no",
+        "foot": "yes",
+        "lit": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    }
+  ]
+}
