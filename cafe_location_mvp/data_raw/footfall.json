@@ -1,0 +1,3307 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-07T11:32:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 367687756,
+      "lat": 52.4285502,
+      "lon": -1.9038688,
+      "tags": {
+        "NaPTANAreaCode": "43000412402",
+        "asset_ref": "610572",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vicarage Rd / Cartland Rd",
+        "naptan:AtcoCode": "43000412402",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Cartland Rd",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmdadwm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "11A;35",
+        "shelter": "yes",
+        "shelter_ref": "610572",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687760,
+      "lat": 52.4280425,
+      "lon": -1.9023559,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Grove Rd / Norton View",
+        "naptan:AtcoCode": "43000412501",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Norton View",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmgmdjg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "GROVE RD",
+        "naptan:Towards": "Kings Heath",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "69;46",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687770,
+      "lat": 52.4295422,
+      "lon": -1.9013826,
+      "tags": {
+        "NaPTANAreaCode": "43000412701",
+        "asset_ref": "610508",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "check_date:shelter": "2025-04-20",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Vicarage Rd / King Edwards Camp Hill School",
+        "naptan:AtcoCode": "43000412701",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "King Edwards Camp Hill School",
+        "naptan:Indicator": "adj",
+        "naptan:Landmark": "Red Lion",
+        "naptan:NaptanCode": "nwmdadwp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "11A;35;69",
+        "shelter": "yes",
+        "shelter_ref": "610508",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687771,
+      "lat": 52.4295732,
+      "lon": -1.9009634,
+      "tags": {
+        "NaPTANAreaCode": "43000412702",
+        "asset_ref": "610581",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "check_date:shelter": "2025-04-20",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Vicarage Rd / King Edwards Camp Hill School",
+        "naptan:AtcoCode": "43000412702",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "King Edwards Camp Hill School",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmdadwt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Cotteridge, Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "11C;35;69",
+        "shelter": "yes",
+        "shelter_ref": "610581",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Cotteridge; Hawkesley"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687775,
+      "lat": 52.4309025,
+      "lon": -1.8979275,
+      "tags": {
+        "NaPTANAreaCode": "43000412803",
+        "asset_ref": "610637",
+        "bus": "yes",
+        "electronic_information_board": "yes",
+        "highway": "bus_stop",
+        "name": "Vicarage Rd / Kings Heath Park",
+        "naptan:AtcoCode": "43000412803",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Kings Heath Park",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmdagad",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "11A;35;69",
+        "shelter": "yes",
+        "shelter_ref": "610637",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687778,
+      "lat": 52.4306334,
+      "lon": -1.8982461,
+      "tags": {
+        "NaPTANAreaCode": "43000412804",
+        "bus": "yes",
+        "electronic_information_board": "yes",
+        "highway": "bus_stop",
+        "name": "Vicarage Rd / Kings Heath Park",
+        "naptan:AtcoCode": "43000412804",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Kings Heath Park",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmdagag",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Cotteridge, Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "11C;35;69",
+        "shelter": "yes",
+        "shelter_ref": "610632",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Cotteridge; Hawkesley"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367694350,
+      "lat": 52.4312807,
+      "lon": -1.8976479,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Avenue Rd / Kings Heath Park",
+        "naptan:AtcoCode": "43004102001",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Kings Heath Park",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmpjwgt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "AVENUE RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367694352,
+      "lat": 52.4314267,
+      "lon": -1.8980161,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Avenue Rd / Kings Heath Park",
+        "naptan:AtcoCode": "43004102002",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Kings Heath Park",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmpjwgw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "AVENUE RD",
+        "naptan:Towards": "Selly Oak, Bournville",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no",
+        "towards": "Selly Oak; Bournville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550647361,
+      "lat": 52.4302053,
+      "lon": -1.899519,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "pelican",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9707427702,
+      "lat": 52.4287145,
+      "lon": -1.900093,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "highway": "crossing",
+        "ref": "E1546",
+        "source": "survey",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "yes",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135668606,
+      "lat": 52.4303311,
+      "lon": -1.8993796,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "capacity": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 92700672,
+      "lat": 52.4268778,
+      "lon": -1.8882031,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "yes",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687825,
+      "lat": 52.4317874,
+      "lon": -1.8929319,
+      "tags": {
+        "NaPTANAreaCode": "43000413401",
+        "asset_ref": "610665",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KD",
+        "name": "KD",
+        "naptan:AtcoCode": "43000413401",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Addison Rd",
+        "naptan:Indicator": "Stop KD",
+        "naptan:Landmark": "Sainsburys",
+        "naptan:NaptanCode": "nwmdagjg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Maypole",
+        "public_transport": "platform",
+        "route_ref": "34;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "610665",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687829,
+      "lat": 52.4319532,
+      "lon": -1.8929482,
+      "tags": {
+        "NaPTANAreaCode": "43000413402",
+        "asset_ref": "610664",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KC",
+        "name": "KC",
+        "naptan:AtcoCode": "43000413402",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Addison Rd",
+        "naptan:Indicator": "Stop KC",
+        "naptan:Landmark": "Sainsburys",
+        "naptan:NaptanCode": "nwmdagjm",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Hall Green, Yardley Wood",
+        "public_transport": "platform",
+        "route_ref": "11A;27;69;76",
+        "shelter": "yes",
+        "shelter_ref": "610664",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687830,
+      "lat": 52.4317159,
+      "lon": -1.8926546,
+      "tags": {
+        "NaPTANAreaCode": "43000413404",
+        "asset_ref": "610666",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KG",
+        "name": "KG",
+        "naptan:AtcoCode": "43000413404",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Addison Rd",
+        "naptan:Indicator": "Stop KG",
+        "naptan:Landmark": "Sainsburys",
+        "naptan:NaptanCode": "nwmdagjp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "50;50A;76;150;46",
+        "shelter": "yes",
+        "shelter_ref": "610666",
+        "source": "WMCA",
+        "towards": "Birmingham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687835,
+      "lat": 52.4318559,
+      "lon": -1.8938196,
+      "tags": {
+        "NaPTANAreaCode": "43000413501",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KH",
+        "name": "KH",
+        "naptan:AtcoCode": "43000413501",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "All Saints Rd",
+        "naptan:Indicator": "Stop KH",
+        "naptan:NaptanCode": "nwmdagjt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALL SAINTS RD",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "shelter_ref": "610634",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687839,
+      "lat": 52.4313704,
+      "lon": -1.8924371,
+      "tags": {
+        "NaPTANAreaCode": "43000413602",
+        "asset_ref": "610626",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KE",
+        "name": "KE",
+        "naptan:AtcoCode": "43000413602",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "High St",
+        "naptan:Indicator": "Stop KE",
+        "naptan:NaptanCode": "nwmdagma",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ADDISON RD",
+        "naptan:Towards": "Cotteridge",
+        "public_transport": "platform",
+        "route_ref": "11C;27",
+        "shelter": "yes",
+        "shelter_ref": "610626",
+        "source": "WMCA",
+        "towards": "Cotteridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687842,
+      "lat": 52.4313652,
+      "lon": -1.8881288,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Addison Rd / Melton Rd",
+        "naptan:AtcoCode": "43000413701",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Melton Rd",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmdagmg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ADDISON RD",
+        "naptan:Towards": "Hall Green",
+        "public_transport": "platform",
+        "route_ref": "11A;27;34;69",
+        "shelter": "no",
+        "source": "WMCA",
+        "towards": "Hall Green, Yardley Wood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687852,
+      "lat": 52.4285164,
+      "lon": -1.8926414,
+      "tags": {
+        "NaPTANAreaCode": "43000413801",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Alcester Rd South / Howard Rd",
+        "naptan:AtcoCode": "43000413801",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Howard Rd",
+        "naptan:Indicator": "before",
+        "naptan:NaptanCode": "nwmdagmp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Maypole",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "50;50A;76;150",
+        "shelter": "yes",
+        "shelter_ref": "610644",
+        "source": "WMCA",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687857,
+      "lat": 52.4284296,
+      "lon": -1.8928264,
+      "tags": {
+        "NaPTANAreaCode": "43000413802",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Alcester Rd South / Howard Rd",
+        "naptan:AtcoCode": "43000413802",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Howard Rd",
+        "naptan:Indicator": "after",
+        "naptan:NaptanCode": "nwmdagmt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Kings Heath",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "50;50A;76;150;46",
+        "shelter": "yes",
+        "shelter_ref": "610669",
+        "source": "WMCA",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687932,
+      "lat": 52.4259286,
+      "lon": -1.892422,
+      "tags": {
+        "NaPTANAreaCode": "43000414101",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alcester Rd South / Wheelers Lane",
+        "naptan:AtcoCode": "43000414101",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Wheelers Lane",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmdagmw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Maypole",
+        "public_transport": "platform",
+        "route_ref": "50;50A;76;150",
+        "shelter": "yes",
+        "shelter_ref": "610645",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687946,
+      "lat": 52.4261894,
+      "lon": -1.8925978,
+      "tags": {
+        "NaPTANAreaCode": "43000414102",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "image": "https://storage13.openstreetcam.org/files/photo/2021/5/6/lth/3556913_3b002_6093e9bbaa4f7.jpg",
+        "name": "Alcester Rd South / Wheelers Lane",
+        "naptan:AtcoCode": "43000414102",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Wheelers Lane",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmdagpa",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD SOUTH",
+        "naptan:Towards": "Birmingham",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "50;50A;76;150",
+        "shelter": "yes",
+        "shelter_ref": "610647",
+        "source": "WMCA",
+        "survey:date": "2021-05-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674906510,
+      "lat": 52.4314535,
+      "lon": -1.8930964,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "231",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Kings Heath Sainsburys",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674906512,
+      "lat": 52.4311314,
+      "lon": -1.8929453,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "operator": "bcc",
+        "ref": "E1527",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676050697,
+      "lat": 52.4306398,
+      "lon": -1.8930519,
+      "tags": {
+        "asset_ref": "601684",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "KF",
+        "naptan_refresh": "query",
+        "public_transport": "platform",
+        "route_ref": "Ring and Ride",
+        "shelter": "yes",
+        "source": "GPS Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676070344,
+      "lat": 52.4320166,
+      "lon": -1.8929566,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "222",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath south of Drayton Road",
+        "source": "GPS Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401129027,
+      "lat": 52.430968,
+      "lon": -1.8928556,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "221",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath near Addison Road",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731898546,
+      "lat": 52.4305127,
+      "lon": -1.8932399,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "232",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Carphone Warehouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724174623,
+      "lat": 52.4255816,
+      "lon": -1.8924795,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "ref": "E1529",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5378729322,
+      "lat": 52.4268945,
+      "lon": -1.8881814,
+      "tags": {
+        "crossing": "zebra",
+        "crossing:island": "no",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257712360,
+      "lat": 52.4333528,
+      "lon": -1.9006708,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367685523,
+      "lat": 52.4362722,
+      "lon": -1.9049575,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Dads Lane / Shutlock Lane",
+        "naptan:AtcoCode": "43000376301",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Shutlock Lane",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmgjwmp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "DADS LANE",
+        "naptan:Towards": "Selly Oak, Bournville",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no",
+        "towards": "Selly Oak; Bournville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687864,
+      "lat": 52.4338403,
+      "lon": -1.901108,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Avenue Rd / Grange Rd",
+        "naptan:AtcoCode": "43000413901",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Grange Rd",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmgmdjt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "AVENUE RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687922,
+      "lat": 52.4335502,
+      "lon": -1.9008154,
+      "tags": {
+        "NaPTANAreaCode": "43000413902",
+        "asset_ref": "610546",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "mapillary": "887465941813903",
+        "name": "Avenue Rd / Grange Rd",
+        "naptan:AtcoCode": "43000413902",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Grange Rd",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmgmdjw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "AVENUE RD",
+        "naptan:Towards": "Selly Oak, Bournville",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "no",
+        "shelter_ref": "610546",
+        "source": "WMCA",
+        "survey:date": "2019-01-27",
+        "towards": "Selly Oak; Bournville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 760735755,
+      "lat": 52.4362655,
+      "lon": -1.9046632,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "yes",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 760735920,
+      "lat": 52.4363529,
+      "lon": -1.9046473,
+      "tags": {
+        "crossing": "unmarked",
+        "crossing:island": "yes",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11135579304,
+      "lat": 52.4335012,
+      "lon": -1.9008958,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "capacity": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12370843507,
+      "lat": 52.4374002,
+      "lon": -1.9017422,
+      "tags": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Birmingham City Council",
+        "operator:type": "government"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367685528,
+      "lat": 52.4379658,
+      "lon": -1.896743,
+      "tags": {
+        "NaPTANAreaCode": "43000376302",
+        "asset_ref": "608920",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "mapillary": "1220775688347350",
+        "name": "Dads Lane / Shutlock Lane",
+        "naptan:AtcoCode": "43000376302",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Shutlock Lane",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmgjwmt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "DADS LANE",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "27;76",
+        "shelter": "yes",
+        "shelter_ref": "608920",
+        "source": "WMCA",
+        "survey:date": "2019-01-27",
+        "tactile_paving": "no",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687786,
+      "lat": 52.4324055,
+      "lon": -1.8941391,
+      "tags": {
+        "NaPTANAreaCode": "43000413002",
+        "asset_ref": "610631",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KL",
+        "name": "KL",
+        "naptan:AtcoCode": "43000413002",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "All Saints Church",
+        "naptan:Indicator": "Stop KL",
+        "naptan:NaptanCode": "nwmdagam",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Hall Green",
+        "public_transport": "platform",
+        "route_ref": "11A",
+        "shelter": "yes",
+        "shelter_ref": "610657",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Hall Green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687790,
+      "lat": 52.432219,
+      "lon": -1.8943274,
+      "tags": {
+        "NaPTANAreaCode": "43000413003",
+        "asset_ref": "610631",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KJ",
+        "name": "KJ",
+        "naptan:AtcoCode": "43000413003",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "All Saints Church",
+        "naptan:Indicator": "Stop KJ",
+        "naptan:NaptanCode": "nwmdagap",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Cotteridge",
+        "public_transport": "platform",
+        "route_ref": "11C",
+        "shelter": "yes",
+        "shelter_ref": "610631",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Cotteridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687791,
+      "lat": 52.4321455,
+      "lon": -1.8945037,
+      "tags": {
+        "NaPTANAreaCode": "43000413004",
+        "asset_ref": "610660",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KK",
+        "name": "KK",
+        "naptan:AtcoCode": "43000413004",
+        "naptan:Bearing": "SW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "All Saints Church",
+        "naptan:Indicator": "Stop KK",
+        "naptan:NaptanCode": "nwmdagat",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Stirchley, Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "27;35;69;76",
+        "shelter": "yes",
+        "shelter_ref": "610660",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Stirchley;Hawksley"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1577706458,
+      "lat": 52.4337164,
+      "lon": -1.8944524,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing",
+        "source": "bing",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6481241497,
+      "lat": 52.4338761,
+      "lon": -1.8945804,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "operator": "Lidl",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256775964,
+      "lat": 52.4344564,
+      "lon": -1.8912959,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "223",
+        "capacity": "8",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256775965,
+      "lat": 52.4346149,
+      "lon": -1.8927799,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "223",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath cornerof Heathfield Road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687783,
+      "lat": 52.4324821,
+      "lon": -1.8939028,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "check_date:shelter": "2025-04-16",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "KM",
+        "name": "KM",
+        "naptan:AtcoCode": "43000413001",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "All Saints Church",
+        "naptan:Indicator": "Stop KM",
+        "naptan:Landmark": "All Saints' Church",
+        "naptan:NaptanCode": "nwmdagaj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "VICARAGE RD",
+        "naptan:Towards": "Yardley Wood",
+        "public_transport": "platform",
+        "route_ref": "27;35;69;76",
+        "shelter": "no",
+        "source": "WMCA",
+        "tactile_paving": "no",
+        "towards": "Birmingham (via Salisbury Road)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687794,
+      "lat": 52.4376611,
+      "lon": -1.8927532,
+      "tags": {
+        "NaPTANAreaCode": "43000413101",
+        "asset_ref": "609041",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "High St / Station Rd",
+        "naptan:AtcoCode": "43000413101",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Station Rd",
+        "naptan:Indicator": "adj",
+        "naptan:Landmark": "Police Station",
+        "naptan:NaptanCode": "nwmdagaw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "35;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "609041",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687801,
+      "lat": 52.4363391,
+      "lon": -1.8925306,
+      "tags": {
+        "NaPTANAreaCode": "43000413201",
+        "asset_ref": "609070",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "High St / Poplar Rd",
+        "naptan:AtcoCode": "43000413201",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Poplar Rd",
+        "naptan:Indicator": "adj",
+        "naptan:Landmark": "Gala Bingo",
+        "naptan:NaptanCode": "nwmdagdg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Maypole, Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "35;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "609070",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687804,
+      "lat": 52.435713,
+      "lon": -1.8927603,
+      "tags": {
+        "NaPTANAreaCode": "43000413202",
+        "asset_ref": "609071",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date:shelter": "2025-04-18",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "High St / Poplar Rd",
+        "naptan:AtcoCode": "43000413202",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Poplar Rd",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmdagdj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Birmingham",
+        "public_transport": "platform",
+        "route_ref": "35;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "609071",
+        "source": "WMCA",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687806,
+      "lat": 52.4340384,
+      "lon": -1.8928416,
+      "tags": {
+        "NaPTANAreaCode": "43000413301",
+        "asset_ref": "610663",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KB",
+        "name": "KB",
+        "naptan:AtcoCode": "43000413301",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Institute Rd",
+        "naptan:Indicator": "Stop KB",
+        "naptan:Landmark": "All Saints Church",
+        "naptan:NaptanCode": "nwmdagdp",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Maypole",
+        "public_transport": "platform",
+        "route_ref": "50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "610663",
+        "source": "WMCA",
+        "towards": "Maypole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687812,
+      "lat": 52.4341654,
+      "lon": -1.8928237,
+      "tags": {
+        "NaPTANAreaCode": "43000413302",
+        "asset_ref": "610662",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KA",
+        "name": "KA",
+        "naptan:AtcoCode": "43000413302",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Institute Rd",
+        "naptan:Indicator": "Stop KA",
+        "naptan:Landmark": "All Saints Church",
+        "naptan:NaptanCode": "nwmdagdt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "34;35;69",
+        "shelter": "yes",
+        "shelter_ref": "610662",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687815,
+      "lat": 52.4329239,
+      "lon": -1.8931521,
+      "tags": {
+        "NaPTANAreaCode": "43000413303",
+        "asset_ref": "610667",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "check_date": "2025-04-16",
+        "check_date:lit": "2025-04-16",
+        "highway": "bus_stop",
+        "image": "https://storage13.openstreetcam.org/files/photo/2021/5/6/lth/3556861_e5a99_6093e5ffc2082.jpg",
+        "lit": "yes",
+        "local_ref": "KN",
+        "name": "KN",
+        "naptan:AtcoCode": "43000413303",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Institute Rd",
+        "naptan:Indicator": "Stop KN",
+        "naptan:Landmark": "All Saints Church",
+        "naptan:NaptanCode": "nwmdagdw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Birmingham (via Moseley Rd)",
+        "public_transport": "platform",
+        "route_ref": "50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "610667",
+        "source": "WMCA",
+        "tactile_paving": "yes",
+        "towards": "Birmingham (via Moseley Road)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687820,
+      "lat": 52.4330921,
+      "lon": -1.8931439,
+      "tags": {
+        "NaPTANAreaCode": "43000413304",
+        "asset_ref": "610668",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "KP",
+        "mapillary": "274334817717694",
+        "name": "KP",
+        "naptan:AtcoCode": "43000413304",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Institute Rd",
+        "naptan:Indicator": "Stop KP",
+        "naptan:Landmark": "All Saints Church",
+        "naptan:NaptanCode": "nwmdagja",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Birmingham (via Salisbury Rd)",
+        "public_transport": "platform",
+        "route_ref": "35",
+        "shelter": "yes",
+        "shelter_ref": "610668",
+        "source": "WMCA",
+        "survey:date": "2019-01-27",
+        "tactile_paving": "yes",
+        "towards": "Birmingham (via Salisbury Road)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 563225942,
+      "lat": 52.437831,
+      "lon": -1.8928969,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "226",
+        "capacity": "6",
+        "covered": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673406920,
+      "lat": 52.4367415,
+      "lon": -1.89246,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "225",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "name": "Kings Heath Cinema",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676072288,
+      "lat": 52.4355149,
+      "lon": -1.8927252,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "ref": "E1526",
+        "source": "survey",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699047579,
+      "lat": 52.4372141,
+      "lon": -1.8926594,
+      "tags": {
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "pelican",
+        "highway": "crossing",
+        "kerb": "flush",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401129029,
+      "lat": 52.4322046,
+      "lon": -1.8931701,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "230",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "name": "Kings Heath opposite Drayton Road",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1471979290,
+      "lat": 52.4327763,
+      "lon": -1.8933684,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "541",
+        "bicycle_parking": "gates",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Kings Heath Church",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1471990318,
+      "lat": 52.4326673,
+      "lon": -1.8929891,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "272",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath corner of Kingsfield Road",
+        "source": "visual survey;estimate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1471990343,
+      "lat": 52.433452,
+      "lon": -1.8929982,
+      "tags": {
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "source": "visual survey;bing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1577705009,
+      "lat": 52.4364341,
+      "lon": -1.8903682,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing:island": "no",
+        "highway": "crossing",
+        "kerb": "flush",
+        "source": "bing",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731852977,
+      "lat": 52.4380137,
+      "lon": -1.893081,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "95",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath Police Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731868557,
+      "lat": 52.4352049,
+      "lon": -1.8927095,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "224",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "name": "Kings Heath High Street south of Poplar Road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731962137,
+      "lat": 52.4364693,
+      "lon": -1.8926794,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "227",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "name": "Kings Heath outside Bike Pro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731962148,
+      "lat": 52.4340729,
+      "lon": -1.8929804,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bcc_ref": "229",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "name": "Kings Heath corner of Silver Street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2398742941,
+      "lat": 52.4323349,
+      "lon": -1.8930754,
+      "tags": {
+        "crossing_ref": "pelican",
+        "highway": "crossing",
+        "source": "BING;BCC_CycleData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8941384624,
+      "lat": 52.4324522,
+      "lon": -1.8932714,
+      "tags": {
+        "crossing:island": "yes",
+        "crossing:signals": "yes",
+        "highway": "crossing",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687707,
+      "lat": 52.4403043,
+      "lon": -1.8926812,
+      "tags": {
+        "NaPTANAreaCode": "43000410301",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alcester Rd / Queensbridge School",
+        "naptan:AtcoCode": "43000410301",
+        "naptan:Bearing": "N",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Queensbridge School",
+        "naptan:Indicator": "adj",
+        "naptan:NaptanCode": "nwmdadtg",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ALCESTER RD",
+        "naptan:Towards": "Birmingham",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "35;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "609049",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687798,
+      "lat": 52.4387035,
+      "lon": -1.8925193,
+      "tags": {
+        "NaPTANAreaCode": "43000413102",
+        "asset_ref": "609048",
+        "bus": "yes",
+        "electronic_information_board": "yes",
+        "highway": "bus_stop",
+        "name": "High St / Station Rd",
+        "naptan:AtcoCode": "43000413102",
+        "naptan:Bearing": "S",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Station Rd",
+        "naptan:Indicator": "opp",
+        "naptan:Landmark": "Police Station",
+        "naptan:NaptanCode": "nwmdagda",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "HIGH ST",
+        "naptan:Towards": "Maypole, Hawkesley",
+        "public_transport": "platform",
+        "route_ref": "35;50;50A;150",
+        "shelter": "yes",
+        "shelter_ref": "609048",
+        "source": "WMCA",
+        "towards": "Maypole, Hawkesley"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13378577669,
+      "lat": 52.4392648,
+      "lon": -1.8928105,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687847,
+      "lat": 52.431323,
+      "lon": -1.8868113,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Addison Rd / Melton Rd",
+        "naptan:AtcoCode": "43000413702",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Melton Rd",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmdagmj",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ADDISON RD",
+        "naptan:Towards": "Kings Heath",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "11C;27",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367688043,
+      "lat": 52.4281606,
+      "lon": -1.8855042,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Wheelers Lane / Hollie Lucas Rd",
+        "naptan:AtcoCode": "43000415301",
+        "naptan:Bearing": "NE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Hollie Lucas Rd",
+        "naptan:Indicator": "opp",
+        "naptan:NaptanCode": "nwmptdtd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "WHEELERS LANE",
+        "naptan:Towards": "Yardley Wood",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "76",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367688329,
+      "lat": 52.4320599,
+      "lon": -1.8826793,
+      "tags": {
+        "NaPTANAreaCode": "43000421102",
+        "asset_ref": "610686",
+        "bus": "yes",
+        "electronic_information_board": "yes",
+        "highway": "bus_stop",
+        "name": "Brook Lane / Billesley Hall",
+        "naptan:AtcoCode": "43000421102",
+        "naptan:Bearing": "E",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Billesley Hall",
+        "naptan:Indicator": "adj",
+        "naptan:Landmark": "Moseley Golf Club",
+        "naptan:NaptanCode": "nwmdajgd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BROOK LANE",
+        "naptan:Towards": "Hall Green",
+        "public_transport": "platform",
+        "route_ref": "11A;69",
+        "shelter": "yes",
+        "shelter_ref": "610686",
+        "source": "WMCA",
+        "towards": "Acocks Green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367694344,
+      "lat": 52.432009,
+      "lon": -1.8840229,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Addison Rd / Billesley Hall",
+        "naptan:AtcoCode": "43004101501",
+        "naptan:Bearing": "W",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Billesley Hall",
+        "naptan:Indicator": "after",
+        "naptan:NaptanCode": "nwmdmwdt",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "ADDISON RD",
+        "naptan:Towards": "Kings Heath",
+        "public_transport": "platform",
+        "route_ref": "11C;27",
+        "shelter": "no",
+        "source": "WMCA",
+        "towards": "Kings Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367694348,
+      "lat": 52.4314626,
+      "lon": -1.883153,
+      "tags": {
+        "building": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Barn Lane / Addison Rd",
+        "naptan:AtcoCode": "43004101601",
+        "naptan:Bearing": "SE",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Addison Rd",
+        "naptan:Indicator": "after",
+        "naptan:NaptanCode": "nwmwajwa",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BARN LANE",
+        "naptan:Towards": "Yardley Wood",
+        "naptan:verified": "no",
+        "public_transport": "platform",
+        "route_ref": "NOT IN USE",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687726,
+      "lat": 52.433708,
+      "lon": -1.8858134,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Billesley Lane / Springfield Road",
+        "naptan:AtcoCode": "43000411601",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Springfield Road",
+        "naptan:Indicator": "before",
+        "naptan:NaptanCode": "nwmptdpw",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BILLESLEY LANE",
+        "naptan:Towards": "Kings Heath",
+        "physically_present": "no",
+        "public_transport": "platform",
+        "route_ref": "34",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 367687730,
+      "lat": 52.4332212,
+      "lon": -1.885179,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Billesley Lane / Springfield Road",
+        "naptan:AtcoCode": "43000411602",
+        "naptan:Bearing": "NW",
+        "naptan:BusStopType": "MKD",
+        "naptan:CommonName": "Springfield Road",
+        "naptan:Indicator": "after",
+        "naptan:NaptanCode": "nwmtpjwd",
+        "naptan:PlusbusZoneRef": "BHAMNWS",
+        "naptan:Status": "ACT",
+        "naptan:StopType": "BCT",
+        "naptan:Street": "BILLESLEY LANE",
+        "naptan:Towards": "Moseley",
+        "physically_present": "no",
+        "public_transport": "platform",
+        "route_ref": "34;69",
+        "source": "WMCA"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22959358,
+      "center": {
+        "lat": 52.4327119,
+        "lon": -1.9035694
+      },
+      "tags": {
+        "foot": "yes",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32017781,
+      "center": {
+        "lat": 52.4319133,
+        "lon": -1.8994474
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55178917,
+      "center": {
+        "lat": 52.4316463,
+        "lon": -1.9003009
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621871,
+      "center": {
+        "lat": 52.4312812,
+        "lon": -1.9008428
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621884,
+      "center": {
+        "lat": 52.4323239,
+        "lon": -1.9018701
+      },
+      "tags": {
+        "foot": "yes",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621903,
+      "center": {
+        "lat": 52.4323442,
+        "lon": -1.90154
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202299431,
+      "center": {
+        "lat": 52.4307786,
+        "lon": -1.9006724
+      },
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648683,
+      "center": {
+        "lat": 52.4321554,
+        "lon": -1.9023881
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648684,
+      "center": {
+        "lat": 52.4320651,
+        "lon": -1.9022965
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648685,
+      "center": {
+        "lat": 52.4320921,
+        "lon": -1.9013948
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48661797,
+      "center": {
+        "lat": 52.4277415,
+        "lon": -1.9033255
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621901,
+      "center": {
+        "lat": 52.4308902,
+        "lon": -1.9005827
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202376694,
+      "center": {
+        "lat": 52.4311613,
+        "lon": -1.9012405
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "BING"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203508858,
+      "center": {
+        "lat": 52.429975,
+        "lon": -1.9057409
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397551880,
+      "center": {
+        "lat": 52.4299811,
+        "lon": -1.9036475
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648686,
+      "center": {
+        "lat": 52.4318943,
+        "lon": -1.9015386
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648688,
+      "center": {
+        "lat": 52.4317159,
+        "lon": -1.9009579
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056458297,
+      "center": {
+        "lat": 52.4288508,
+        "lon": -1.9007823
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277765713,
+      "center": {
+        "lat": 52.430166,
+        "lon": -1.8939417
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 545008708,
+      "center": {
+        "lat": 52.4285047,
+        "lon": -1.8939378
+      },
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1229266611,
+      "center": {
+        "lat": 52.4276834,
+        "lon": -1.8874455
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621893,
+      "center": {
+        "lat": 52.4307217,
+        "lon": -1.900108
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621899,
+      "center": {
+        "lat": 52.4310651,
+        "lon": -1.8976902
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266175,
+      "center": {
+        "lat": 52.4286097,
+        "lon": -1.8951464
+      },
+      "tags": {
+        "bcc20mphproject": "report_Area_3_revA",
+        "gritting": "priority_3",
+        "highway": "path",
+        "lit": "yes",
+        "maintenance": "gritting",
+        "maxspeed": "20 mph",
+        "name": "All Saints Road",
+        "postal_code": "B14",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266177,
+      "center": {
+        "lat": 52.4287748,
+        "lon": -1.896622
+      },
+      "tags": {
+        "highway": "path",
+        "maxspeed": "20 mph",
+        "name": "Hazelhurst Road",
+        "postal_code": "B14",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266179,
+      "center": {
+        "lat": 52.4289657,
+        "lon": -1.8995405
+      },
+      "tags": {
+        "highway": "path",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Colmore Road",
+        "postal_code": "B14",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056458327,
+      "center": {
+        "lat": 52.4287595,
+        "lon": -1.8973482
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216676169,
+      "center": {
+        "lat": 52.4290542,
+        "lon": -1.8910643
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255597791,
+      "center": {
+        "lat": 52.4273212,
+        "lon": -1.889434
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255597792,
+      "center": {
+        "lat": 52.4278007,
+        "lon": -1.8905986
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469415648,
+      "center": {
+        "lat": 52.4284105,
+        "lon": -1.891807
+      },
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 543920871,
+      "center": {
+        "lat": 52.4285126,
+        "lon": -1.8921773
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 557735265,
+      "center": {
+        "lat": 52.4273325,
+        "lon": -1.8889628
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 557735266,
+      "center": {
+        "lat": 52.4270496,
+        "lon": -1.8885028
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 557735267,
+      "center": {
+        "lat": 52.4271897,
+        "lon": -1.8891393
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665716733,
+      "center": {
+        "lat": 52.4290304,
+        "lon": -1.8902253
+      },
+      "tags": {
+        "designation": "public_footpath",
+        "highway": "footway",
+        "name": "Alcester Gardens",
+        "prow_ref": "Birmingham FP 1088",
+        "source:prow_ref": "birmingham_city_council_prow_gis_data"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1229267133,
+      "center": {
+        "lat": 52.4280176,
+        "lon": -1.8928685
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1230541475,
+      "center": {
+        "lat": 52.428139,
+        "lon": -1.8922167
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22959373,
+      "center": {
+        "lat": 52.4331369,
+        "lon": -1.9012735
+      },
+      "tags": {
+        "foot": "yes",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43593363,
+      "center": {
+        "lat": 52.4355768,
+        "lon": -1.9033339
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55178918,
+      "center": {
+        "lat": 52.4365286,
+        "lon": -1.9024404
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "dirt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621877,
+      "center": {
+        "lat": 52.4334947,
+        "lon": -1.9032861
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621883,
+      "center": {
+        "lat": 52.4327408,
+        "lon": -1.9035922
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469464041,
+      "center": {
+        "lat": 52.4323797,
+        "lon": -1.9020898
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469464043,
+      "center": {
+        "lat": 52.4325326,
+        "lon": -1.9016238
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "compacted"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469464045,
+      "center": {
+        "lat": 52.4328483,
+        "lon": -1.901572
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469466908,
+      "center": {
+        "lat": 52.4333592,
+        "lon": -1.9012472
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469466910,
+      "center": {
+        "lat": 52.4334139,
+        "lon": -1.9009829
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648678,
+      "center": {
+        "lat": 52.4327905,
+        "lon": -1.9013628
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648679,
+      "center": {
+        "lat": 52.4328663,
+        "lon": -1.9014007
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648680,
+      "center": {
+        "lat": 52.4324371,
+        "lon": -1.9014141
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648681,
+      "center": {
+        "lat": 52.4321478,
+        "lon": -1.9018806
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648682,
+      "center": {
+        "lat": 52.4322313,
+        "lon": -1.9020865
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610648687,
+      "center": {
+        "lat": 52.4322442,
+        "lon": -1.9015215
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610649337,
+      "center": {
+        "lat": 52.4326721,
+        "lon": -1.9052416
+      },
+      "tags": {
+        "highway": "path"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610649338,
+      "center": {
+        "lat": 52.4330803,
+        "lon": -1.9047545
+      },
+      "tags": {
+        "highway": "path"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203833299,
+      "center": {
+        "lat": 52.4378004,
+        "lon": -1.9030935
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "dirt",
+        "width": "2 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225529496,
+      "center": {
+        "lat": 52.436412,
+        "lon": -1.9018252
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "grass",
+        "width": "0.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1227394745,
+      "center": {
+        "lat": 52.4343406,
+        "lon": -1.9026818
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25512696,
+      "center": {
+        "lat": 52.4385113,
+        "lon": -1.8977947
+      },
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "segregated": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "width": "2 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55621894,
+      "center": {
+        "lat": 52.4329918,
+        "lon": -1.90064
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203833296,
+      "center": {
+        "lat": 52.4384881,
+        "lon": -1.90256
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "dirt",
+        "width": "1.5 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203833297,
+      "center": {
+        "lat": 52.4391158,
+        "lon": -1.901019
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "dirt",
+        "width": "1 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32636054,
+      "center": {
+        "lat": 52.4383767,
+        "lon": -1.8980987
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32636055,
+      "center": {
+        "lat": 52.4384198,
+        "lon": -1.898421
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143951340,
+      "center": {
+        "lat": 52.4382504,
+        "lon": -1.8983688
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266166,
+      "center": {
+        "lat": 52.4357346,
+        "lon": -1.8955842
+      },
+      "tags": {
+        "bcc20mphproject": "Cabinet Brief BCR 1A RevA",
+        "highway": "path",
+        "maxspeed": "20 mph",
+        "name": "Grange Road",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266171,
+      "center": {
+        "lat": 52.4339743,
+        "lon": -1.8995537
+      },
+      "tags": {
+        "highway": "path",
+        "maxspeed": "20 mph",
+        "name": "Highbury Road",
+        "postal_code": "B14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266173,
+      "center": {
+        "lat": 52.4336174,
+        "lon": -1.8949149
+      },
+      "tags": {
+        "highway": "path",
+        "maxspeed": "20 mph",
+        "name": "Silver Street",
+        "postal_code": "B14",
+        "source": "survey",
+        "source:maxspeed": "survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053837632,
+      "center": {
+        "lat": 52.433593,
+        "lon": -1.8976155
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327513554,
+      "center": {
+        "lat": 52.4379193,
+        "lon": -1.89747
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "dirt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10602788,
+      "center": {
+        "lat": 52.4343621,
+        "lon": -1.8937017
+      },
+      "tags": {
+        "created_by": "JOSM",
+        "highway": "footway",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23713376,
+      "center": {
+        "lat": 52.4347324,
+        "lon": -1.8917054
+      },
+      "tags": {
+        "highway": "footway",
+        "name": "Queens Avenue",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23713377,
+      "center": {
+        "lat": 52.4347296,
+        "lon": -1.8913444
+      },
+      "tags": {
+        "highway": "footway",
+        "name": "Cheshunt Place",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53369058,
+      "center": {
+        "lat": 52.4349198,
+        "lon": -1.8936241
+      },
+      "tags": {
+        "highway": "footway",
+        "name": "Milford Place",
+        "postal_code": "B14",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53531094,
+      "center": {
+        "lat": 52.4351508,
+        "lon": -1.8931087
+      },
+      "tags": {
+        "highway": "footway",
+        "name": "Kings Court"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133739682,
+      "center": {
+        "lat": 52.4328536,
+        "lon": -1.8932575
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "source": "visual survey;estimate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133739688,
+      "center": {
+        "lat": 52.432926,
+        "lon": -1.8936954
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "source": "visual survey;estimate",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 966449513,
+      "center": {
+        "lat": 52.4323485,
+        "lon": -1.8933248
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266168,
+      "center": {
+        "lat": 52.4373323,
+        "lon": -1.8936417
+      },
+      "tags": {
+        "bcc20mphproject": "Cabinet Brief BCR 1A RevA",
+        "gritting": "priority_3",
+        "highway": "path",
+        "lit": "yes",
+        "maintenance": "gritting",
+        "maxspeed": "20 mph",
+        "name": "Station Road",
+        "postal_code": "B14",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266180,
+      "center": {
+        "lat": 52.4363817,
+        "lon": -1.8905478
+      },
+      "tags": {
+        "bcc20mphproject": "Cabinet Brief BCR 1A RevA",
+        "highway": "path",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Poplar Road",
+        "postal_code": "B14",
+        "source": "survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 983266181,
+      "center": {
+        "lat": 52.4363735,
+        "lon": -1.8905745
+      },
+      "tags": {
+        "bcc20mphproject": "Cabinet Brief BCR 1A RevA",
+        "highway": "path",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Poplar Road",
+        "postal_code": "B14",
+        "source": "survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203337521,
+      "center": {
+        "lat": 52.435206,
+        "lon": -1.8923187
+      },
+      "tags": {
+        "bicycle": "yes",
+        "highway": "footway",
+        "surface": "concrete",
+        "width": "1 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1204317557,
+      "center": {
+        "lat": 52.4363109,
+        "lon": -1.892836
+      },
+      "tags": {
+        "highway": "footway",
+        "horse": "no",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226236075,
+      "center": {
+        "lat": 52.4330122,
+        "lon": -1.8936008
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10602789,
+      "center": {
+        "lat": 52.4345337,
+        "lon": -1.8937452
+      },
+      "tags": {
+        "bcc20mphproject": "Cabinet Brief BCR 1A RevA",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "York Road",
+        "postal_code": "B14",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24854418,
+      "center": {
+        "lat": 52.4394343,
+        "lon": -1.899507
+      },
+      "tags": {
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133739678,
+      "center": {
+        "lat": 52.4328253,
+        "lon": -1.8935419
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "source": "visual survey;estimate",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133739686,
+      "center": {
+        "lat": 52.4327616,
+        "lon": -1.8936172
+      },
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "visual survey;estimate",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143951341,
+      "center": {
+        "lat": 52.4385173,
+        "lon": -1.897463
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203335108,
+      "center": {
+        "lat": 52.4413751,
+        "lon": -1.8946257
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "concrete",
+        "width": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203983555,
+      "center": {
+        "lat": 52.4409675,
+        "lon": -1.894189
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "concrete",
+        "width": "4 m"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311892579,
+      "center": {
+        "lat": 52.438913,
+        "lon": -1.8874245
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143951338,
+      "center": {
+        "lat": 52.4408749,
+        "lon": -1.8984528
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "survey",
+        "surface": "ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225202397,
+      "center": {
+        "lat": 52.4389982,
+        "lon": -1.8986539
+      },
+      "tags": {
+        "highway": "path",
+        "surface": "dirt",
+        "width": "0.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203871711,
+      "center": {
+        "lat": 52.4408381,
+        "lon": -1.8935194
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "surface": "concrete",
+        "width": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203871712,
+      "center": {
+        "lat": 52.4402545,
+        "lon": -1.8931932
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "surface": "concrete",
+        "width": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226233009,
+      "center": {
+        "lat": 52.4393949,
+        "lon": -1.8938524
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226233010,
+      "center": {
+        "lat": 52.4396115,
+        "lon": -1.8933528
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226233012,
+      "center": {
+        "lat": 52.4396038,
+        "lon": -1.8931634
+      },
+      "tags": {
+        "access": "no",
+        "bicycle": "no",
+        "description": "Currently unaccessible due to construction work",
+        "foot": "no",
+        "highway": "path",
+        "horse": "no",
+        "motor_vehicle": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226631608,
+      "center": {
+        "lat": 52.441017,
+        "lon": -1.8934255
+      },
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311892577,
+      "center": {
+        "lat": 52.4390353,
+        "lon": -1.8875724
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311892578,
+      "center": {
+        "lat": 52.4390007,
+        "lon": -1.8876381
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311892580,
+      "center": {
+        "lat": 52.4391766,
+        "lon": -1.8876973
+      },
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1458785965,
+      "center": {
+        "lat": 52.4393434,
+        "lon": -1.8929067
+      },
+      "tags": {
+        "access": "no",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1458785966,
+      "center": {
+        "lat": 52.4392968,
+        "lon": -1.892722
+      },
+      "tags": {
+        "access": "no",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1458785967,
+      "center": {
+        "lat": 52.4395038,
+        "lon": -1.8930076
+      },
+      "tags": {
+        "access": "no",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1458785968,
+      "center": {
+        "lat": 52.4393021,
+        "lon": -1.892838
+      },
+      "tags": {
+        "access": "no",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1458785969,
+      "center": {
+        "lat": 52.4393774,
+        "lon": -1.8929631
+      },
+      "tags": {
+        "access": "no",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 99468394,
+      "center": {
+        "lat": 52.4256947,
+        "lon": -1.8800853
+      },
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502547740,
+      "center": {
+        "lat": 52.4267331,
+        "lon": -1.8804557
+      },
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 78046170,
+      "center": {
+        "lat": 52.4293543,
+        "lon": -1.8823706
+      },
+      "tags": {
+        "highway": "footway",
+        "source": "visual survey; estimate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469417071,
+      "center": {
+        "lat": 52.429314,
+        "lon": -1.8870411
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 543920869,
+      "center": {
+        "lat": 52.4293858,
+        "lon": -1.8865563
+      },
+      "tags": {
+        "highway": "path"
+      }
+    },
+    {
+      "type": "way",
+      "id": 545009143,
+      "center": {
+        "lat": 52.4289541,
+        "lon": -1.8837493
+      },
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1229266612,
+      "center": {
+        "lat": 52.4277308,
+        "lon": -1.8872939
+      },
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1226625432,
+      "center": {
+        "lat": 52.440216,
+        "lon": -1.8868294
+      },
+      "tags": {
+        "highway": "footway",
+        "lit": "yes",
+        "name": "LTN",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}
